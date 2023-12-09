@@ -1,0 +1,113 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-06T04:43:19.156+01:00</Created>
+        <LastChange>2023-11-09T21:14:01.033+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61175336" pageNr="25" tsid="139200140" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=BFLOFCSAXLPACHVBLEWPQSNH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MUQAVYVCHKTNRYPSGSWQCMRC" imageId="49447238" />
+    </Metadata>
+    <Page imageFilename="0025_JUST1-635m36d.jpeg" imageWidth="1152" imageHeight="425">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697999245" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1135,421 3,421 3,6 1135,6" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3,39 621,47 1122,34 1122,4 621,17 3,9" />
+                <Baseline points="3,32 621,40 1122,27" />
+                <TextEquiv>
+                    <Unicode>Quidam lohes molendinar de Sprotton noctanter venit ad molendinu suu apud Haldenby, anno regni reg </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:1;}">
+                <Coords points="18,76 219,78 625,78 1107,69 1107,39 625,48 219,48 18,46" />
+                <Baseline points="18,69 219,71 625,71 1107,62" />
+                <TextEquiv>
+                    <Unicode>E. pris etc. quinto et inuenit quosdam Waltm le Pilede et Simon fil Stephi de Keylmerssh burgantes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:2;}">
+                <Coords points="19,111 389,111 692,111 930,106 1121,98 1121,68 930,76 692,81 389,81 19,81" />
+                <Baseline points="19,104 389,104 692,104 930,99 1121,91" />
+                <TextEquiv>
+                    <Unicode>molendinum predictum. qui quide Walters et Simon in ipm Iohem insultu fecerunt, et predictus lohes hoc perpendens percussit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:3;}">
+                <Coords points="25,144 566,140 970,138 1117,132 1117,102 970,108 566,110 25,114" />
+                <Baseline points="25,137 566,133 970,131 1117,125" />
+                <TextEquiv>
+                    <Unicode>dcu Waltm cu quoda baclo in capite quod statim inde obit, et predictum Simone cepit et ligauit et duxit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:4;}">
+                <Coords points="19,176 394,176 761,172 960,168 1125,162 1125,132 960,138 761,142 394,146 19,146" />
+                <Baseline points="19,169 394,169 761,165 960,161 1125,155" />
+                <TextEquiv>
+                    <Unicode>apud Norht et ipm ibide libauit in custodia lohis de Wileby tunc vic etc. Ideo re. ten terrar etc. quo deuenit etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_72" custom="readingOrder {index:5;}">
+                <Coords points="19,210 519,209 821,201 1121,195 1121,165 821,171 519,179 19,180" />
+                <Baseline points="19,203 519,202 821,194 1121,188" />
+                <TextEquiv>
+                    <Unicode>Et iur testa quod predictus Iohes molendinar obit Ideo nich vlterius de eo. Prmus inuentor obit &#8211; Postea </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:6;}">
+                <Coords points="19,246 355,242 763,233 939,229 1122,227 1122,197 939,199 763,203 355,212 19,216" />
+                <Baseline points="19,239 355,235 763,226 939,222 1122,220" />
+                <TextEquiv>
+                    <Unicode>compertum est per rotlos . H. Spigurnel, et socor suorum justicum etc. ad gaola castri Norht deliberand assign, quod predictus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_94" custom="readingOrder {index:7;}">
+                <Coords points="17,279 370,273 687,267 1112,259 1112,229 687,237 370,243 17,249" />
+                <Baseline points="17,272 370,266 687,260 1112,252" />
+                <TextEquiv>
+                    <Unicode>Simon deuenit probator coram coron etc., et postea ductus cor eisde Iustic, etc. Et ques fuit ab eo si sequi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_104" custom="readingOrder {index:8;}">
+                <Coords points="23,307 302,306 609,299 928,296 1124,289 1124,259 928,266 609,269 302,276 23,277" />
+                <Baseline points="23,300 302,299 609,292 928,289 1124,282" />
+                <TextEquiv>
+                    <Unicode>voluisset appellu etc. qui dixit, quod clicus fuit, et non potuit sine ordinar responder etc. per quod tanqam clicus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_116" custom="readingOrder {index:9;}">
+                <Coords points="19,336 397,335 739,332 979,326 1121,322 1121,292 979,296 739,302 397,305 19,306" />
+                <Baseline points="19,329 397,328 739,325 979,319 1121,315" />
+                <TextEquiv>
+                    <Unicode>couictus liberatus fuit in custodia Nichi de Segraue tunc constabulari castri Norht etc. pro deftuordinar. Ideo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_128" custom="readingOrder {index:10;}">
+                <Coords points="22,366 398,362 662,362 923,362 1115,353 1115,323 923,332 662,332 398,332 22,336" />
+                <Baseline points="22,359 398,355 662,355 923,355 1115,346" />
+                <TextEquiv>
+                    <Unicode>r. ten terrar predicti Nichi quo deuen etc. Et non est aliquis qui ven responsr pro predicto Nicho nec compert </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_140" custom="readingOrder {index:11;}">
+                <Coords points="20,394 451,393 745,391 986,390 1125,383 1125,353 986,360 745,361 451,363 20,364" />
+                <Baseline points="20,387 451,386 745,384 986,383 1125,376" />
+                <TextEquiv>
+                    <Unicode>est per rotlos coron quod obiit in prsona. Ideo ad iudiu de euas ipsius Simon super predictos tenent etc. Et postqam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_152" custom="readingOrder {index:12;}">
+                <Coords points="22,421 602,418 602,388 22,391" />
+                <Baseline points="22,414 602,411" />
+                <TextEquiv>
+                    <Unicode>sic euasit fugit et malecr Ideo exia et vtl. Nulla h cat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,71 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-06T04:43:19.298+01:00</Created>
+        <LastChange>2023-11-06T18:19:43.004+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61175337" pageNr="26" tsid="138924086" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=DTSPHCGUBVQQJLGIMNNCBXFS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBJJZOCJAXWDVZAYJLWXPLYD" imageId="49447239" />
+    </Metadata>
+    <Page imageFilename="0026_JUST1-635m37.jpeg" imageWidth="1140" imageHeight="225">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697999406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1138,225 -1,225 -1,5 1138,5" />
+            <TextLine id="l_27" custom="readingOrder {index:0;}">
+                <Coords points="-1,40 284,50 551,57 1125,60 1125,30 551,27 284,20 -1,10" />
+                <Baseline points="-1,33 284,43 551,50 1125,53" />
+                <TextEquiv>
+                    <Unicode>Iohes de Carleton captus fuit pro morte Radi Parleben apud Multon felonice interfecti et liberatus in custodia </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:1;}">
+                <Coords points="3,75 468,91 806,95 1128,98 1128,68 806,65 468,61 3,45" />
+                <Baseline points="3,68 468,84 806,88 1128,91" />
+                <TextEquiv>
+                    <Unicode>Iohis de Wyleby tunc vic, Norht, qui a custodia eiusdem felonice euasit Ideo ad iudiciu de evasione ipsius Iohis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:2;}">
+                <Coords points="5,108 368,123 775,131 1109,131 1109,101 775,101 368,93 5,78" />
+                <Baseline points="5,101 368,116 775,124 1109,124" />
+                <TextEquiv>
+                    <Unicode>de Carleton super Robm de Wileby fil et hered predicti lohis , Et postqam sic euasit posuit se in ecclia Sti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:3;}">
+                <Coords points="6,148 388,157 760,163 1129,164 1129,134 760,133 388,127 6,118" />
+                <Baseline points="6,141 388,150 760,156 1129,157" />
+                <TextEquiv>
+                    <Unicode>Bothi de Brampton et ibidem recogn se interfecisse predictu Radm et abiur regnu Angl coram coron. Cat eius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:4;}">
+                <Coords points="2,177 280,184 595,188 1103,189 1103,159 595,158 280,154 2,147" />
+                <Baseline points="2,170 280,177 595,181 1103,182" />
+                <TextEquiv>
+                    <Unicode>vj. d. vn vic. r. --- Postea compert est per rotlos coron quod predictus Iohes recogn se fregisse prsona castri Norht </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:5;}">
+                <Coords points="3,200 336,204 618,212 893,217 1057,217 1126,219 1126,189 1057,187 893,187 618,182 336,174 3,170" />
+                <Baseline points="3,193 336,197 618,205 893,210 1057,210 1126,212" />
+                <TextEquiv>
+                    <Unicode>et ab ead felon euasisse tempore Nichi de Segaue tuc constabulari castri Norht etc. Ideo ad judm de euas ipsius Iohis super </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:6;}">
+                <Coords points="6,216 274,225 524,230 524,200 274,195 6,186" />
+                <Baseline points="6,209 274,218 524,223" />
+                <TextEquiv>
+                    <Unicode>tenent terr eiusd Nichi, et nich de euas super dcm Robm etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

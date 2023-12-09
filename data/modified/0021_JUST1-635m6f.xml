@@ -1,0 +1,85 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.5.0:model_id=51170:date=06_11_2023_04:46</Creator>
+        <Created>2023-11-06T04:43:18.423+01:00</Created>
+        <LastChange>2023-11-06T17:59:26.638+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61175331" pageNr="21" tsid="138922636" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=QOWMMUAUDXIXVIGZRZEDWUUG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AAZTOZMCIOKRPAEJZINZPYJG" imageId="49447233" />
+    </Metadata>
+    <Page imageFilename="0021_JUST1-635m6f.png" imageWidth="1179" imageHeight="310">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697997202" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="7,-18 1147,-18 1182,269 1073,279 4,319" />
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="19,63 23,63 52,65 82,65 111,63 138,68 170,67 201,67 229,66 259,65 290,66 318,66 347,66 380,65 409,65 435,61 469,62 491,62 508,62 521,61 559,61 585,61 619,62 642,59 668,59 698,56 727,54 757,52 786,52 816,52 845,50 875,50 904,48 933,48 963,48 992,46 1152,43 1152,13 992,16 963,18 933,18 904,18 875,20 845,20 816,22 786,22 757,22 727,24 698,26 668,29 642,29 619,32 585,31 559,31 521,31 508,32 491,32 469,32 435,31 409,35 380,35 347,36 318,36 290,36 259,35 229,36 201,37 170,37 138,38 111,33 82,35 52,35 23,33 19,33" />
+                <Baseline points="19,56 23,56 52,58 82,58 111,56 138,61 170,60 201,60 229,59 259,58 290,59 318,59 347,59 380,58 409,58 435,54 469,55 491,55 508,55 521,54 559,54 585,54 619,55 642,52 668,52 698,49 727,47 757,45 786,45 816,45 845,43 875,43 904,41 933,41 963,41 992,39 1152,36" />
+                <TextEquiv>
+                    <Unicode>Rogerus atte Grene de Magna Dodyngton felonice interfecit quendam Nichm le Roo de Wylebi in campo de Wyleby </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="11,103 23,101 52,97 82,95 111,95 141,95 170,93 200,93 229,93 258,93 288,93 317,93 347,93 376,91 406,91 435,91 465,91 494,93 523,93 553,91 582,91 612,89 641,89 671,89 700,87 729,85 759,85 788,83 818,85 847,83 877,81 906,81 935,81 965,79 994,77 1159,75 1159,45 994,47 965,49 935,51 906,51 877,51 847,53 818,55 788,53 759,55 729,55 700,57 671,59 641,59 612,59 582,61 553,61 523,63 494,63 465,61 435,61 406,61 376,61 347,63 317,63 288,63 258,63 229,63 200,63 170,63 141,65 111,65 82,65 52,67 23,71 11,73" />
+                <Baseline points="11,96 23,94 52,90 82,88 111,88 141,88 170,86 200,86 229,86 258,86 288,86 317,86 347,86 376,84 406,84 435,84 465,84 494,86 523,86 553,84 582,84 612,82 641,82 671,82 700,80 729,78 759,78 788,76 818,78 847,76 877,74 906,74 935,74 965,72 994,70 1159,68" />
+                <TextEquiv>
+                    <Unicode>Et statim post fum captus fuit et ductus ad gaolam castri Norht in custodia Iohis de Wylugby tunc vic Ideo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="7,138 27,137 57,137 86,136 117,132 144,131 174,133 204,131 235,128 264,129 294,127 321,124 351,122 380,120 415,122 442,125 469,123 499,127 531,125 562,123 593,124 619,122 651,120 678,122 707,121 740,120 771,119 796,117 840,116 867,117 891,115 913,114 946,113 972,112 1007,111 1148,107 1148,77 1007,81 972,82 946,83 913,84 891,85 867,87 840,86 796,87 771,89 740,90 707,91 678,92 651,90 619,92 593,94 562,93 531,95 499,97 469,93 442,95 415,92 380,90 351,92 321,94 294,97 264,99 235,98 204,101 174,103 144,101 117,102 86,106 57,107 27,107 7,108" />
+                <Baseline points="7,131 27,130 57,130 86,129 117,125 144,124 174,126 204,124 235,121 264,122 294,120 321,117 351,115 380,113 415,115 442,118 469,116 499,120 531,118 562,116 593,117 619,115 651,113 678,115 707,114 740,113 771,112 796,110 840,109 867,110 891,108 913,107 946,106 972,105 1007,104 1148,100" />
+                <TextEquiv>
+                    <Unicode>respond eius heres quo deuenit. --- Postea ven Robertus fil et heres predicti Iohis et allocutus de predicto prisone quo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="9,167 29,165 58,163 88,162 117,162 147,160 176,160 206,160 235,158 264,156 294,156 323,156 353,156 382,154 412,152 441,152 470,152 500,152 529,154 559,152 588,150 620,147 620,147 651,152 680,150 710,148 739,148 1161,141 1161,111 739,118 710,118 680,120 651,122 620,117 620,117 588,120 559,122 529,124 500,122 470,122 441,122 412,122 382,124 353,126 323,126 294,126 264,126 235,128 206,130 176,130 147,130 117,132 88,132 58,133 29,135 9,137" />
+                <Baseline points="9,160 29,158 58,156 88,155 117,155 147,153 176,153 206,153 235,151 264,149 294,149 323,149 353,149 382,147 412,145 441,145 470,145 500,145 529,147 559,145 588,143 620,140 620,140 651,145 680,143 710,141 739,141 1161,134" />
+                <TextEquiv>
+                    <Unicode>deuen dicit . S quod no potest dedicere quin fuit vic tempore quo predictus Rogerus captus fuit, set dic quod Nichus de Segraue tun </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="9,193 27,193 56,191 86,191 115,189 145,189 174,187 204,187 233,187 262,185 292,185 321,185 351,183 380,181 410,183 439,181 468,183 498,183 527,181 557,181 1156,170 1156,140 557,151 527,151 498,153 468,153 439,151 410,153 380,151 351,153 321,155 292,155 262,155 233,157 204,157 174,157 145,159 115,159 86,161 56,161 27,163 9,163" />
+                <Baseline points="9,186 27,186 56,184 86,184 115,182 145,182 174,180 204,180 233,180 262,178 292,178 321,178 351,176 380,174 410,176 439,174 468,176 498,176 527,174 557,174 1156,163" />
+                <TextEquiv>
+                    <Unicode>temporis fuit constabularies castri Norht et hait custodia om prisonu existenciu in castro predicto. Ita quod idem Rogerus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="9,218 10,221 40,224 69,226 100,226 133,226 160,225 190,222 217,223 247,223 276,221 306,222 337,220 365,216 1159,201 1159,171 365,186 337,190 306,192 276,191 247,193 217,193 190,192 160,195 133,196 100,196 69,196 40,194 10,191 9,188" />
+                <Baseline points="9,211 10,214 40,217 69,219 100,219 133,219 160,218 190,215 217,216 247,216 276,214 306,215 337,213 365,209 1159,194" />
+                <TextEquiv>
+                    <Unicode>nuqm in custodia predicti Iohis deuenit. Et hoc paratus est verificare prout curia etc. Ideo datus est ei dies, die Lune proxa post fm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:6;}">
+                <Coords points="5,257 52,254 125,253 212,253 323,248 426,246 518,244 583,242 663,239 743,238 797,233 843,233 961,230 1057,225 1100,225 1156,224 1173,221 1156,225 1156,195 1173,191 1156,194 1100,195 1057,195 961,200 843,203 797,203 743,208 663,209 583,212 518,214 426,216 323,218 212,223 125,223 52,224 5,227" />
+                <Baseline points="5,250 52,247 125,246 212,246 323,241 426,239 518,237 583,235 663,232 743,231 797,226 843,226 961,223 1057,218 1100,218 1156,217 1173,214 1156,218" />
+                <TextEquiv>
+                    <Unicode>Sti Hillar etc. --- Postea ven Robs fil et hes predicti Iohis de Wilughby et nichil dicit quare de predicto prisone debet exonerari </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_295" custom="readingOrder {index:7;}">
+                <Coords points="11,279 95,279 223,274 345,273 474,275 574,270 689,268 810,267 917,258 1013,255 1102,251 1161,248 1174,247 1174,217 1161,218 1102,221 1013,225 917,228 810,237 689,238 574,240 474,245 345,243 223,244 95,249 11,249" />
+                <Baseline points="11,272 95,272 223,267 345,266 474,268 574,263 689,261 810,260 917,251 1013,248 1102,244 1161,241 1174,240" />
+                <TextEquiv>
+                    <Unicode>Ideo ad iudm de cuasione ipius Rogi super ipm Robtm fil et heredem predicti lohis etc. Postea compertum est per rotlos coron </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_323" custom="readingOrder {index:8;}">
+                <Coords points="13,300 122,301 227,297 361,295 497,294 573,292 573,262 497,264 361,265 227,267 122,271 13,270" />
+                <Baseline points="13,293 122,294 227,290 361,288 497,287 573,285" />
+                <TextEquiv>
+                    <Unicode>quod predictus Rogerus obit in prisona. Ideo nichil de euasione etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

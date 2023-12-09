@@ -1,0 +1,211 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-18T02:42:20.324+01:00</Created>
+        <LastChange>2023-11-18T02:56:16.620+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61608171" pageNr="8" tsid="140083183" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=KQICKOKGDWXNBVARJVURMWVS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZVKQSJWCGFGCJYAOTYAVVSF" imageId="49794263" />
+    </Metadata>
+    <Page imageFilename="0008_JUST1-734m1.jpeg" imageWidth="906" imageHeight="1089">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697993643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="907,1062 25,1086 4,4 886,4" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="11,71 142,68 366,62 629,57 789,53 882,51 882,21 789,23 629,27 366,32 142,38 11,41" />
+                <Baseline points="11,64 142,61 366,55 629,50 789,46 882,44" />
+                <TextEquiv>
+                    <Unicode>Ass venit rec si Willelmus de la Grene Capellanus et Nicholaus frater ejus injuste etc. disseisiverunt Willelmum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:1;}">
+                <Coords points="21,111 146,109 302,105 471,105 655,102 825,93 881,91 881,61 825,63 655,72 471,75 302,75 146,79 21,81" />
+                <Baseline points="21,104 146,102 302,98 471,98 655,95 825,86 881,84" />
+                <TextEquiv>
+                    <Unicode>de Hempton de libero tenemento suo in Alvinneleg' post primam etc. Et unde queritur quod disseisiverunt eum de quatuor </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:2;}">
+                <Coords points="31,151 113,153 163,150 163,120 113,123 31,121" />
+                <Baseline points="31,144 113,146 163,143" />
+                <TextEquiv>
+                    <Unicode>acris terre etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:3;}">
+                <Coords points="28,185 104,185 231,182 470,178 669,171 872,168 872,138 669,141 470,148 231,152 104,155 28,155" />
+                <Baseline points="28,178 104,178 231,175 470,171 669,164 872,161" />
+                <TextEquiv>
+                    <Unicode>Et Willelmus et alii veniunt et dicunt quod predictus Willelmus de Hempton' injuste queritur de predictis quatuor acris terre, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61" custom="readingOrder {index:4;}">
+                <Coords points="30,221 162,217 350,219 441,212 564,211 790,206 854,204 854,174 790,176 564,181 441,182 350,189 162,187 30,191" />
+                <Baseline points="30,214 162,210 350,212 441,205 564,204 790,199 854,197" />
+                <TextEquiv>
+                    <Unicode>quia dicunt quod non posuit in visu suo nisi tantum tres acras terre. Et preterea dictus Willelmus Capellanus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_77" custom="readingOrder {index:5;}">
+                <Coords points="31,261 127,258 334,255 425,248 580,249 723,242 882,240 882,210 723,212 580,219 425,218 334,225 127,228 31,231" />
+                <Baseline points="31,254 127,251 334,248 425,241 580,242 723,235 882,233" />
+                <TextEquiv>
+                    <Unicode>dicit quod de illis tribus acris terre non disseisivit predictum Willelmum de Hempton', quia dicit quod quidam Henricus filius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_93" custom="readingOrder {index:6;}">
+                <Coords points="34,304 138,301 296,294 429,284 577,285 710,280 869,276 869,246 710,250 577,255 429,254 296,264 138,271 34,274" />
+                <Baseline points="34,297 138,294 296,287 429,277 577,278 710,273 869,269" />
+                <TextEquiv>
+                    <Unicode>Willemi de Alwineleg' de bona et pacifica seisina sua ipsum feoffavit de predictis tribus acris terre, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_109" custom="readingOrder {index:7;}">
+                <Coords points="34,347 130,339 286,331 427,319 601,319 601,289 427,289 286,301 130,309 34,317" />
+                <Baseline points="34,340 130,332 286,324 427,312 601,312" />
+                <TextEquiv>
+                    <Unicode>et quod predictus Willelmus de Hempton' nunquam habuit inde aliquam seisinam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_53" custom="readingOrder {index:8;}">
+                <Coords points="29,385 210,376 396,364 603,355 860,343 860,313 603,325 396,334 210,346 29,355" />
+                <Baseline points="29,378 210,369 396,357 603,348 860,336" />
+                <TextEquiv>
+                    <Unicode>Et Willelmus de Hempton' bene cognoscit quod predictus Henricus filius Willelmi aliquo tempore fecerat predicto </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_65" custom="readingOrder {index:9;}">
+                <Coords points="33,422 168,421 302,407 506,397 729,388 799,384 889,380 889,350 799,354 729,358 506,367 302,377 168,391 33,392" />
+                <Baseline points="33,415 168,414 302,400 506,390 729,381 799,377 889,373" />
+                <TextEquiv>
+                    <Unicode>Willelmo de la Grene quandam cartam de feoffamento de predicta terra, sed dicit quod nunquam aliquam seisinam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_81" custom="readingOrder {index:10;}">
+                <Coords points="36,459 200,456 350,440 511,435 680,426 793,422 888,420 888,390 793,392 680,396 511,405 350,410 200,426 36,429" />
+                <Baseline points="36,452 200,449 350,433 511,428 680,419 793,415 888,413" />
+                <TextEquiv>
+                    <Unicode>inde habuit per predictam cartam. Dicit enim quod predictus Henricus filius Willelmi per longum tempus ante confeccionem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_97" custom="readingOrder {index:11;}">
+                <Coords points="34,499 140,501 224,494 411,479 593,463 714,464 852,457 852,427 714,434 593,433 411,449 224,464 140,471 34,469" />
+                <Baseline points="34,492 140,494 224,487 411,472 593,456 714,457 852,450" />
+                <TextEquiv>
+                    <Unicode>predicte carte dimiserat predictam terram cuidam Henrico de Pirie ad terminum viginti annorum. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_113" custom="readingOrder {index:12;}">
+                <Coords points="32,540 142,540 282,526 432,512 563,503 699,499 872,498 872,468 699,469 563,473 432,482 282,496 142,510 32,510" />
+                <Baseline points="32,533 142,533 282,519 432,505 563,496 699,492 872,491" />
+                <TextEquiv>
+                    <Unicode>Et postea infra terminum illum fecit predicto Willelmo de la Grene predictam cartam absque aliqua seisina </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_129" custom="readingOrder {index:13;}">
+                <Coords points="29,581 136,580 293,567 345,560 473,554 577,541 865,535 865,535 865,505 865,505 577,511 473,524 345,530 293,537 136,550 29,551" />
+                <Baseline points="29,574 136,573 293,560 345,553 473,547 577,534 865,528 865,528" />
+                <TextEquiv>
+                    <Unicode>quam ei inde fecisset. Et postea obit predictus Henricus de Pirie ante finem predicti termini viginti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_147" custom="readingOrder {index:14;}">
+                <Coords points="30,615 136,615 268,604 377,596 533,593 724,580 888,576 888,546 724,550 533,563 377,566 268,574 136,585 30,585" />
+                <Baseline points="30,608 136,608 268,597 377,589 533,586 724,573 888,569" />
+                <TextEquiv>
+                    <Unicode>annorum. Et quod idem Henricus in ultima voluntate sua legavit legavit residuum termini </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_165" custom="readingOrder {index:15;}">
+                <Coords points="27,656 96,658 218,648 387,637 539,637 733,624 895,614 895,584 733,594 539,607 387,607 218,618 96,628 27,626" />
+                <Baseline points="27,649 96,651 218,641 387,630 539,630 733,617 895,607" />
+                <TextEquiv>
+                    <Unicode>sui que endem terram tenuit post mortem predicti Henrici viri sui eodem modo quo idem Henricus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_181" custom="readingOrder {index:16;}">
+                <Coords points="30,696 140,694 299,681 461,673 514,681 763,666 885,663 885,633 763,636 514,651 461,643 299,651 140,664 30,666" />
+                <Baseline points="30,689 140,687 299,674 461,666 514,674 763,659 885,656" />
+                <TextEquiv>
+                    <Unicode>eam tenuit. Et postea quidam Henricus de Morf disponsavit eam et intravit in eandem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_197" custom="readingOrder {index:17;}">
+                <Coords points="31,734 178,731 381,717 569,715 763,711 894,704 894,674 763,681 569,685 381,687 178,701 31,704" />
+                <Baseline points="31,727 178,724 381,710 569,708 763,704 894,697" />
+                <TextEquiv>
+                    <Unicode>seisinam de predicta terra et postea in processu temporis venit predictus Willelmus de Hempton' et tantum fecit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_211" custom="readingOrder {index:18;}">
+                <Coords points="42,776 105,776 273,766 351,759 490,760 626,753 787,750 836,746 892,743 892,713 836,716 787,720 626,723 490,730 351,729 273,736 105,746 42,746" />
+                <Baseline points="42,769 105,769 273,759 351,752 490,753 626,746 787,743 836,739 892,736" />
+                <TextEquiv>
+                    <Unicode>versus predictum Henricum filium Willelmi de Alvineleg' quod idem Henricus ipsum feoffavit de predicta </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_231" custom="readingOrder {index:19;}">
+                <Coords points="42,813 160,810 339,802 507,798 716,790 893,783 893,753 716,760 507,768 339,772 160,780 42,783" />
+                <Baseline points="42,806 160,803 339,795 507,791 716,783 893,776" />
+                <TextEquiv>
+                    <Unicode>terra et cartam suam ei inde fecit per sic quod satisfaceret predicto Henrico de Corf&#8217; firmario </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_245" custom="readingOrder {index:20;}">
+                <Coords points="45,855 161,853 434,840 692,831 894,822 894,792 692,801 434,810 161,823 45,825" />
+                <Baseline points="45,848 161,846 434,833 692,824 894,815" />
+                <TextEquiv>
+                    <Unicode>de termino suo et idem Willelmus de Hempton' tantum fecit versus eundem Henricum de Corf . quod </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_257" custom="readingOrder {index:21;}">
+                <Coords points="47,891 176,894 377,883 613,870 728,868 900,859 900,829 728,838 613,840 377,853 176,864 47,861" />
+                <Baseline points="47,884 176,887 377,876 613,863 728,861 900,852" />
+                <TextEquiv>
+                    <Unicode>idem Henricus remisit ei totum residuum termini sui ita quod tam per predictum Henricum filium Willelmi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_271" custom="readingOrder {index:22;}">
+                <Coords points="43,926 186,928 394,917 646,907 862,899 902,893 902,863 862,869 646,877 394,887 186,898 43,896" />
+                <Baseline points="43,919 186,921 394,910 646,900 862,892 902,886" />
+                <TextEquiv>
+                    <Unicode>feoffatorem suum quam per predictum Henricum de Corf&#8217; firmarium intravit Willemus de Hempton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_285" custom="readingOrder {index:23;}">
+                <Coords points="45,967 144,968 351,958 562,947 873,933 873,903 562,917 351,928 144,938 45,937" />
+                <Baseline points="45,960 144,961 351,951 562,940 873,926" />
+                <TextEquiv>
+                    <Unicode>in seisina predicte terre et remansit in bona et pacifica seisina quousque predicti Willelmus de la </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_297" custom="readingOrder {index:24;}">
+                <Coords points="47,1009 169,1009 357,1000 565,988 763,981 903,975 903,945 763,951 565,958 357,970 169,979 47,979" />
+                <Baseline points="47,1002 169,1002 357,993 565,981 763,974 903,968" />
+                <TextEquiv>
+                    <Unicode>Grene et alii ipsum inde disseisiverunt. Et de hoc ponit se super assisam. Et juratores veniunt et hoc idem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_311" custom="readingOrder {index:25;}">
+                <Coords points="48,1047 125,1046 255,1037 406,1032 523,1027 691,1020 902,1010 902,980 691,990 523,997 406,1002 255,1007 125,1016 48,1017" />
+                <Baseline points="48,1040 125,1039 255,1030 406,1025 523,1020 691,1013 902,1003" />
+                <TextEquiv>
+                    <Unicode>dicunt super sacramentum suum. Et ideo consideratum est quod predictus Willelmus de Hempton' recuperet seisinam suam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_327" custom="readingOrder {index:26;}">
+                <Coords points="46,1088 207,1079 287,1071 438,1070 581,1068 581,1038 438,1040 287,1041 207,1049 46,1058" />
+                <Baseline points="46,1081 207,1072 287,1064 438,1063 581,1061" />
+                <TextEquiv>
+                    <Unicode>per visum recognitorum. Et predicti Willelmus de la Grene et alii in misericordia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

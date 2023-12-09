@@ -1,0 +1,134 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-09T04:59:00.197+01:00</Created>
+        <LastChange>2023-11-20T23:08:29.824+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61295644" pageNr="14" tsid="140253371" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=PBDKCHLRQUNFNKVGDZIAMHVU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VMLODISGATLGWFFQXRDVCXFM" imageId="49558072" />
+    </Metadata>
+    <Page imageFilename="0014_JUST1-635m6.jpeg" imageWidth="1165" imageHeight="397">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697995227" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1153,399 -3,399 -3,4 1153,4" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="14,31 255,33 469,39 756,47 1098,49 1098,19 756,17 469,9 255,3 14,1" />
+                <Baseline points="14,24 255,26 469,32 756,40 1098,42" />
+                <TextEquiv>
+                    <Unicode>Quidam Willelmus le Broun de Assheby Maris indictatus fuit coram Radulfo Bassetet Thoma, Wake conseruatoribus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:1;}">
+                <Coords points="24,60 195,65 347,65 474,67 706,71 889,77 1097,79 1097,49 889,47 706,41 474,37 347,35 195,35 24,30" />
+                <Baseline points="24,53 195,58 347,58 474,60 706,64 889,70 1097,72" />
+                <TextEquiv>
+                    <Unicode>pacis domini regis de diuersis roberiis et latrociniis in comitatu isto per ipsum perpetratis. Et pre timore ne caperetur posuit se in </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:2;}">
+                <Coords points="223,75 298,77 440,79 440,49 298,47 223,45" />
+                <Baseline points="223,68 298,70 440,72" />
+                <TextEquiv>
+                    <Unicode>anno regni regis E. patris etc.  xix</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:3;}">
+                <Coords points="22,95 230,91 414,96 673,101 823,105 962,107 1114,109 1114,79 962,77 823,75 673,71 414,66 230,61 22,65" />
+                <Baseline points="22,88 230,84 414,89 673,94 823,98 962,100 1114,102" />
+                <TextEquiv>
+                    <Unicode>ecclesiam de Assheby Maris et custoditus in eadem per villatam de Assheby quousque idem Willelmus noctanter felonice euasit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:4;}">
+                <Coords points="20,128 152,125 373,130 611,135 911,138 1127,145 1127,115 911,108 611,105 373,100 152,95 20,98" />
+                <Baseline points="20,121 152,118 373,123 611,128 911,131 1127,138" />
+                <TextEquiv>
+                    <Unicode>ab cadem. Ideo ad iudicium de euasione super villatam predictam. Et postquam sic euasit fugit et predicta villata ipsum proseque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_76" custom="readingOrder {index:5;}">
+                <Coords points="16,165 133,163 347,164 567,170 875,174 1108,180 1108,150 875,144 567,140 347,134 133,133 16,135" />
+                <Baseline points="16,158 133,156 347,157 567,163 875,167 1108,173" />
+                <TextEquiv>
+                    <Unicode>batur ad ipsum arrestandum et recapiendum. Et predictus Willelmus semper fugit et de quodam baculo quem habuit et de lapidibus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:6;}">
+                <Coords points="0,205 141,201 311,202 508,202 757,205 967,208 1125,212 1125,182 967,178 757,175 508,172 311,172 141,171 0,175" />
+                <Baseline points="0,198 141,194 311,195 508,195 757,198 967,201 1125,205" />
+                <TextEquiv>
+                    <Unicode>quos inuenit se defendebat in quantum potuit, nolens se paci domini regis reddere. Et in defugiendo versus siluam de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_140" custom="readingOrder {index:7;}">
+                <Coords points="636,219 727,224 825,223 923,228 938,226 938,196 923,198 825,193 727,194 636,189" />
+                <Baseline points="636,212 727,217 825,216 923,221 938,219" />
+                <TextEquiv>
+                    <Unicode>in Assheby Maris que valet per annum iij. S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_161" custom="readingOrder {index:8;}">
+                <Coords points="202,220 280,219 421,218 421,188 280,189 202,190" />
+                <Baseline points="202,213 280,212 421,211" />
+                <TextEquiv>
+                    <Unicode>per Rogerum Aunsel, qui obit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:9;}">
+                <Coords points="10,241 197,238 407,241 665,243 833,238 1003,242 1137,243 1137,213 1003,212 833,208 665,213 407,211 197,208 10,211" />
+                <Baseline points="10,234 197,231 407,234 665,236 833,231 1003,235 1137,236" />
+                <TextEquiv>
+                    <Unicode>Assheby decapitatus fuit Catalla eius. viij. S., vnde vicecomes respondeat. Idem Willelmus habuit terram vnde annus et vastum .vj. s. . lij. d. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_155" custom="readingOrder {index:10;}">
+                <Coords points="620,261 673,261 673,231 620,231" />
+                <Baseline points="620,254 673,254" />
+                <TextEquiv>
+                    <Unicode>preteritis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_122" custom="readingOrder {index:11;}">
+                <Coords points="2,278 174,278 352,278 497,279 660,277 810,277 1033,281 1139,281 1139,251 1033,251 810,247 660,247 497,249 352,248 174,248 2,248" />
+                <Baseline points="2,271 174,271 352,271 497,272 660,270 810,270 1033,274 1139,274" />
+                <TextEquiv>
+                    <Unicode>et de exitibus terre eiusdem per medium tempus .ix. s. pro tribus annis vnde vicecomes respondeat. Et quia Matillis vxor predicti Willelmi cepit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_169" custom="readingOrder {index:12;}">
+                <Coords points="1,315 246,317 492,318 688,317 903,314 1142,313 1142,283 903,284 688,287 492,288 246,287 1,285" />
+                <Baseline points="1,308 246,310 492,311 688,310 903,307 1142,306" />
+                <TextEquiv>
+                    <Unicode>catalla predicta sine waranto, ideo in misericordia. Et villate de Wyleby, Sywell, Barton, et Assheby falso appreciauerunt catalla predicta </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_183" custom="readingOrder {index:13;}">
+                <Coords points="7,353 81,350 140,347 291,350 414,351 599,355 707,351 849,347 918,348 1004,349 1107,345 1151,345 1151,315 1107,315 1004,319 918,318 849,317 707,321 599,325 414,321 291,320 140,317 81,320 7,323" />
+                <Baseline points="7,346 81,343 140,340 291,343 414,344 599,348 707,344 849,340 918,341 1004,342 1107,338 1151,338" />
+                <TextEquiv>
+                    <Unicode>coram coronatore, ideo in misericordia. Et Ricardus Luuel coronator pro concelamento appreciandi catalla predict in misericordia. Postea venit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_208" custom="readingOrder {index:14;}">
+                <Coords points="10,379 116,375 233,371 372,372 498,375 592,377 684,374 773,372 868,375 956,375 1031,374 1148,373 1148,343 1031,344 956,345 868,345 773,342 684,344 592,347 498,345 372,342 233,341 116,345 10,349" />
+                <Baseline points="10,372 116,368 233,364 372,365 498,368 592,370 684,367 773,365 868,368 956,368 1031,367 1148,366" />
+                <TextEquiv>
+                    <Unicode>Elias de Assheburn capitalis dominus terre predicte prout iuratores testantur et fecit finem cum domino rege pro ingressu habendo etc. per .xl. denarios, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_234" custom="readingOrder {index:15;}">
+                <Coords points="12,399 93,396 197,396 290,394 442,397 600,399 719,396 833,397 962,397 962,367 833,367 719,366 600,369 442,367 290,364 197,366 93,366 12,369" />
+                <Baseline points="12,392 93,389 197,389 290,387 442,390 600,392 719,389 833,390 962,390" />
+                <TextEquiv>
+                    <Unicode>per plegium Ricardi de Ketene et Roberti de Catteworth. Ideo nichil de valore eiusdem terre per annum vlterius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

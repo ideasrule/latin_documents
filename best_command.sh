@@ -1,0 +1,1 @@
+ketos --deterministic --seed 40 train -d cuda:0 -f xml data/modified/*.xml --no-augment --quit dumb --epochs 250 --lrate 1e-4 -s "[1,128,0,1 Cr4,16,32 Do0.1,2 Mp2,2 Cr4,16,32 Do0.1,2 Mp2,2 Cr3,8,64 Do0.1,2 Mp2,2 Cr3,8,64 Do0.1,2 S1(1x0)1,3 Lbx256 Do0.3,2 Lbx256 Do0.3,2 Lbx256 Do0.3]" --logger tensorboard --log-dir kraken_logs

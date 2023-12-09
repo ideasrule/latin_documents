@@ -1,0 +1,183 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-22T07:17:35.341+01:00</Created>
+        <LastChange>2023-11-22T07:31:36.139+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61693339" pageNr="2" tsid="140451730" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=FUJJUIYPYUTDOSDJXSVFFRJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SRZRQPQKIPQFZTHTMIXVMTQD" imageId="49869938" />
+    </Metadata>
+    <Page imageFilename="0002_JUST1-734m5.jpeg" imageWidth="1007" imageHeight="959">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697992192" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1005,944 26,943 16,3 1005,3" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="17,54 110,52 331,35 525,34 825,35 990,35 990,5 825,5 525,4 331,5 110,22 17,24" />
+                <Baseline points="17,47 110,45 331,28 525,27 825,28 990,28" />
+                <TextEquiv>
+                    <Unicode>&#182; Ass venit rec si Colemanus de Ludelawe avunculus Colemanni de Ludelawe fuit seisitus in dominico suo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:1;}">
+                <Coords points="36,82 164,83 296,67 447,67 577,70 687,64 768,69 889,72 992,70 992,40 889,42 768,39 687,34 577,40 447,37 296,37 164,53 36,52" />
+                <Baseline points="36,75 164,76 296,60 447,60 577,63 687,57 768,62 889,65 992,63" />
+                <TextEquiv>
+                    <Unicode>etc. de uno mesuagio et xliii acris terre cum pertinenciis in Sete et dimidia virgata terre cum pertinenciis in Westlinton et uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:2;}">
+                <Coords points="32,120 73,120 208,113 405,101 607,96 774,99 895,102 998,104 998,74 895,72 774,69 607,66 405,71 208,83 73,90 32,90" />
+                <Baseline points="32,113 73,113 208,106 405,94 607,89 774,92 895,95 998,97" />
+                <TextEquiv>
+                    <Unicode>mesuagio et duabus acris terre cum pertinenciis in Stokes die quo obilt etc. et si etc. Unde Adam de Stok unum mesuagium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:3;}">
+                <Coords points="37,156 123,154 246,144 419,136 564,136 786,136 979,142 979,112 786,106 564,106 419,106 246,114 123,124 37,126" />
+                <Baseline points="37,149 123,147 246,137 419,129 564,129 786,129 979,135" />
+                <TextEquiv>
+                    <Unicode>et duas acras terre. Willemus Coterel quinque acras terre. Simon Holegod unum mesuagium. Henrieus Melde unam acram. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_76" custom="readingOrder {index:4;}">
+                <Coords points="34,205 130,195 264,188 470,173 658,176 815,179 982,183 982,153 815,149 658,146 470,143 264,158 130,165 34,175" />
+                <Baseline points="34,198 130,188 264,181 470,166 658,169 815,172 982,176" />
+                <TextEquiv>
+                    <Unicode>Herbertus de Ledewych decem acras terre et dimidiam. Juliana que fuit uxor Coleman septem acras. Alicia Meyle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_94" custom="readingOrder {index:5;}">
+                <Coords points="37,243 216,225 343,219 426,218 566,223 771,216 898,218 992,225 992,195 898,188 771,186 566,193 426,188 343,189 216,195 37,213" />
+                <Baseline points="37,236 216,218 343,212 426,211 566,216 771,209 898,211 992,218" />
+                <TextEquiv>
+                    <Unicode>unam acram. Hisolda la Nune sex acras. Magister Hospitalis Sancti Johannis de Ludelawe decem acras terre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_112" custom="readingOrder {index:6;}">
+                <Coords points="34,282 158,271 315,261 468,257 618,259 733,257 825,261 997,263 997,233 825,231 733,227 618,229 468,227 315,231 158,241 34,252" />
+                <Baseline points="34,275 158,264 315,254 468,250 618,252 733,250 825,254 997,256" />
+                <TextEquiv>
+                    <Unicode>et dimidiam. Adam filius David et Rogerus frater ejus tres acras Stephanus le Walsse dimidiam virgatam terre inde tenent. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_130" custom="readingOrder {index:7;}">
+                <Coords points="32,319 114,310 150,309 429,297 590,298 656,304 689,306 804,303 864,308 996,308 996,278 864,278 804,273 689,276 656,274 590,268 429,267 150,279 114,280 32,289" />
+                <Baseline points="32,312 114,303 150,302 429,290 590,291 656,297 689,299 804,296 864,301 996,301" />
+                <TextEquiv>
+                    <Unicode>Et Adam de Stok et Isolda la Nune non veniunt. set omnes alii veniunt. Et Adam et Isolda fuerunt resummoniti. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_152" custom="readingOrder {index:8;}">
+                <Coords points="33,353 95,348 235,344 392,341 561,337 674,343 785,342 990,345 990,315 785,312 674,313 561,307 392,311 235,314 95,318 33,323" />
+                <Baseline points="33,346 95,341 235,337 392,334 561,330 674,336 785,335 990,338" />
+                <TextEquiv>
+                    <Unicode>Ideo capiatur assisa versus eos per defaltam. Et Juliana que fuit uxor Colemani dicit quod predictus Coleman injuste tulit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_170" custom="readingOrder {index:9;}">
+                <Coords points="34,389 136,385 256,382 396,374 511,372 652,377 825,386 998,390 998,360 825,356 652,347 511,342 396,344 256,352 136,355 34,359" />
+                <Baseline points="34,382 136,378 256,375 396,367 511,365 652,370 825,379 998,383" />
+                <TextEquiv>
+                    <Unicode>assisam istam versus eam quia dicit quod ipsa tenet terram versus eam petitam nomine dotis. Dicit enim quod ipsa fuit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_188" custom="readingOrder {index:10;}">
+                <Coords points="36,431 104,432 236,428 441,426 604,424 737,429 876,430 992,427 992,397 876,400 737,399 604,394 441,396 236,398 104,402 36,401" />
+                <Baseline points="36,424 104,425 236,421 441,419 604,417 737,422 876,423 992,420" />
+                <TextEquiv>
+                    <Unicode>uxor predicti Colemanni avunculi predicti Colemanni et dicit quod predicta terra versus eam petita post mortem ipsius Colemanni </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_206" custom="readingOrder {index:11;}">
+                <Coords points="33,475 121,473 242,473 364,471 484,466 514,471 605,467 754,471 974,470 974,440 754,441 605,437 514,441 484,436 364,441 242,443 121,443 33,445" />
+                <Baseline points="33,468 121,466 242,466 364,464 484,459 514,464 605,460 754,464 974,463" />
+                <TextEquiv>
+                    <Unicode>quondam viri sui fuit terra illa ei assignata in dotem ut illam que eam contingit de libero tenemento quod fuit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_228" custom="readingOrder {index:12;}">
+                <Coords points="37,515 102,519 277,511 503,510 660,509 694,511 736,513 858,516 972,515 972,485 858,486 736,483 694,481 660,479 503,480 277,481 102,489 37,485" />
+                <Baseline points="37,508 102,512 277,504 503,503 660,502 694,504 736,506 858,509 972,508" />
+                <TextEquiv>
+                    <Unicode>predicti Colemanni viri sui. Unde dicit quod idem Colemannus le Blund est warantus predicte dotissue ita quod si </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_248" custom="readingOrder {index:13;}">
+                <Coords points="33,554 99,558 304,553 542,549 640,551 744,556 897,552 982,551 982,521 897,522 744,526 640,521 542,519 304,523 99,528 33,524" />
+                <Baseline points="33,547 99,551 304,546 542,542 640,544 744,549 897,545 982,544" />
+                <TextEquiv>
+                    <Unicode>alius ipsam inde inplacitaret teneretur ei warantizare. Et predictus Colemannus le Blund non potest hoc </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_268" custom="readingOrder {index:14;}">
+                <Coords points="37,593 160,598 293,594 499,592 590,591 679,597 799,597 963,595 963,565 799,567 679,567 590,561 499,562 293,564 160,568 37,563" />
+                <Baseline points="37,586 160,591 293,587 499,585 590,584 679,590 799,590 963,588" />
+                <TextEquiv>
+                    <Unicode>dedicere Et ideo consideratum est quod predicta Juliana inde sine die Et quod predictus Colemannus quo ad hoc nichil capiat per </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_286" custom="readingOrder {index:15;}">
+                <Coords points="37,639 141,638 320,638 441,635 584,635 728,638 819,640 991,641 991,611 819,610 728,608 584,605 441,605 320,608 141,608 37,609" />
+                <Baseline points="37,632 141,631 320,631 441,628 584,628 728,631 819,633 991,634" />
+                <TextEquiv>
+                    <Unicode>assisam istam et sit in misericordia pro falso clamore Et predictus Willelmus et omnes alii dicunt quod predictus Colemannus injuste </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_304" custom="readingOrder {index:16;}">
+                <Coords points="45,682 145,684 267,681 456,683 601,682 713,683 741,688 799,684 987,686 987,656 799,654 741,658 713,653 601,652 456,653 267,651 145,654 45,652" />
+                <Baseline points="45,675 145,677 267,674 456,676 601,675 713,676 741,681 799,677 987,679" />
+                <TextEquiv>
+                    <Unicode>tulit assisam istam quia dicunt quod predictus Colemannus avunculus ipsius Colemanni non obit seisitus de predictis tenementis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_326" custom="readingOrder {index:17;}">
+                <Coords points="43,722 172,726 372,729 561,728 735,728 1003,725 1003,695 735,698 561,698 372,699 172,696 43,692" />
+                <Baseline points="43,715 172,719 372,722 561,721 735,721 1003,718" />
+                <TextEquiv>
+                    <Unicode>dicunt enim quod idem Colemannus per longum tempus ante mortem suam tenementa illa dedit et concessit cuidam Colemanno </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_340" custom="readingOrder {index:18;}">
+                <Coords points="35,770 113,772 254,771 480,770 640,768 811,772 970,771 970,741 811,742 640,738 480,740 254,741 113,742 35,740" />
+                <Baseline points="35,763 113,765 254,764 480,763 640,761 811,765 970,764" />
+                <TextEquiv>
+                    <Unicode>filio suo qui fuit inde in seisina et postea tenementa illa dedit et concessit ipsi Willelmo et aliis prenominatis Et de hoc </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_358" custom="readingOrder {index:19;}">
+                <Coords points="36,805 117,812 215,809 215,779 117,782 36,775" />
+                <Baseline points="36,798 117,805 215,802" />
+                <TextEquiv>
+                    <Unicode>ponit se super assisam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_366" custom="readingOrder {index:20;}">
+                <Coords points="32,849 137,853 332,857 497,866 636,863 687,861 741,859 887,852 976,851 976,821 887,822 741,829 687,831 636,833 497,836 332,827 137,823 32,819" />
+                <Baseline points="32,842 137,846 332,850 497,859 636,856 687,854 741,852 887,845 976,844" />
+                <TextEquiv>
+                    <Unicode>Juratores dicunt quod predictus Colemannus avunculus predicti Colemanni de cujus morte assisa arramiata est obiit seisitus in </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_386" custom="readingOrder {index:21;}">
+                <Coords points="38,893 150,897 272,893 385,898 546,900 575,900 630,900 762,898 890,892 1005,888 1005,858 890,862 762,868 630,870 575,870 546,870 385,868 272,863 150,867 38,863" />
+                <Baseline points="38,886 150,890 272,886 385,891 546,893 575,893 630,893 762,891 890,885 1005,881" />
+                <TextEquiv>
+                    <Unicode>dominico suo ut de feodo de omnibus predictis tenementis et post terminum et quod predictus Colemannus le Blund propinquior heres </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_408" custom="readingOrder {index:22;}">
+                <Coords points="40,930 208,933 500,936 781,940 953,933 995,933 995,903 953,903 781,910 500,906 208,903 40,900" />
+                <Baseline points="40,923 208,926 500,929 781,933 953,926 995,926" />
+                <TextEquiv>
+                    <Unicode>ejus est Et ideo consideratum est quod predictus Colemannus recuperet seisinam suam etWillelmus Coterel et omnes alii in misericordia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

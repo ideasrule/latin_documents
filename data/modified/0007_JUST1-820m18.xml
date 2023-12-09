@@ -1,0 +1,260 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-18T02:56:47.178+01:00</Created>
+        <LastChange>2023-11-18T03:14:47.163+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61608173" pageNr="7" tsid="140083615" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=PGHJEULRTNWYGXZLMJTRQYFZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MMXNWRRBDTULLPIHMWUBJBPX" imageId="49794264" />
+    </Metadata>
+    <Page imageFilename="0007_JUST1-820m18.jpeg" imageWidth="1000" imageHeight="1285">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697993394" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="974,1202 3,1205 2,1 982,7" />
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="6,73 190,66 377,57 398,49 460,49 563,41 634,38 726,40 821,37 821,7 726,10 634,8 563,11 460,19 398,19 377,27 190,36 6,43" />
+                <Baseline points="6,66 190,59 377,50 398,42 460,42 563,34 634,31 726,33 821,30" />
+                <TextEquiv>
+                    <Unicode>Ricardus de Assewell et Thomas le Bygot in misericordia pro pluribus defaltis versus Hugonem de Vywn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:1;}">
+                <Coords points="16,115 155,109 319,99 474,86 572,80 713,75 833,64 940,70 940,40 833,34 713,45 572,50 474,56 319,69 155,79 16,85" />
+                <Baseline points="16,108 155,102 319,92 474,79 572,73 713,68 833,57 940,63" />
+                <TextEquiv>
+                    <Unicode>Iidem Ricardus et Thomas, Gilbertus le Clerk et Galfridus le Neir attachiati fuerunt ad respondendum Hugoni de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:2;}">
+                <Coords points="23,146 147,142 272,132 403,127 471,119 566,113 771,101 888,99 962,102 962,72 888,69 771,71 566,83 471,89 403,97 272,102 147,112 23,116" />
+                <Baseline points="23,139 147,135 272,125 403,120 471,112 566,106 771,94 888,92 962,95" />
+                <TextEquiv>
+                    <Unicode>Vywn de placito quare cum judicia et execuciones judiciorum de malefactoribus captis infra libertatem ipsius Hugonis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:3;}">
+                <Coords points="19,182 149,176 349,162 596,149 774,141 951,139 951,109 774,111 596,119 349,132 149,146 19,152" />
+                <Baseline points="19,175 149,169 349,155 596,142 774,134 951,132" />
+                <TextEquiv>
+                    <Unicode>de Norton ad ipsum Hugonem pertineant, idem Ricardus et alii libertatem illam ingressi sunt et quemdam latronem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_80" custom="readingOrder {index:4;}">
+                <Coords points="15,215 189,204 360,198 585,186 766,179 891,180 975,181 975,151 891,150 766,149 585,156 360,168 189,174 15,185" />
+                <Baseline points="15,208 189,197 360,191 585,179 766,172 891,173 975,174" />
+                <TextEquiv>
+                    <Unicode>ibidem captum et inprisonatum ceperunt et abduxerunt in prejudicium ipsius Hugonis et libertatis sue predicte contra pacem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_96" custom="readingOrder {index:5;}">
+                <Coords points="14,247 173,238 371,230 503,226 623,216 744,210 882,211 977,213 977,183 882,181 744,180 623,186 503,196 371,200 173,208 14,217" />
+                <Baseline points="14,240 173,231 371,223 503,219 623,209 744,203 882,204 977,206" />
+                <TextEquiv>
+                    <Unicode>domini Regis. Et unde predictus Hugo per attornatum suum queritur quod cum ad ipsum pertineant judicia et execuciones judiciorum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_114" custom="readingOrder {index:6;}">
+                <Coords points="17,277 188,270 490,257 704,243 757,245 782,246 913,241 969,243 969,213 913,211 782,216 757,215 704,213 490,227 188,240 17,247" />
+                <Baseline points="17,270 188,263 490,250 704,236 757,238 782,239 913,234 969,236" />
+                <TextEquiv>
+                    <Unicode>de quibuscunque malefactoribus captis infra manerium de Norton ea racione quod Dominus Rex dum predictum manerium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_132" custom="readingOrder {index:7;}">
+                <Coords points="16,311 233,301 435,291 647,283 827,277 974,278 974,248 827,247 647,253 435,261 233,271 16,281" />
+                <Baseline points="16,304 233,294 435,284 647,276 827,270 974,271" />
+                <TextEquiv>
+                    <Unicode>fuit in manu sua fuit in seisina de predicta libertate de quibuscunque malefactoribus captis infra predictum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_146" custom="readingOrder {index:8;}">
+                <Coords points="15,342 109,334 297,324 408,325 553,317 745,314 883,310 976,312 976,282 883,280 745,284 553,287 408,295 297,294 109,304 15,312" />
+                <Baseline points="15,335 109,327 297,317 408,318 553,310 745,307 883,303 976,305" />
+                <TextEquiv>
+                    <Unicode>manerium cum manuopere alicujus latrocinii; et similiter quidam Robertus le Mareschall postquam Johannes Rex pater </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_164" custom="readingOrder {index:9;}">
+                <Coords points="14,373 162,366 316,357 445,353 645,345 769,347 887,345 976,342 976,312 887,315 769,317 645,315 445,323 316,327 162,336 14,343" />
+                <Baseline points="14,366 162,359 316,350 445,346 645,338 769,340 887,338 976,335" />
+                <TextEquiv>
+                    <Unicode>domini Regis nunc feofaverat ipsum de predicto manerio cum omnibus libertatibus et liberis consuetudinibus ad manerium illud </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_182" custom="readingOrder {index:10;}">
+                <Coords points="9,405 168,396 348,389 534,382 774,380 827,379 941,375 941,345 827,349 774,350 534,352 348,359 168,366 9,375" />
+                <Baseline points="9,398 168,389 348,382 534,375 774,373 827,372 941,368" />
+                <TextEquiv>
+                    <Unicode>pertinentibus fuit in seisina de eadem libertate ita quod quendam Hugonem le Bret captum cum manuopere </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_198" custom="readingOrder {index:11;}">
+                <Coords points="11,442 117,436 288,427 546,414 797,410 950,409 950,379 797,380 546,384 288,397 117,406 11,412" />
+                <Baseline points="11,435 117,429 288,420 546,407 797,403 950,402" />
+                <TextEquiv>
+                    <Unicode>cujusdam equi furati in predicto manerio cepit et secundum consuetudinem regni suspendi fecit; et similiter </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_212" custom="readingOrder {index:12;}">
+                <Coords points="9,474 141,471 295,464 435,456 631,446 777,442 947,446 947,416 777,412 631,416 435,426 295,434 141,441 9,444" />
+                <Baseline points="9,467 141,464 295,457 435,449 631,439 777,435 947,439" />
+                <TextEquiv>
+                    <Unicode>quidam Hugo de Wywn pater ipsius Hugonis postquam dominus Rex qui nunc est feoffaverat ipsum de predicto manerio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_228" custom="readingOrder {index:13;}">
+                <Coords points="7,512 132,509 229,503 393,493 588,482 706,476 831,476 956,476 956,446 831,446 706,446 588,452 393,463 229,473 132,479 7,482" />
+                <Baseline points="7,505 132,502 229,496 393,486 588,475 706,469 831,469 956,469" />
+                <TextEquiv>
+                    <Unicode>fuit in seisina de eadem libertate tanquam ad predictum manerium pertinente, et post mortem ipsius Hugonis quidam Willelmus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_246" custom="readingOrder {index:14;}">
+                <Coords points="11,546 108,539 271,533 530,520 696,513 833,507 961,506 961,476 833,477 696,483 530,490 271,503 108,509 11,516" />
+                <Baseline points="11,539 108,532 271,526 530,513 696,506 833,500 961,499" />
+                <TextEquiv>
+                    <Unicode>de Fortibus filius et heres ipsius Hugonis et similiter ipse Hugo postquam percepit predictum manerium de predicto Willelmo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_262" custom="readingOrder {index:15;}">
+                <Coords points="13,581 185,571 376,562 538,554 787,542 973,539 973,509 787,512 538,524 376,532 185,541 13,551" />
+                <Baseline points="13,574 185,564 376,555 538,547 787,535 973,532" />
+                <TextEquiv>
+                    <Unicode>in escambium pro quodam alio manerio quod ei dedit tenendum de domino Rege in capite cum omnibus libertatibus et liberis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_276" custom="readingOrder {index:16;}">
+                <Coords points="9,616 132,609 305,596 540,585 740,576 920,570 972,569 972,539 920,540 740,546 540,555 305,566 132,579 9,586" />
+                <Baseline points="9,609 132,602 305,589 540,578 740,569 920,563 972,562" />
+                <TextEquiv>
+                    <Unicode>consuetudinibus ad predictum manerium pertinentibus, ac ipse racione predicte libertatis quamdam Isabellam de Assefeud capere </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_292" custom="readingOrder {index:17;}">
+                <Coords points="9,650 151,643 335,628 593,615 784,606 949,605 949,575 784,576 593,585 335,598 151,613 9,620" />
+                <Baseline points="9,643 151,636 335,621 593,608 784,599 949,598" />
+                <TextEquiv>
+                    <Unicode>fecit cum manuopere pannorum furatorum ac inprisonare in prisona sua de Norton; predicti Ricardus et alii venerunt die </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_308" custom="readingOrder {index:18;}">
+                <Coords points="12,684 303,663 561,650 763,637 966,631 966,601 763,607 561,620 303,633 12,654" />
+                <Baseline points="12,677 303,656 561,643 763,630 966,624" />
+                <TextEquiv>
+                    <Unicode>martis proxima post festum beate marie in marcio anno xli ad predictum manerium de Norton et ipsam Isabellam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_320" custom="readingOrder {index:19;}">
+                <Coords points="14,716 271,698 545,683 753,671 965,668 965,638 753,641 545,653 271,668 14,686" />
+                <Baseline points="14,709 271,691 545,676 753,664 965,661" />
+                <TextEquiv>
+                    <Unicode>in prisona detentam ceperunt et abduxerunt in prejudicium ipsius Hugonis et libertatis sue predicte contra pacem etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_332" custom="readingOrder {index:20;}">
+                <Coords points="10,746 176,738 432,724 705,711 842,702 842,672 705,681 432,694 176,708 10,716" />
+                <Baseline points="10,739 176,731 432,717 705,704 842,695" />
+                <TextEquiv>
+                    <Unicode>Unde dicit quod deterioratus est et dampnum habet ad valenciam Centum marcarum et inde producit sectam etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_344" custom="readingOrder {index:21;}">
+                <Coords points="11,788 203,784 486,771 739,764 916,761 974,763 974,733 916,731 739,734 486,741 203,754 11,758" />
+                <Baseline points="11,781 203,777 486,764 739,757 916,754 974,756" />
+                <TextEquiv>
+                    <Unicode>Et Ricardus et alii veniunt. Et omnes preter predictum Thomam bene cognoscunt quod ipsi predicto die ad predictum manerium </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_358" custom="readingOrder {index:22;}">
+                <Coords points="10,822 137,824 278,816 465,811 644,809 817,799 967,798 967,768 817,769 644,779 465,781 278,786 137,794 10,792" />
+                <Baseline points="10,815 137,817 278,809 465,804 644,802 817,792 967,791" />
+                <TextEquiv>
+                    <Unicode>predicti Hugonis venerunt et ibidem in quadam domo ipsius Hugonis ubi predicta Isabella inprisonata fuit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_374" custom="readingOrder {index:23;}">
+                <Coords points="13,858 218,855 456,849 734,842 897,836 970,834 970,804 897,806 734,812 456,819 218,825 13,828" />
+                <Baseline points="13,851 218,848 456,842 734,835 897,829 970,827" />
+                <TextEquiv>
+                    <Unicode>ipsam ceperunt et abduxerunt eo quod ipsa rettata fuit de morte cujusdam hominis occisi apud Elmeswell </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_388" custom="readingOrder {index:24;}">
+                <Coords points="12,895 167,891 374,888 536,881 768,876 961,872 961,842 768,846 536,851 374,858 167,861 12,865" />
+                <Baseline points="12,888 167,884 374,881 536,874 768,869 961,865" />
+                <TextEquiv>
+                    <Unicode>et bene dicunt quod predictus Hugo nullam hujusmodi libertatem habet nec unquam fuit in seisina de aliqua </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_402" custom="readingOrder {index:25;}">
+                <Coords points="6,923 183,922 400,921 733,909 973,907 973,877 733,879 400,891 183,892 6,893" />
+                <Baseline points="6,916 183,915 400,914 733,902 973,900" />
+                <TextEquiv>
+                    <Unicode>hujusmodi libertate in predicto manerio habenda. Et quia predicti Ricardus et alii cognoscunt quod ipsi ceperunt predictam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_414" custom="readingOrder {index:26;}">
+                <Coords points="10,958 176,959 339,959 546,954 788,952 960,953 960,923 788,922 546,924 339,929 176,929 10,928" />
+                <Baseline points="10,951 176,952 339,952 546,947 788,945 960,946" />
+                <TextEquiv>
+                    <Unicode>Isabellam in prisona predicti Hugonis nec ipsi rem ipsam deducere possint in judicium utrum predicta libertas pertineat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_428" custom="readingOrder {index:27;}">
+                <Coords points="10,990 133,993 323,996 537,992 588,991 834,988 923,989 962,989 962,959 923,959 834,958 588,961 537,962 323,966 133,963 10,960" />
+                <Baseline points="10,983 133,986 323,989 537,985 588,984 834,981 923,982 962,982" />
+                <TextEquiv>
+                    <Unicode>ad predictum Hugonem vel non et eciam licet predictus Hugo injuste haberet prisonam in predicto manerio de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_446" custom="readingOrder {index:28;}">
+                <Coords points="8,1029 165,1026 333,1028 530,1028 673,1028 809,1027 885,1027 971,1028 971,998 885,997 809,997 673,998 530,998 333,998 165,996 8,999" />
+                <Baseline points="8,1022 165,1019 333,1021 530,1021 673,1021 809,1020 885,1020 971,1021" />
+                <TextEquiv>
+                    <Unicode>Norton et sine aliquo waranto predictorum Ricardi et aliorum autoritate sua propria justiciam sibimetipsis exhibere non posset </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_470" custom="readingOrder {index:29;}">
+                <Coords points="13,1055 161,1057 374,1057 572,1058 695,1059 806,1058 961,1061 961,1031 806,1028 695,1029 572,1028 374,1027 161,1027 13,1025" />
+                <Baseline points="13,1048 161,1050 374,1050 572,1051 695,1052 806,1051 961,1054" />
+                <TextEquiv>
+                    <Unicode>nec aliquis disseisiri debet de libertate et liberis consuetudinibus sine judicio, consideratum est quod predict</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_486" custom="readingOrder {index:30;}">
+                <Coords points="10,1091 109,1096 382,1093 382,1063 109,1066 10,1061" />
+                <Baseline points="10,1084 109,1089 382,1086" />
+                <TextEquiv>
+                    <Unicode>Ricardus et alii sunt in misericordia pro transgressione etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_494" custom="readingOrder {index:31;}">
+                <Coords points="11,1135 125,1136 366,1133 646,1134 824,1137 962,1140 962,1110 824,1107 646,1104 366,1103 125,1106 11,1105" />
+                <Baseline points="11,1128 125,1129 366,1126 646,1127 824,1130 962,1133" />
+                <TextEquiv>
+                    <Unicode>Et Thomas defendit vim et injuriam quando etc. et bene defendit quod ipse predicto die ad predictam prisonam non venit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_508" custom="readingOrder {index:32;}">
+                <Coords points="13,1169 168,1169 291,1170 415,1168 562,1172 745,1172 809,1173 878,1169 971,1170 971,1140 878,1139 809,1143 745,1142 562,1142 415,1138 291,1140 168,1139 13,1139" />
+                <Baseline points="13,1162 168,1162 291,1163 415,1161 562,1165 745,1165 809,1166 878,1162 971,1163" />
+                <TextEquiv>
+                    <Unicode>nec predictam Isabellam abduxit nec eciam predicta trans-gressio per ipsum facta fuit sicut ei imponit. Et quod ita </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_528" custom="readingOrder {index:33;}">
+                <Coords points="9,1202 97,1198 165,1204 237,1201 352,1205 447,1198 542,1202 666,1201 666,1171 542,1172 447,1168 352,1175 237,1171 165,1174 97,1168 9,1172" />
+                <Baseline points="9,1195 97,1191 165,1197 237,1194 352,1198 447,1191 542,1195 666,1194" />
+                <TextEquiv>
+                    <Unicode>sit ponit se super patriam. Et Hugo similiter. Ideo fiat inde jurata.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
