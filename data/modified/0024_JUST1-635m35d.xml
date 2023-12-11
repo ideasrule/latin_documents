@@ -15,52 +15,52 @@
         <TextRegion id="r" custom="readingOrder {index:0;}">
             <Coords points="1122,269 1,269 1,-1 1122,-1" />
             <TextLine id="l" custom="readingOrder {index:0;}">
-                <Coords points="3,59 445,49 629,45 830,45 1101,40 1101,10 830,15 629,15 445,19 3,29" />
+                <Coords points="3,59 445,49 629,45 830,45 1101,40 1101,9 830,14 629,14 445,18 3,28" />
                 <Baseline points="3,52 445,42 629,38 830,38 1101,33" />
                 <TextEquiv>
-                    <Unicode>a Wills de ffilgraue felonice interfecit Iohem Walram in abbathia sti lacobiexta Norht . anno regni reg. E. prs </Unicode>
+                    <Unicode>a Willelmus de ffilgraue felonice interfecit Iohannem Walram in abbathia sancti Jacobi extra Northampton. anno regni reg. Edwardi praesentis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_21" custom="readingOrder {index:1;}">
-                <Coords points="1,92 309,87 683,83 896,79 1101,71 1101,41 896,49 683,53 309,57 1,62" />
+                <Coords points="1,92 309,87 683,83 896,79 1101,71 1101,40 896,48 683,52 309,56 1,61" />
                 <Baseline points="1,85 309,80 683,76 896,72 1101,64" />
                 <TextEquiv>
-                    <Unicode>drregs nuc tercio , et statim post fau fugit Ideo cat eius confiscantr pro fuga. Cat eius .xj. s.viij.d vn vic.r </Unicode>
+                    <Unicode>regis nunc tercio, et statim post factum fugit Ideo catalla eius confiscantur pro fuga. Catalla eius .xj. s. viij. d. unius vicecomitis r.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_33" custom="readingOrder {index:2;}">
-                <Coords points="2,132 332,125 658,118 903,113 1084,107 1084,77 903,83 658,88 332,95 2,102" />
+                <Coords points="2,132 332,125 658,118 903,113 1084,107 1084,76 903,82 658,87 332,94 2,101" />
                 <Baseline points="2,125 332,118 658,111 903,106 1084,100" />
                 <TextEquiv>
-                    <Unicode>Postea iur testantr quod predictus Wills capts fuit et liberats in custodia , lohis de Wyleby tunc vic Norht Ideo .</Unicode>
+                    <Unicode>Postea iurati testantur quod predictus Willelmus captus fuit et liberatus in custodia, Iohannis de Wyleby tunc vicecomitis Northampton. Ideo .</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_45" custom="readingOrder {index:3;}">
-                <Coords points="8,163 299,159 544,154 792,148 1001,140 1103,137 1103,107 1001,110 792,118 544,124 299,129 8,133" />
+                <Coords points="8,163 299,159 544,154 792,148 1001,140 1103,137 1103,106 1001,109 792,117 544,123 299,128 8,132" />
                 <Baseline points="8,156 299,152 544,147 792,141 1001,133 1103,130" />
                 <TextEquiv>
-                    <Unicode>respond Robertus fil et heres eiusdem lohis quo deuenit . etc. prms inuentor obiit. --- Postea compertu est per </Unicode>
+                    <Unicode>respondet Robertus filius et heres eiusdem Iohannis quo deuenit. etc. praemissum inuentor obiit. --- Postea compertum est per</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_71" custom="readingOrder {index:4;}">
-                <Coords points="13,195 305,187 726,180 956,172 1097,167 1097,137 956,142 726,150 305,157 13,165" />
+                <Coords points="13,195 305,187 726,180 956,172 1097,167 1097,136 956,141 726,149 305,156 13,164" />
                 <Baseline points="13,188 305,180 726,173 956,165 1097,160" />
                 <TextEquiv>
-                    <Unicode>rotul coron quod predictus Wills a custodia Nichi de Segraue tunc constabulari castri Norht felonice euasit . Ideo </Unicode>
+                    <Unicode>rotulos coronae quod predictus Willelmus a custodia Nicholai de Segraue tunc constabulari castri Northampton felonice euasit. Ideo</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_83" custom="readingOrder {index:5;}">
-                <Coords points="5,224 271,218 476,214 688,210 869,209 1095,194 1095,164 869,179 688,180 476,184 271,188 5,194" />
+                <Coords points="5,224 271,218 476,214 688,210 869,209 1095,194 1095,163 869,178 688,179 476,183 271,187 5,193" />
                 <Baseline points="5,217 271,211 476,207 688,203 869,202 1095,187" />
                 <TextEquiv>
-                    <Unicode>ad iudm de euasione ipius Willi super tenentes terrar ipius Nichi , Et postqam sic euasit capts fuit et ductus ad </Unicode>
+                    <Unicode>ad iudicium de euasione ipsius Willelmi super tenentes terrarum ipsius Nicholai, Et postquam sic euasit captus fuit et ductus ad</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_97" custom="readingOrder {index:6;}">
-                <Coords points="11,253 327,247 805,241 805,211 327,217 11,223" />
+                <Coords points="11,253 327,247 805,241 805,210 327,216 11,222" />
                 <Baseline points="11,246 327,240 805,234" />
                 <TextEquiv>
-                    <Unicode>gaolam predtam et ibide obiit in prsona.prout compert est per eosdem rotlos coron etc.</Unicode>
+                    <Unicode>gaolam praedictam et ibidem obiit in prisona, prout compertum est per eosdem rotulos coronae etc.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>

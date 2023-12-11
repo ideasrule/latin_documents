@@ -15,168 +15,168 @@
         <TextRegion id="r" custom="readingOrder {index:0;}">
             <Coords points="1277,833 121,833 121,20 1277,20" />
             <TextLine id="l" custom="readingOrder {index:0;}">
-                <Coords points="119,70 1273,63 1273,33 119,40" />
+                <Coords points="119,70 1273,63 1273,31 119,38" />
                 <Baseline points="119,63 1273,56" />
                 <TextEquiv>
                     <Unicode>Wills le Wylde garcio Radi de Nouo Castro carettarii felonice interfecit eundem Radm in campis de Multon </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_103" custom="readingOrder {index:1;}">
-                <Coords points="1025,86 1064,87 1064,57 1025,56" />
+                <Coords points="1025,86 1064,87 1064,55 1025,54" />
                 <Baseline points="1025,79 1064,80" />
                 <TextEquiv>
                     <Unicode>mo</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_18" custom="readingOrder {index:2;}">
-                <Coords points="148,103 342,113 635,104 798,108 965,105 1168,102 1248,101 1248,71 1168,72 965,75 798,78 635,74 342,83 148,73" />
+                <Coords points="148,103 342,113 635,104 798,108 965,105 1168,102 1248,101 1248,69 1168,70 965,73 798,76 635,72 342,81 148,71" />
                 <Baseline points="148,96 342,106 635,97 798,101 965,98 1168,95 1248,94" />
                 <TextEquiv>
                     <Unicode>die Lune prx&#8217; post festum sti Mathie apoti anno regni regis E. aui regis nunc . xx. Et predictus Wills </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_38" custom="readingOrder {index:3;}">
-                <Coords points="139,144 376,146 675,140 1256,134 1256,134 1256,134 1256,104 1256,104 1256,104 675,110 376,116 139,114" />
+                <Coords points="139,144 376,146 675,140 1256,134 1256,134 1256,134 1256,102 1256,102 1256,102 675,108 376,114 139,112" />
                 <Baseline points="139,137 376,139 675,133 1256,127 1256,127 1256,127" />
                 <TextEquiv>
                     <Unicode>statim post fam fugit Io cat eius confiscantur pro fuga. Cat eius .lxxvij. s. .viij . d. ob vn vic re Postea </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_52" custom="readingOrder {index:4;}">
-                <Coords points="139,178 491,181 812,175 1117,173 1255,169 1255,139 1117,143 812,145 491,151 139,148" />
+                <Coords points="139,178 491,181 812,175 1117,173 1255,169 1255,137 1117,141 812,143 491,149 139,146" />
                 <Baseline points="139,171 491,174 812,168 1117,166 1255,162" />
                 <TextEquiv>
                     <Unicode>iur testantur quod predictus Wills captus fuit et ductus coram iusticiariis ad gaolam castri Norht deliberandam assign </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_64" custom="readingOrder {index:5;}">
-                <Coords points="145,215 452,215 679,213 1233,208 1233,178 679,183 452,185 145,185" />
+                <Coords points="145,215 452,215 679,213 1233,208 1233,176 679,181 452,183 145,183" />
                 <Baseline points="145,208 452,208 679,206 1233,201" />
                 <TextEquiv>
                     <Unicode>et ibidem pro felonia predicta suspensus. Primus iuentor obiit. Postea compertu est per rotlos I. de Bucketon </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_81" custom="readingOrder {index:6;}">
-                <Coords points="143,251 409,250 690,249 945,250 1264,244 1264,214 945,220 690,219 409,220 143,221" />
+                <Coords points="143,251 409,250 690,249 945,250 1264,244 1264,212 945,218 690,217 409,218 143,219" />
                 <Baseline points="143,244 409,243 690,242 945,243 1264,237" />
                 <TextEquiv>
                     <Unicode>coron quod predicta bona et catalla fuerunt predictorum Radi. Iohis Wombe, et Willi Wylde. Et super hoc dus E. rex </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_93" custom="readingOrder {index:7;}">
-                <Coords points="140,282 422,287 728,283 828,280 947,280 1236,277 1236,247 947,250 828,250 728,253 422,257 140,252" />
+                <Coords points="140,282 422,287 728,283 828,280 947,280 1236,277 1236,245 947,248 828,248 728,251 422,255 140,250" />
                 <Baseline points="140,275 422,280 728,276 828,273 947,273 1236,270" />
                 <TextEquiv>
-                    <Unicode>auus etc mandauit bre suu vic et coron in hec verba. --- Edwardus dei gra rex Anglie dus Hibern et dux </Unicode>
+                    <Unicode>auus etc mandauit bre suu vic et coron in hec verba. --- Edwardus dei gra rex Anglie dus Hibern et dux</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_107" custom="readingOrder {index:8;}">
-                <Coords points="138,320 405,318 585,317 739,314 914,308 1012,310 1108,311 1237,306 1237,276 1108,281 1012,280 914,278 739,284 585,287 405,288 138,290" />
+                <Coords points="138,320 405,318 585,317 739,314 914,308 1012,310 1108,311 1237,306 1237,274 1108,279 1012,278 914,276 739,282 585,285 405,286 138,288" />
                 <Baseline points="138,313 405,311 585,310 739,307 914,301 1012,303 1108,304 1237,299" />
                 <TextEquiv>
-                    <Unicode>Aquit, vic Norht et coron eiusdem com saltm. Quia ex relatu fidedignorum accepimus quod vos queda bona et </Unicode>
+                    <Unicode>Aquit, vic Norht et coron eiusdem com saltm. Quia ex relatu fidedignorum accepimus quod vos queda bona et</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_117" custom="readingOrder {index:9;}">
-                <Coords points="132,356 1257,338 1257,308 132,326" />
+                <Coords points="132,356 1257,338 1257,306 132,324" />
                 <Baseline points="132,349 1257,331" />
                 <TextEquiv>
                     <Unicode>catalla que fuerunt Radi le Caretter de Nouo Castra subtus Lym nuper iuxta parcum Norht per quosdam ma</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_123" custom="readingOrder {index:10;}">
-                <Coords points="134,391 1256,370 1256,340 134,361" />
+                <Coords points="134,391 1256,370 1256,338 134,359" />
                 <Baseline points="134,384 1256,363" />
                 <TextEquiv>
-                    <Unicode>lefactores et pacis nre perturbatores interfecti vt dicitur cepistis in manu nram ac si bona et cat predicta per feloniam </Unicode>
+                    <Unicode>lefactores et pacis nre perturbatores interfecti vt dicitur cepistis in manu nram ac si bona et cat predicta per feloniam</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_129" custom="readingOrder {index:11;}">
-                <Coords points="125,429 1266,400 1266,370 125,399" />
+                <Coords points="125,429 1266,400 1266,368 125,397" />
                 <Baseline points="125,422 1266,393" />
                 <TextEquiv>
-                    <Unicode>per prefatum Radm ftam essent forisfa, vobis precipimus quod si ita est tunc accepta sufficienti securitate de Milicen </Unicode>
+                    <Unicode>per prefatum Radm ftam essent forisfa, vobis precipimus quod si ita est tunc accepta sufficienti securitate de Milicen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_135" custom="readingOrder {index:12;}">
-                <Coords points="136,462 1247,433 1247,403 136,432" />
+                <Coords points="136,462 1247,433 1247,401 136,430" />
                 <Baseline points="136,455 1247,426" />
                 <TextEquiv>
-                    <Unicode>ta que fuit vx eiusdem Radi de bonis et cat predictis vel precio eorundem iuxta appreciacoem legaliu per vos </Unicode>
+                    <Unicode>ta que fuit vx eiusdem Radi de bonis et cat predictis vel precio eorundem iuxta appreciacoem legaliu per vos</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_141" custom="readingOrder {index:13;}">
-                <Coords points="127,494 1259,465 1259,435 127,464" />
+                <Coords points="127,494 1259,465 1259,433 127,462" />
                 <Baseline points="127,487 1259,458" />
                 <TextEquiv>
-                    <Unicode>faciend nob respondend in itine iusticiariis nrorum proxio itineraturorum in com predicto si ad nos debeant pertinere bona </Unicode>
+                    <Unicode>faciend nob respondend in itine iusticiariis nrorum proxio itineraturorum in com predicto si ad nos debeant pertinere bona</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_147" custom="readingOrder {index:14;}">
-                <Coords points="127,527 1251,497 1251,467 127,497" />
+                <Coords points="127,527 1251,497 1251,465 127,495" />
                 <Baseline points="127,520 1251,490" />
                 <TextEquiv>
-                    <Unicode>et catalla illa prefate milicente sine dilacione deliberari facis per securitate predam. Et heas ibi hoc bre. T. </Unicode>
+                    <Unicode>et catalla illa prefate milicente sine dilacione deliberari facis per securitate predam. Et heas ibi hoc bre. T.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_153" custom="readingOrder {index:15;}">
-                <Coords points="128,558 836,544 1272,525 1272,495 836,514 128,528" />
+                <Coords points="128,558 836,544 1272,525 1272,493 836,512 128,526" />
                 <Baseline points="128,551 836,537 1272,518" />
                 <TextEquiv>
-                    <Unicode>meipso apud Tratenton decio die Marcii . anno . r . n . vicesimo. --- Pretextu cuius bris . I. Druel tunc </Unicode>
+                    <Unicode>meipso apud Tratenton decio die Marcii . anno . r . n . vicesimo. --- Pretextu cuius bris . I. Druel tunc</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_161" custom="readingOrder {index:16;}">
-                <Coords points="129,592 724,581 1132,564 1256,556 1256,526 1132,534 724,551 129,562" />
+                <Coords points="129,592 724,581 1132,564 1256,556 1256,524 1132,532 724,549 129,560" />
                 <Baseline points="129,585 724,574 1132,557 1256,549" />
                 <TextEquiv>
                     <Unicode>vic et predictus coron ceperunt inquis super premissis per quam compertu fuit quod predicta bona et catalla fuerunt predicta </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_171" custom="readingOrder {index:17;}">
-                <Coords points="125,626 470,619 815,614 1137,601 1256,594 1256,564 1137,571 815,584 470,589 125,596" />
+                <Coords points="125,626 470,619 815,614 1137,601 1256,594 1256,562 1137,569 815,582 470,587 125,594" />
                 <Baseline points="125,619 470,612 815,607 1137,594 1256,587" />
                 <TextEquiv>
                     <Unicode>Radi interfecti et nullius alij. --- Que quidem catalla liberata fuerut predicte Milicente per manucapcoem Ade </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_183" custom="readingOrder {index:18;}">
-                <Coords points="128,659 589,649 930,646 1170,633 1262,628 1262,598 1170,603 930,616 589,619 128,629" />
+                <Coords points="128,659 589,649 930,646 1170,633 1262,628 1262,596 1170,601 930,614 589,617 128,627" />
                 <Baseline points="128,652 589,642 930,639 1170,626 1262,621" />
                 <TextEquiv>
                     <Unicode>de Esseby, Thom ad Crucem de Bucketon, Willi Prest de Briclesworth et Phi le Clerk de Wolaston ad </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_201" custom="readingOrder {index:19;}">
-                <Coords points="126,690 517,683 862,678 1122,669 1247,666 1247,636 1122,639 862,648 517,653 126,660" />
+                <Coords points="126,690 517,683 862,678 1122,669 1247,666 1247,634 1122,637 862,646 517,651 126,658" />
                 <Baseline points="126,683 517,676 862,671 1122,662 1247,659" />
                 <TextEquiv>
                     <Unicode>respond regi cora iusticiariis itinerant in forma predicta etc. --- Et modo ven --- executores predicte Milicente et </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_213" custom="readingOrder {index:20;}">
-                <Coords points="127,719 743,712 1142,702 1239,700 1239,670 1142,672 743,682 127,689" />
+                <Coords points="127,719 743,712 1142,702 1239,700 1239,668 1142,670 743,680 127,687" />
                 <Baseline points="127,712 743,705 1142,695 1239,693" />
                 <TextEquiv>
                     <Unicode>dicut quod predicta catalla fuerut predicti Radi quondam viri predicte Milicente etc et petunt quod predicta catalla possint </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_223" custom="readingOrder {index:21;}">
-                <Coords points="120,751 557,748 903,742 1251,736 1251,706 903,712 557,718 120,721" />
+                <Coords points="120,751 557,748 903,742 1251,736 1251,704 903,710 557,716 120,719" />
                 <Baseline points="120,744 557,741 903,735 1251,729" />
                 <TextEquiv>
                     <Unicode>sibi remanere etc. Et iuratores testantur quod predicta catalla fuerunt in communi predictorum Radi, Iohis Wombe et Willi </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_233" custom="readingOrder {index:22;}">
-                <Coords points="120,788 363,788 545,784 859,780 1266,774 1266,744 859,750 545,754 363,758 120,758" />
+                <Coords points="120,788 363,788 545,784 859,780 1266,774 1266,742 859,748 545,752 363,756 120,756" />
                 <Baseline points="120,781 363,781 545,777 859,773 1266,767" />
                 <TextEquiv>
                     <Unicode>Wylde prout superius compertu est per rotulos coron. Ideo respond dno regi de tercia parte cat predictorum scilt de .xxv . s . </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_243" custom="readingOrder {index:23;}">
-                <Coords points="112,821 421,817 421,787 112,791" />
+                <Coords points="112,821 421,817 421,785 112,789" />
                 <Baseline points="112,814 421,810" />
                 <TextEquiv>
                     <Unicode>xi . d . et residuu reman etc.</Unicode>

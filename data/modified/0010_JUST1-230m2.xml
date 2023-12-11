@@ -15,91 +15,91 @@
         <TextRegion id="r" custom="readingOrder {index:0;}">
             <Coords points="876,430 8,430 8,5 876,5" />
             <TextLine id="l" custom="readingOrder {index:0;}">
-                <Coords points="10,71 174,55 418,45 531,39 710,44 838,41 838,11 710,14 531,9 418,15 174,25 10,41" />
+                <Coords points="10,70 174,54 418,44 531,38 710,43 838,40 838,12 710,15 531,10 418,16 174,26 10,42" />
                 <Baseline points="10,64 174,48 418,38 531,32 710,37 838,34" />
                 <TextEquiv>
                     <Unicode>Agnes de Audham appellat Julianam que fuit uxor Roberti fili Philippi quod cum ipsa fuit in domo sua in pace </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_22" custom="readingOrder {index:1;}">
-                <Coords points="19,98 79,101 148,90 246,91 327,81 451,71 553,69 636,74 710,75 840,77 840,47 710,45 636,44 553,39 451,41 327,51 246,61 148,60 79,71 19,68" />
+                <Coords points="19,97 79,100 148,89 246,90 327,80 451,70 553,68 636,73 710,74 840,76 840,48 710,46 636,45 553,40 451,42 327,52 246,62 148,61 79,72 19,69" />
                 <Baseline points="19,91 79,94 148,83 246,84 327,74 451,64 553,62 636,67 710,68 840,70" />
                 <TextEquiv>
                     <Unicode>domini regis die dominica proxima post festum Sancti Hyllarii duobus annis elapsis, venit predicta Juliana cum forcia sua </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_44" custom="readingOrder {index:2;}">
-                <Coords points="16,128 73,130 190,122 310,118 463,107 581,104 672,104 740,102 787,104 860,101 860,71 787,74 740,72 672,74 581,74 463,77 310,88 190,92 73,100 16,98" />
+                <Coords points="16,127 73,129 190,121 310,117 463,106 581,103 672,103 740,101 787,103 860,100 860,72 787,75 740,73 672,75 581,75 463,78 310,89 190,93 73,101 16,99" />
                 <Baseline points="16,121 73,123 190,115 310,111 463,100 581,97 672,97 740,95 787,97 860,94" />
                 <TextEquiv>
                     <Unicode>et eam ejecit de domo sua, et asportaverunt quicquid intus invenerunt ut in pane et pluribus alis rebus. Ita quod </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_66" custom="readingOrder {index:3;}">
-                <Coords points="21,161 124,152 233,148 331,148 475,140 569,137 658,136 772,138 859,135 859,105 772,108 658,106 569,107 475,110 331,118 233,118 124,122 21,131" />
+                <Coords points="21,160 124,151 233,147 331,147 475,139 569,136 658,135 772,137 859,134 859,106 772,109 658,107 569,108 475,111 331,119 233,119 124,123 21,132" />
                 <Baseline points="21,154 124,145 233,141 331,141 475,133 569,130 658,129 772,131 859,128" />
                 <TextEquiv>
                     <Unicode>postea ivit predicta Agnes et petit pacem domini Regis de ea, et post pacem etc. venit predicta Juliana cum forcia sua </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_86" custom="readingOrder {index:4;}">
-                <Coords points="22,191 118,190 207,180 293,181 385,180 519,175 639,172 639,142 519,145 385,150 293,151 207,150 118,160 22,161" />
+                <Coords points="22,190 118,189 207,179 293,180 385,179 519,174 639,171 639,143 519,146 385,151 293,152 207,151 118,161 22,162" />
                 <Baseline points="22,184 118,183 207,173 293,174 385,173 519,168 639,165" />
                 <TextEquiv>
                     <Unicode>et adduxit iii boves et duos equos et xviii bidentes noctanter et petit sibi hoc emendari.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_102" custom="readingOrder {index:5;}">
-                <Coords points="21,215 139,215 283,208 446,207 553,203 668,201 761,205 869,199 869,169 761,175 668,171 553,173 446,177 283,178 139,185 21,185" />
+                <Coords points="21,214 139,214 283,207 446,206 553,202 668,200 761,204 869,198 869,170 761,176 668,172 553,174 446,178 283,179 139,186 21,186" />
                 <Baseline points="21,208 139,208 283,201 446,200 553,196 668,194 761,198 869,192" />
                 <TextEquiv>
                     <Unicode>Et Juliana venit et defendit pacem infractam et feloniam et totum etc. et verus vult dicere et dicit quod predicta Agnes fuit </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_120" custom="readingOrder {index:6;}">
-                <Coords points="26,244 106,245 270,243 437,238 566,238 690,235 868,232 868,202 690,205 566,208 437,208 270,213 106,215 26,214" />
+                <Coords points="26,243 106,244 270,242 437,237 566,237 690,234 868,231 868,203 690,206 566,209 437,209 270,214 106,216 26,215" />
                 <Baseline points="26,237 106,238 270,236 437,231 566,231 690,228 868,225" />
                 <TextEquiv>
                     <Unicode>Braceressa et de feodo ipsius, et quia noluit vendere cervisiam secundum consuetudinem regni venit predicta Juliana, set ponere </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_136" custom="readingOrder {index:7;}">
-                <Coords points="27,276 123,275 259,270 404,271 569,267 678,269 797,267 865,264 865,234 797,237 678,239 569,237 404,241 259,240 123,245 27,246" />
+                <Coords points="27,275 123,274 259,269 404,270 569,266 678,268 797,266 865,263 865,235 797,238 678,240 569,238 404,242 259,241 123,246 27,247" />
                 <Baseline points="27,269 123,268 259,263 404,264 569,260 678,262 797,260 865,257" />
                 <TextEquiv>
                     <Unicode>ferram super hostium ubi cervisia posita fuit ut ipsam cogeret vendere secundum consuetudinem Hundreti etc et quod aliter </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_156" custom="readingOrder {index:8;}">
-                <Coords points="37,307 143,304 240,297 377,292 377,262 240,267 143,274 37,277" />
+                <Coords points="37,306 143,303 240,296 377,291 377,263 240,268 143,275 37,278" />
                 <Baseline points="37,300 143,297 240,290 377,285" />
                 <TextEquiv>
                     <Unicode>non fecit nec aliquam roberiam ponit se super patriam.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_166" custom="readingOrder {index:9;}">
-                <Coords points="33,337 152,332 277,324 393,321 542,311 619,310 724,305 766,304 798,320 871,315 871,285 798,290 766,274 724,275 619,280 542,281 393,291 277,294 152,302 33,307" />
+                <Coords points="33,336 152,331 277,323 393,320 542,310 619,309 724,304 766,303 798,319 871,314 871,286 798,291 766,275 724,276 619,281 542,282 393,292 277,295 152,303 33,308" />
                 <Baseline points="33,330 152,325 277,317 393,314 542,304 619,303 724,298 766,297 798,313 871,308" />
                 <TextEquiv>
-                    <Unicode>Eadem appellat de forcia Willelmum Ruffum, Johannem Fauvell, Henricum buile. Et Henricus venit et Willelmus et Johannes non </Unicode>
+                    <Unicode>Eadem appellat de forcia Willelmum Ruffum, Iohannem Fauvell, Henricum buile. Et Henricus venit et Willelmus et Iohannes non </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_188" custom="readingOrder {index:10;}">
-                <Coords points="40,368 144,364 230,361 354,361 465,356 554,346 704,346 760,352 789,351 850,344 850,314 789,321 760,322 704,316 554,316 465,326 354,331 230,331 144,334 40,338" />
+                <Coords points="40,367 144,363 230,360 354,360 465,355 554,345 704,345 760,351 789,350 850,343 850,315 789,322 760,323 704,317 554,317 465,327 354,332 230,332 144,335 40,339" />
                 <Baseline points="40,361 144,357 230,354 354,354 465,349 554,339 704,339 760,345 789,344 850,337" />
                 <TextEquiv>
-                    <Unicode>venerunt, et Willelmus attachiatus fuit per Ricardum delho detey&#8217; et Radulfum Generis anglie de eadem, et Johannes per Eliam </Unicode>
+                    <Unicode>venerunt, et Willelmus attachiatus fuit per Ricardum delho detey&#8217; et Radulfum Generis anglie de eadem, et Iohannes per Eliam </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_212" custom="readingOrder {index:11;}">
-                <Coords points="42,396 124,400 158,394 242,394 352,388 482,383 600,380 657,375 657,345 600,350 482,353 352,358 242,364 158,364 124,370 42,366" />
+                <Coords points="42,395 124,399 158,393 242,393 352,387 482,382 600,379 657,374 657,346 600,351 482,354 352,359 242,365 158,365 124,371 42,367" />
                 <Baseline points="42,389 124,393 158,387 242,387 352,381 482,376 600,373 657,368" />
                 <TextEquiv>
                     <Unicode>le Carpenter de Audham et Robertum de la fovere de eadem. Et ideo omnes in misericordia.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_230" custom="readingOrder {index:12;}">
-                <Coords points="36,421 85,422 182,424 309,420 405,414 513,416 626,412 626,382 513,386 405,384 309,390 182,394 85,392 36,391" />
+                <Coords points="36,420 85,421 182,423 309,419 405,413 513,415 626,411 626,383 513,387 405,385 309,391 182,395 85,393 36,392" />
                 <Baseline points="36,414 85,415 182,417 309,413 405,407 513,409 626,405" />
                 <TextEquiv>
                     <Unicode>Postea propter paupertatem ipsius Agnetis habet licenciam retrahendi se, et Juliana dat ei</Unicode>

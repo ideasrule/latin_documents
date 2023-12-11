@@ -15,52 +15,52 @@
         <TextRegion id="r" custom="readingOrder {index:0;}">
             <Coords points="1138,225 -1,225 -1,5 1138,5" />
             <TextLine id="l_27" custom="readingOrder {index:0;}">
-                <Coords points="-1,40 284,50 551,57 1125,60 1125,30 551,27 284,20 -1,10" />
+                <Coords points="-1,39 284,49 551,56 1125,59 1125,31 551,28 284,21 -1,11" />
                 <Baseline points="-1,33 284,43 551,50 1125,53" />
                 <TextEquiv>
-                    <Unicode>Iohes de Carleton captus fuit pro morte Radi Parleben apud Multon felonice interfecti et liberatus in custodia </Unicode>
+                    <Unicode>Iohannes de Carleton captus fuit pro morte Radulphi Parleben apud Multon felonice interfecti et liberatus in custodia</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_37" custom="readingOrder {index:1;}">
-                <Coords points="3,75 468,91 806,95 1128,98 1128,68 806,65 468,61 3,45" />
+                <Coords points="3,74 468,90 806,94 1128,97 1128,69 806,66 468,62 3,46" />
                 <Baseline points="3,68 468,84 806,88 1128,91" />
                 <TextEquiv>
-                    <Unicode>Iohis de Wyleby tunc vic, Norht, qui a custodia eiusdem felonice euasit Ideo ad iudiciu de evasione ipsius Iohis </Unicode>
+                    <Unicode>Iohannis de Wyleby tunc vicecomitis, Northampton, qui a custodia eiusdem felonice euasit. Ideo ad iudicium de euasione ipsius Iohannis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_47" custom="readingOrder {index:2;}">
-                <Coords points="5,108 368,123 775,131 1109,131 1109,101 775,101 368,93 5,78" />
+                <Coords points="5,107 368,122 775,130 1109,130 1109,102 775,102 368,94 5,79" />
                 <Baseline points="5,101 368,116 775,124 1109,124" />
                 <TextEquiv>
-                    <Unicode>de Carleton super Robm de Wileby fil et hered predicti lohis , Et postqam sic euasit posuit se in ecclia Sti </Unicode>
+                    <Unicode>de Carleton super Robertum de Wyleby filium et heredem predicti Iohannis, Et postquam sic euasit posuit se in ecclesia Sancti</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_57" custom="readingOrder {index:3;}">
-                <Coords points="6,148 388,157 760,163 1129,164 1129,134 760,133 388,127 6,118" />
+                <Coords points="6,147 388,156 760,162 1129,163 1129,135 760,134 388,128 6,119" />
                 <Baseline points="6,141 388,150 760,156 1129,157" />
                 <TextEquiv>
-                    <Unicode>Bothi de Brampton et ibidem recogn se interfecisse predictu Radm et abiur regnu Angl coram coron. Cat eius </Unicode>
+                    <Unicode>Botulphi de Brampton et ibidem recognovit se interfecisse predictum Radulphum et abiuravit regnum Angliae coram corona. Catalla eius</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_82" custom="readingOrder {index:4;}">
-                <Coords points="2,177 280,184 595,188 1103,189 1103,159 595,158 280,154 2,147" />
+                <Coords points="2,176 280,183 595,187 1103,188 1103,160 595,159 280,155 2,148" />
                 <Baseline points="2,170 280,177 595,181 1103,182" />
                 <TextEquiv>
-                    <Unicode>vj. d. vn vic. r. --- Postea compert est per rotlos coron quod predictus Iohes recogn se fregisse prsona castri Norht </Unicode>
+                    <Unicode>vj. d. unius vicecomitis r. --- Postea compertum est per rotulos coronae quod predictus Iohannes recognovit se fregisse prisonam castri Northampton</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_92" custom="readingOrder {index:5;}">
-                <Coords points="3,200 336,204 618,212 893,217 1057,217 1126,219 1126,189 1057,187 893,187 618,182 336,174 3,170" />
+                <Coords points="3,199 336,203 618,211 893,216 1057,216 1126,218 1126,190 1057,188 893,188 618,183 336,175 3,171" />
                 <Baseline points="3,193 336,197 618,205 893,210 1057,210 1126,212" />
                 <TextEquiv>
-                    <Unicode>et ab ead felon euasisse tempore Nichi de Segaue tuc constabulari castri Norht etc. Ideo ad judm de euas ipsius Iohis super </Unicode>
+                    <Unicode>et ab eadem felonice euasisse tempore Nicolai de Segrave tunc constabulari castri Northampton etc. Ideo ad iudicium de euasion ipsius Iohannis super</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_106" custom="readingOrder {index:6;}">
-                <Coords points="6,216 274,225 524,230 524,200 274,195 6,186" />
+                <Coords points="6,215 274,224 524,229 524,201 274,196 6,187" />
                 <Baseline points="6,209 274,218 524,223" />
                 <TextEquiv>
-                    <Unicode>tenent terr eiusd Nichi, et nich de euas super dcm Robm etc.</Unicode>
+                    <Unicode>tenentes terrarum eiusdem Nicolai, et nichil de euasion super dictum Robertum etc.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
