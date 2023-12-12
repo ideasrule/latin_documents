@@ -74,7 +74,7 @@
                 <Coords points="15,342 109,334 297,324 408,325 553,317 745,314 883,310 976,312 976,279 883,277 745,281 553,284 408,292 297,291 109,301 15,309" />
                 <Baseline points="15,335 109,327 297,317 408,318 553,310 745,307 883,303 976,305" />
                 <TextEquiv>
-                    <Unicode>manerium cum manuopere alicujus latrocinii; et similiter quidam Robertus le Mareschall postquam Iohannes Rex pater </Unicode>
+                    <Unicode>manerium cum manuopere alicujus latrocinii; et similiter quidam Robertus le Mareschall postquam Johannes Rex pater </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_164" custom="readingOrder {index:9;}">

@@ -18,7 +18,7 @@
                 <Coords points="1,47 125,48 392,47 589,53 754,50 934,49 934,16 754,17 589,20 392,14 125,15 1,14" />
                 <Baseline points="1,40 125,41 392,40 589,46 754,43 934,42" />
                 <TextEquiv>
-                    <Unicode>&#182; Odo de Hodenet. Radulfus de Araz. Iohannes filius Philippi et Gilbertus de Buckenhulle quatuor milites summoniti ad eligendum xii.</Unicode>
+                    <Unicode>&#182; Odo de Hodenet. Radulfus de Araz. Johannes filius Philippi et Gilbertus de Buckenhulle quatuor milites summoniti ad eligendum xii.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_22" custom="readingOrder {index:1;}">
@@ -53,7 +53,7 @@
                 <Coords points="15,219 165,220 348,223 546,225 738,231 857,230 857,197 738,198 546,192 348,190 165,187 15,186" />
                 <Baseline points="15,212 165,213 348,216 546,218 738,224 857,223" />
                 <TextEquiv>
-                    <Unicode>Dolf. Galfridum le Poer. Iohannem de Arundel. Maddocum de Sutton. Iohannem filium Stephani et Willelmum de Furches.</Unicode>
+                    <Unicode>Dolf. Galfridum le Poer. Johannem de Arundel. Maddocum de Sutton. Johannem filium Stephani et Willelmum de Furches.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_104" custom="readingOrder {index:6;}">

@@ -25,7 +25,7 @@
                 <Coords points="14,105 134,99 280,90 424,91 579,95 690,93 792,87 913,87 913,47 792,47 690,53 579,55 424,51 280,50 134,59 14,65" />
                 <Baseline points="14,96 134,90 280,81 424,82 579,86 690,84 792,78 913,78" />
                 <TextEquiv>
-                    <Unicode>et Iohannem Festhard quod ubi fuit in pace domini regis apud Westurroke ante hostium coquine predicti Willelmi circa </Unicode>
+                    <Unicode>et Johannem Festhard quod ubi fuit in pace domini regis apud Westurroke ante hostium coquine predicti Willelmi circa </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_41" custom="readingOrder {index:2;}">
@@ -116,7 +116,7 @@
                 <Coords points="44,622 171,609 323,602 524,601 752,593 919,579 919,539 752,553 524,561 323,562 171,569 44,582" />
                 <Baseline points="44,613 171,600 323,593 524,592 752,584 919,570" />
                 <TextEquiv>
-                    <Unicode>Et Ricardus le Clav' et Iohannes Festhard non venerunt. Et predictus Willelmus Torel manucepit habere ipsos coram justiciariis </Unicode>
+                    <Unicode>Et Ricardus le Clav' et Johannes Festhard non venerunt. Et predictus Willelmus Torel manucepit habere ipsos coram justiciariis </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_238" custom="readingOrder {index:15;}">

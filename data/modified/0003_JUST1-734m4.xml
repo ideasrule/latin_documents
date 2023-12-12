@@ -74,7 +74,7 @@
                 <Coords points="2,317 154,315 299,310 462,310 652,306 821,309 915,314 990,319 990,287 915,282 821,277 652,274 462,278 299,278 154,283 2,285" />
                 <Baseline points="2,310 154,308 299,303 462,303 652,299 821,302 915,307 990,312" />
                 <TextEquiv>
-                    <Unicode>&#182; Assi ven. recogn si Galfridus filius Galfridi de Ledewych injuste etc. disseisivit Agnetem filiam Iohannis de Bracy de libero tenemento suo </Unicode>
+                    <Unicode>&#182; Assi ven. recogn si Galfridus filius Galfridi de Ledewych injuste etc. disseisivit Agnetem filiam Johannis de Bracy de libero tenemento suo </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_153" custom="readingOrder {index:9;}">
@@ -144,7 +144,7 @@
                 <Coords points="1,737 200,737 380,742 468,743 663,741 891,740 976,738 976,706 891,708 663,709 468,711 380,710 200,705 1,705" />
                 <Baseline points="1,730 200,730 380,735 468,736 663,734 891,733 976,731" />
                 <TextEquiv>
-                    <Unicode>&#182; Ass. ven. rec. si Willelmus de Kalverhale et Iohannes filius ejus injuste etc. disseisiverunt Adam filium Petri de Kalverhall et Sibillam uxorem </Unicode>
+                    <Unicode>&#182; Ass. ven. rec. si Willelmus de Kalverhale et Johannes filius ejus injuste etc. disseisiverunt Adam filium Petri de Kalverhall et Sibillam uxorem </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_309" custom="readingOrder {index:19;}">
@@ -172,7 +172,7 @@
                 <Coords points="16,845 129,844 258,842 419,844 563,848 717,850 860,847 968,849 968,817 860,815 717,818 563,816 419,812 258,810 129,812 16,813" />
                 <Baseline points="16,838 129,837 258,835 419,837 563,841 717,843 860,840 968,842" />
                 <TextEquiv>
-                    <Unicode>bruere in quibus communicare solebat per totum annum quousque predicti Willelmus et Iohannes predictam brueram frussiverunt et </Unicode>
+                    <Unicode>bruere in quibus communicare solebat per totum annum quousque predicti Willelmus et Johannes predictam brueram frussiverunt et </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_365" custom="readingOrder {index:23;}">
@@ -186,14 +186,14 @@
                 <Coords points="17,916 154,912 270,911 388,911 388,879 270,879 154,880 17,884" />
                 <Baseline points="17,909 154,905 270,904 388,904" />
                 <TextEquiv>
-                    <Unicode>Et Willelmus et Iohannes veniunt et nichil dicunt quare assisa remaneat.</Unicode>
+                    <Unicode>Et Willelmus et Johannes veniunt et nichil dicunt quare assisa remaneat.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_391" custom="readingOrder {index:25;}">
                 <Coords points="16,951 92,949 208,953 348,957 457,960 539,966 652,966 805,967 955,968 955,936 805,935 652,934 539,934 457,928 348,925 208,921 92,917 16,919" />
                 <Baseline points="16,944 92,942 208,946 348,950 457,953 539,959 652,959 805,960 955,961" />
                 <TextEquiv>
-                    <Unicode>Juratores dicunt quod predicti Willelmus et Iohannes non disseisiverunt predictos Adam et Sibillam de predicta communa. quia dicunt quod lidem Willelmus et Iohannes </Unicode>
+                    <Unicode>Juratores dicunt quod predicti Willelmus et Johannes non disseisiverunt predictos Adam et Sibillam de predicta communa. quia dicunt quod lidem Willelmus et Johannes </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_411" custom="readingOrder {index:26;}">
@@ -207,14 +207,14 @@
                 <Coords points="19,1019 186,1020 328,1024 459,1027 669,1034 885,1033 966,1033 966,1001 885,1001 669,1002 459,995 328,992 186,988 19,987" />
                 <Baseline points="19,1012 186,1013 328,1017 459,1020 669,1027 885,1026 966,1026" />
                 <TextEquiv>
-                    <Unicode>Willelmus et Iohannes inde sine die. et predicti Adam et Sibilla quo ad hoc nichil capiant assisam istam et sint in misericordia pro falso clamore. Dicunt </Unicode>
+                    <Unicode>Willelmus et Johannes inde sine die. et predicti Adam et Sibilla quo ad hoc nichil capiant assisam istam et sint in misericordia pro falso clamore. Dicunt </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_447" custom="readingOrder {index:28;}">
                 <Coords points="16,1053 94,1053 186,1055 384,1063 583,1064 679,1066 849,1073 964,1072 964,1040 849,1041 679,1034 583,1032 384,1031 186,1023 94,1021 16,1021" />
                 <Baseline points="16,1046 94,1046 186,1048 384,1056 583,1057 679,1059 849,1066 964,1065" />
                 <TextEquiv>
-                    <Unicode>eciam quod predicti Willelmus et Iohannes disseisiverunt predictos Ricardum le Fevre et Ceciliamuxorem ejus, Willelmum flium Henrici et Agnetem uxorem ejus de </Unicode>
+                    <Unicode>eciam quod predicti Willelmus et Johannes disseisiverunt predictos Ricardum le Fevre et Ceciliamuxorem ejus, Willelmum flium Henrici et Agnetem uxorem ejus de </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_465" custom="readingOrder {index:29;}">
@@ -228,7 +228,7 @@
                 <Coords points="22,1124 138,1129 240,1129 347,1134 347,1102 240,1097 138,1097 22,1092" />
                 <Baseline points="22,1117 138,1122 240,1122 347,1127" />
                 <TextEquiv>
-                    <Unicode>recognitorum et Willelmus de Kaverhal et Iohannes in misericordia.</Unicode>
+                    <Unicode>recognitorum et Willelmus de Kaverhal et Johannes in misericordia.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>

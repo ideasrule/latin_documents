@@ -53,7 +53,7 @@
                 <Coords points="37,244 216,226 343,220 426,219 566,224 771,217 898,219 992,226 992,188 898,181 771,179 566,186 426,181 343,182 216,188 37,206" />
                 <Baseline points="37,236 216,218 343,212 426,211 566,216 771,209 898,211 992,218" />
                 <TextEquiv>
-                    <Unicode>unam acram. Hisolda la Nune sex acras. Magister Hospitalis Sancti Iohannis de Ludelawe decem acras terre </Unicode>
+                    <Unicode>unam acram. Hisolda la Nune sex acras. Magister Hospitalis Sancti Johannis de Ludelawe decem acras terre </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_112" custom="readingOrder {index:6;}">

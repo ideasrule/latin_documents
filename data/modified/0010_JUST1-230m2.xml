@@ -81,14 +81,14 @@
                 <Coords points="33,336 152,331 277,323 393,320 542,310 619,309 724,304 766,303 798,319 871,314 871,286 798,291 766,275 724,276 619,281 542,282 393,292 277,295 152,303 33,308" />
                 <Baseline points="33,330 152,325 277,317 393,314 542,304 619,303 724,298 766,297 798,313 871,308" />
                 <TextEquiv>
-                    <Unicode>Eadem appellat de forcia Willelmum Ruffum, Iohannem Fauvell, Henricum buile. Et Henricus venit et Willelmus et Iohannes non </Unicode>
+                    <Unicode>Eadem appellat de forcia Willelmum Ruffum, Johannem Fauvell, Henricum buile. Et Henricus venit et Willelmus et Johannes non </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_188" custom="readingOrder {index:10;}">
                 <Coords points="40,367 144,363 230,360 354,360 465,355 554,345 704,345 760,351 789,350 850,343 850,315 789,322 760,323 704,317 554,317 465,327 354,332 230,332 144,335 40,339" />
                 <Baseline points="40,361 144,357 230,354 354,354 465,349 554,339 704,339 760,345 789,344 850,337" />
                 <TextEquiv>
-                    <Unicode>venerunt, et Willelmus attachiatus fuit per Ricardum delho detey&#8217; et Radulfum Generis anglie de eadem, et Iohannes per Eliam </Unicode>
+                    <Unicode>venerunt, et Willelmus attachiatus fuit per Ricardum delho detey&#8217; et Radulfum Generis anglie de eadem, et Johannes per Eliam </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_212" custom="readingOrder {index:11;}">

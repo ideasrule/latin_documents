@@ -18,21 +18,21 @@
                 <Coords points="-2,30 188,41 388,50 563,61 751,73 889,80 989,85 1060,89 1060,57 989,53 889,48 751,41 563,29 388,18 188,9 -2,0" />
                 <Baseline points="-2,23 188,34 388,43 563,54 751,66 889,73 989,78 1060,82" />
                 <TextEquiv>
-                    <Unicode>a Radulphus Parleben de Multon felonice interfectus Iohannem de Carlton in villa de Multon Et statim </Unicode>
+                    <Unicode>a Radulphus Parleben de Multon felonice interfectus Iohannem de Carlton in villa de Multon Et statim</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_26" custom="readingOrder {index:1;}">
                 <Coords points="19,66 136,73 336,85 495,95 650,105 793,111 870,113 962,116 1067,122 1067,90 962,84 870,81 793,79 650,73 495,63 336,53 136,41 19,34" />
                 <Baseline points="19,59 136,66 336,78 495,88 650,98 793,104 870,106 962,109 1067,115" />
                 <TextEquiv>
-                    <Unicode>post factum captus fuit et liberatus Iohanni de Wyleby tunc vicecomitis istius comitatus etc. Ideo . r . heredis dicti Iohannis quo</Unicode>
+                    <Unicode>post factum captus fuit et liberatus Iohanni de Wyleby tunc vicecomiti istius comitatus etc. Ideo . respondeat heredes dicti Iohannis quo</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_46" custom="readingOrder {index:2;}">
                 <Coords points="18,98 192,110 354,119 740,140 911,148 1074,158 1074,126 911,116 740,108 354,87 192,78 18,66" />
                 <Baseline points="18,91 192,103 354,112 740,133 911,141 1074,151" />
                 <TextEquiv>
-                    <Unicode>deuenit . catalla eius . vij. d. vicecomitis r. Et nichil de inventario quia habuit iura ecclesiastica. --- Postea iurati</Unicode>
+                    <Unicode>deuenit . catalla eius . viij. d. vicecomes respondeat. Et nichil de inventore quia habuit iura ecclesiastica. --- Postea iuratores</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_60" custom="readingOrder {index:3;}">
@@ -46,21 +46,21 @@
                 <Coords points="13,164 268,179 409,188 601,201 776,210 923,217 1067,226 1067,194 923,185 776,178 601,169 409,156 268,147 13,132" />
                 <Baseline points="13,157 268,172 409,181 601,194 776,203 923,210 1067,219" />
                 <TextEquiv>
-                    <Unicode>felonice euasit, de cuius euasione Robertus filius et heres predicti Iohannis de Wyleby oneratus in predicto hundredo</Unicode>
+                    <Unicode>felonice euasit, de cuius euasione Robertus filius et heres predicti Iohannis de Wyleby oneratur in predicto hundredo</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_88" custom="readingOrder {index:5;}">
                 <Coords points="17,196 366,219 564,233 764,243 911,249 1045,253 1064,255 1064,223 1045,221 911,217 764,211 564,201 366,187 17,164" />
                 <Baseline points="17,189 366,212 564,226 764,236 911,242 1045,246 1064,248" />
                 <TextEquiv>
-                    <Unicode>de Neubotlegaue. Ideo nichil ulterius versus heredes predicti Iohannis hic etc. --- Et idem Iohannes de Carleton</Unicode>
+                    <Unicode>de Neubotlegraue. Ideo nichil vlterius versus heredes predicti Iohannis hic etc. --- Et idem Iohannes de Carleton</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_104" custom="readingOrder {index:6;}">
                 <Coords points="19,230 165,239 275,244 410,255 542,263 646,269 646,237 542,231 410,223 275,212 165,207 19,198" />
                 <Baseline points="19,223 165,232 275,237 410,248 542,256 646,262" />
                 <TextEquiv>
-                    <Unicode>abiuravit regnum coram corona prout patet in hundredo predicto etc.</Unicode>
+                    <Unicode>abiurauit regnum coram coronatore prout patet in hundredo predicto etc.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
