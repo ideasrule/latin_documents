@@ -74,7 +74,7 @@
                 <Coords points="89,330 178,322 391,319 546,321 724,327 937,335 1148,346 1148,314 937,303 724,295 546,289 391,287 178,290 89,298" />
                 <Baseline points="89,323 178,315 391,312 546,314 724,320 937,328 1148,339" />
                 <TextEquiv>
-                    <Unicode>ipsa Agnete cuidam Petro Peuerel vt filio et heredi; ita quod vacante predicta ecclesia tempore domini regis Iohannis dissencio oriebatur </Unicode>
+                    <Unicode>ipsa Agnete cuidam Petro Peuerel vt filio et heredi. ita quod vacante predicta ecclesia tempore domini regis Iohannis dissencio oriebatur </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_174" custom="readingOrder {index:9;}">
@@ -459,7 +459,7 @@
                 <Coords points="114,2167 428,2182 610,2193 911,2207 1073,2209 1073,2177 911,2175 610,2161 428,2150 114,2135" />
                 <Baseline points="114,2160 428,2175 610,2186 911,2200 1073,2202" />
                 <TextEquiv>
-                    <Unicode>dictam, et quod non est aliqua fraus inter ipsum abbatem et predictos Radulfum et Iohannam prelocuta. Et iuratores quesiti de </Unicode>
+                    <Unicode>dictam. et quod non est aliqua fraus inter ipsum abbatem et predictos Radulfum et Iohannam prelocuta. Et iuratores quesiti de </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_961" custom="readingOrder {index:64;}">

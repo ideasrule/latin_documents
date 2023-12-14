@@ -25,7 +25,7 @@
                 <Coords points="16,115 155,109 319,99 474,86 572,80 713,75 833,64 940,70 940,37 833,31 713,42 572,47 474,53 319,66 155,76 16,82" />
                 <Baseline points="16,108 155,102 319,92 474,79 572,73 713,68 833,57 940,63" />
                 <TextEquiv>
-                    <Unicode>Iidem Ricardus et Thomas, Gilbertus le Clerk et Galfridus le Neir attachiati fuerunt ad respondendum Hugoni de </Unicode>
+                    <Unicode>Iidem Ricardus et Thomas. Gilbertus le Clerk et Galfridus le Neir attachiati fuerunt ad respondendum Hugoni de </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_46" custom="readingOrder {index:2;}">
@@ -74,7 +74,7 @@
                 <Coords points="15,342 109,334 297,324 408,325 553,317 745,314 883,310 976,312 976,279 883,277 745,281 553,284 408,292 297,291 109,301 15,309" />
                 <Baseline points="15,335 109,327 297,317 408,318 553,310 745,307 883,303 976,305" />
                 <TextEquiv>
-                    <Unicode>manerium cum manuopere alicujus latrocinii; et similiter quidam Robertus le Mareschall postquam Johannes Rex pater </Unicode>
+                    <Unicode>manerium cum manuopere alicujus latrocinii. et similiter quidam Robertus le Mareschall postquam Johannes Rex pater</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_164" custom="readingOrder {index:9;}">
@@ -95,7 +95,7 @@
                 <Coords points="11,442 117,436 288,427 546,414 797,410 950,409 950,376 797,377 546,381 288,394 117,403 11,409" />
                 <Baseline points="11,435 117,429 288,420 546,407 797,403 950,402" />
                 <TextEquiv>
-                    <Unicode>cujusdam equi furati in predicto manerio cepit et secundum consuetudinem regni suspendi fecit; et similiter </Unicode>
+                    <Unicode>cujusdam equi furati in predicto manerio cepit et secundum consuetudinem regni suspendi fecit. et similiter </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_212" custom="readingOrder {index:12;}">
@@ -109,7 +109,7 @@
                 <Coords points="7,512 132,509 229,503 393,493 588,482 706,476 831,476 956,476 956,443 831,443 706,443 588,449 393,460 229,470 132,476 7,479" />
                 <Baseline points="7,505 132,502 229,496 393,486 588,475 706,469 831,469 956,469" />
                 <TextEquiv>
-                    <Unicode>fuit in seisina de eadem libertate tanquam ad predictum manerium pertinente, et post mortem ipsius Hugonis quidam Willelmus </Unicode>
+                    <Unicode>fuit in seisina de eadem libertate tanquam ad predictum manerium pertinente. et post mortem ipsius Hugonis quidam Willelmus </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_246" custom="readingOrder {index:14;}">
@@ -137,7 +137,7 @@
                 <Coords points="9,650 151,643 335,628 593,615 784,606 949,605 949,572 784,573 593,582 335,595 151,610 9,617" />
                 <Baseline points="9,643 151,636 335,621 593,608 784,599 949,598" />
                 <TextEquiv>
-                    <Unicode>fecit cum manuopere pannorum furatorum ac inprisonare in prisona sua de Norton; predicti Ricardus et alii venerunt die </Unicode>
+                    <Unicode>fecit cum manuopere pannorum furatorum ac inprisonare in prisona sua de Norton. predicti Ricardus et alii venerunt die </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_308" custom="readingOrder {index:18;}">

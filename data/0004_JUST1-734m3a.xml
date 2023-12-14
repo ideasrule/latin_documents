@@ -67,7 +67,7 @@
                 <Coords points="20,349 113,344 242,347 400,340 520,337 687,334 935,325 935,288 687,297 520,300 400,303 242,310 113,307 20,312" />
                 <Baseline points="20,341 113,336 242,339 400,332 520,329 687,326 935,317" />
                 <TextEquiv>
-                    <Unicode>na pasture sue in Northbyr' que pertinet ad liberum tenementum suum in eadem villa post primam etc. Et unde queritur </Unicode>
+                    <Unicode>na pasture sue in Northbyr que pertinet ad liberum tenementum suum in eadem villa post primam etc. Et unde queritur </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_129" custom="readingOrder {index:8;}">

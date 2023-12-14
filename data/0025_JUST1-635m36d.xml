@@ -53,7 +53,7 @@
                 <Coords points="19,209 519,208 821,200 1121,194 1121,165 821,171 519,179 19,180" />
                 <Baseline points="19,203 519,202 821,194 1121,188" />
                 <TextEquiv>
-                    <Unicode>Et iuratatores testantur quod predictus Iohannes molendinarius obiit Ideo nichil ulterius de eo. Primum inuentor obiit – Postea</Unicode>
+                    <Unicode>Et iuratatores testantur quod predictus Iohannes molendinarius obiit Ideo nichil ulterius de eo. Primum inuentor obiit -- Postea</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_82" custom="readingOrder {index:6;}">

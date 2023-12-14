@@ -32,7 +32,7 @@
                 <Coords points="20,150 92,140 257,132 398,129 476,130 573,130 721,129 857,129 908,129 908,89 857,89 721,89 573,90 476,90 398,89 257,92 92,100 20,110" />
                 <Baseline points="20,141 92,131 257,123 398,120 476,121 573,121 721,120 857,120 908,120" />
                 <TextEquiv>
-                    <Unicode>horam vesperam die veneris proximo ante festum Sancti Philippi ante portam latinam anno xxxviii&#176; venerunt</Unicode>
+                    <Unicode>horam vesperam die veneris proximo ante festum Sancti Philippi ante portam latinam anno xxxviii venerunt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_122" custom="readingOrder {index:3;}">
@@ -116,7 +116,7 @@
                 <Coords points="44,622 171,609 323,602 524,601 752,593 919,579 919,539 752,553 524,561 323,562 171,569 44,582" />
                 <Baseline points="44,613 171,600 323,593 524,592 752,584 919,570" />
                 <TextEquiv>
-                    <Unicode>Et Ricardus le Clav' et Johannes Festhard non venerunt. Et predictus Willelmus Torel manucepit habere ipsos coram justiciariis </Unicode>
+                    <Unicode>Et Ricardus le Clav et Johannes Festhard non venerunt. Et predictus Willelmus Torel manucepit habere ipsos coram justiciariis </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_238" custom="readingOrder {index:15;}">
