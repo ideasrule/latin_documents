@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2023-12-13T08:18:28.202+01:00</Created>
-        <LastChange>2023-12-13T08:49:20.462+01:00</LastChange>
-        <TranskribusMetadata docId="1640070" pageId="62437100" pageNr="17" tsid="142897916" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=MNXUMVWNVCNRLYVKYQMAMXUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WKWXXYFPXXBARLCUUZKTDKTX" imageId="50408131"/>
+        <LastChange>2024-01-03T07:40:49.097+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="62437100" pageNr="17" tsid="144288225" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=MNXUMVWNVCNRLYVKYQMAMXUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXJGRCCHHSVLNHNYCSEUPJVP" imageId="50408131"/>
     </Metadata>
     <Page imageFilename="JUST1-633m80.jpg" imageWidth="1093" imageHeight="975">
         <ReadingOrder>
-            <OrderedGroup id="ro_1704262311887" caption="Regions reading order">
+            <OrderedGroup id="ro_1704264367108" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="s_303"/>
             </OrderedGroup>
         </ReadingOrder>
@@ -29,175 +29,189 @@
                     <Unicode>versus Robertum de Rissheton de placito quare cum de communi consilio regni regis prouisum sit quod non liceat alicui vastum </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_306" custom="readingOrder {index:2;}">
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="750,112 806,112 806,102 750,102"/>
+                <Baseline points="750,112 806,112"/>
+                <TextEquiv>
+                    <Unicode>ecclesie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="s_306" custom="readingOrder {index:3;}">
                 <Coords points="45,112 86,110 180,104 303,100 505,94 560,96 599,95 653,94 792,95 890,95 1068,100 1068,91 890,86 792,86 653,85 599,86 560,87 505,85 303,91 180,95 85,101 45,103"/>
                 <Baseline points="45,112 86,110 180,104 303,100 505,94 560,96 599,95 653,94 792,95 890,95 1068,100"/>
                 <TextEquiv>
                     <Unicode>vendicionem seu destruccionem facere de terris domibus boscis seu gardinis dimissis sibi ad terminum vite vel annorum </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_307" custom="readingOrder {index:3;}">
+            <TextLine id="s_307" custom="readingOrder {index:4;}">
                 <Coords points="44,144 110,138 227,131 320,128 472,127 566,125 662,127 754,128 827,128 1002,128 1055,130 1055,121 1002,119 827,119 754,119 662,118 566,116 472,118 320,119 227,122 109,129 43,135"/>
                 <Baseline points="44,144 110,138 227,131 320,128 472,127 566,125 662,127 754,128 827,128 1002,128 1055,130"/>
                 <TextEquiv>
                     <Unicode>idem Robertus de domibus et gardinis in Rissheton que Robertus quondam prior ecclesie beate Marie de Huntyndon pre</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_308" custom="readingOrder {index:4;}">
+            <TextLine id="s_308" custom="readingOrder {index:5;}">
                 <Coords points="37,175 141,169 226,164 327,160 460,160 532,159 672,162 856,165 994,166 1059,167 1060,157 994,157 856,156 673,152 532,150 460,151 327,151 226,155 140,160 36,166"/>
                 <Baseline points="37,175 141,169 226,164 327,160 460,160 532,159 672,162 856,165 994,166 1059,167"/>
                 <TextEquiv>
                     <Unicode>decessor predicti prioris ei dimisit ad vitam ipsius Roberti de Rissheton fecit vastum vendicionem et destruccionem </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_309" custom="readingOrder {index:5;}">
+            <TextLine id="s_309" custom="readingOrder {index:6;}">
                 <Coords points="40,212 150,206 273,199 416,195 504,195 595,197 706,198 735,202 850,204 922,202 1064,203 1064,194 922,193 850,195 736,193 707,189 595,188 504,186 416,186 273,190 149,197 39,203"/>
                 <Baseline points="40,212 150,206 273,199 416,195 504,195 595,197 706,198 735,202 850,204 922,202 1064,203"/>
                 <TextEquiv>
                     <Unicode>ad exheredacionem ecclesie ipsius prioris beate Marie de Huntyngdon et contra formam prouisionis predicte etc.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_310" custom="readingOrder {index:6;}">
+            <TextLine id="s_310" custom="readingOrder {index:7;}">
                 <Coords points="40,253 161,248 294,238 436,233 525,230 644,231 736,234 882,238 969,236 1069,238 1069,229 969,227 882,229 736,225 644,222 525,221 436,224 293,229 160,239 40,244"/>
                 <Baseline points="40,253 161,248 294,238 436,233 525,230 644,231 736,234 882,238 969,236 1069,238"/>
                 <TextEquiv>
                     <Unicode>Et ipse non venit. Et alias preceptum fuit vicecomiti quod summoneret eum quod esset hic ad primam assisam. Et vicecomes nichil inde fecit </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_311" custom="readingOrder {index:7;}">
+            <TextLine id="s_311" custom="readingOrder {index:8;}">
                 <Coords points="41,285 166,280 352,270 464,271 529,266 604,269 709,270 847,272 951,272 1048,272 1048,263 951,263 847,263 709,261 604,260 529,257 464,262 352,261 166,271 41,276"/>
                 <Baseline points="41,285 166,280 352,270 464,271 529,266 604,269 709,270 847,272 951,272 1048,272"/>
                 <TextEquiv>
                     <Unicode>set mandauit quod predictus Robertus nichil habet in balliua sua vbi potest summoniri etc. Ideo preceptum fuit vicecomiti quod </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_312" custom="readingOrder {index:8;}">
+            <TextLine id="s_312" custom="readingOrder {index:9;}">
                 <Coords points="38,320 112,316 214,313 332,306 480,304 602,303 751,303 833,305 931,309 1063,311 1063,302 931,300 833,296 751,294 602,294 480,295 332,297 214,304 112,307 37,311"/>
                 <Baseline points="38,320 112,316 214,313 332,306 480,304 602,303 751,303 833,305 931,309 1063,311"/>
                 <TextEquiv>
                     <Unicode>summoneret eum ad tenementa vastata etc. quod esset hic die Veneris proxima post festum Sancti Martini; et vnde etc. Ad quem </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_313" custom="readingOrder {index:9;}">
+            <TextLine id="s_313" custom="readingOrder {index:10;}">
                 <Coords points="34,351 151,348 277,340 373,340 538,339 658,341 790,341 878,343 1070,345 1070,336 878,334 790,332 658,332 538,330 373,331 277,331 151,339 34,342"/>
                 <Baseline points="34,351 151,348 277,340 373,340 538,339 658,341 790,341 878,343 1070,345"/>
                 <TextEquiv>
                     <Unicode>diem predictus prior optulit se versus predictum Robertum de predicto placito. Et ipse non venit. Et vicecomes tunc mandauit quod pre</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_314" custom="readingOrder {index:10;}">
+            <TextLine id="s_314" custom="readingOrder {index:11;}">
                 <Coords points="31,388 141,384 271,375 377,372 471,375 587,373 738,372 903,373 970,376 1070,373 1070,364 970,367 903,364 738,363 587,364 471,366 377,363 271,366 141,375 31,379"/>
                 <Baseline points="31,388 141,384 271,375 377,372 471,375 587,373 738,372 903,373 970,376 1070,373"/>
                 <TextEquiv>
                     <Unicode>dictus Robertus fuit summonitus etc. Ita quod tunc preceptum fuit vicecomiti quod attachiaret eum quod esset hic die Sabati proxima post festum </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_315" custom="readingOrder {index:11;}">
+            <TextLine id="s_315" custom="readingOrder {index:12;}">
                 <Coords points="31,424 137,416 261,408 417,407 535,410 696,408 758,408 874,411 1060,412 1060,403 874,402 758,399 696,399 535,401 417,398 261,399 136,407 30,415"/>
                 <Baseline points="31,424 137,416 261,408 417,407 535,410 696,408 758,408 874,411 1060,412"/>
                 <TextEquiv>
                     <Unicode>Sancte Katerine etc. Ad quem diem predictus prior optulit se versus predictum Robertum de predicto placito. Et ipse tunc non venit. </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_316" custom="readingOrder {index:12;}">
+            <TextLine id="l_276" custom="readingOrder {index:13;}">
+                <Coords points="392,426 445,428 445,418 392,416"/>
+                <Baseline points="392,426 445,428"/>
+                <TextEquiv>
+                    <Unicode>sicut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="s_316" custom="readingOrder {index:14;}">
                 <Coords points="24,452 150,447 267,442 392,443 475,442 601,441 711,442 876,446 978,447 1073,447 1073,438 978,438 876,437 711,433 601,432 475,433 392,434 267,433 150,438 24,443"/>
                 <Baseline points="24,452 150,447 267,442 392,443 475,442 601,441 711,442 876,446 978,447 1073,447"/>
                 <TextEquiv>
                     <Unicode>Et vicecomes nichil inde fecit. Ita quod tune sicut prius preceptum fuit vicecomiti quod attachiaret eum quod esset hic ad hunc diem </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_317" custom="readingOrder {index:13;}">
+            <TextLine id="s_317" custom="readingOrder {index:15;}">
                 <Coords points="24,486 224,478 328,472 353,477 419,476 486,479 615,476 641,477 843,480 998,485 1075,485 1075,476 998,476 843,471 641,468 615,467 486,470 419,467 354,468 329,463 224,469 24,477"/>
                 <Baseline points="24,486 224,478 328,472 353,477 419,476 486,479 615,476 641,477 843,480 998,485 1075,485"/>
                 <TextEquiv>
                     <Unicode>scilicet diem Mercurii proximam post octabas Sancti Hillarii. Et modo venit predictus prior per predictum attornatum suum et optulit se versus </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_318" custom="readingOrder {index:14;}">
+            <TextLine id="s_318" custom="readingOrder {index:16;}">
                 <Coords points="23,520 139,516 259,512 390,508 507,507 581,512 691,512 873,515 948,516 1071,519 1071,510 948,507 873,506 691,503 581,503 507,498 390,499 259,503 139,507 23,511"/>
                 <Baseline points="23,520 139,516 259,512 390,508 507,507 581,512 691,512 873,515 948,516 1071,519"/>
                 <TextEquiv>
                     <Unicode>predictum Robertum de predicto placito. Et ipse non venit. Et vicecomes modo mandat quod predictus Robertus nichil habet </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_319" custom="readingOrder {index:15;}">
+            <TextLine id="s_319" custom="readingOrder {index:17;}">
                 <Coords points="21,557 113,552 226,548 335,543 463,544 570,543 664,545 804,550 932,550 1073,553 1073,544 932,541 804,541 664,536 570,534 463,535 335,534 226,539 113,543 20,548"/>
                 <Baseline points="21,557 113,552 226,548 335,543 463,544 570,543 664,545 804,550 932,550 1073,553"/>
                 <TextEquiv>
                     <Unicode>in balliua sua per quod potest attachiari. Ideo preceptum est vicecomiti per statutum etc. quod distringat eum per omnes terras etc. et </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_320" custom="readingOrder {index:16;}">
+            <TextLine id="s_320" custom="readingOrder {index:18;}">
                 <Coords points="17,593 139,585 257,582 396,581 556,582 722,585 855,585 994,586 1078,589 1078,580 994,577 855,576 722,576 556,573 396,572 257,573 139,576 16,584"/>
                 <Baseline points="17,593 139,585 257,582 396,581 556,582 722,585 855,585 994,586 1078,589"/>
                 <TextEquiv>
                     <Unicode>quod de exitibus etc. et quod habeat corpus cius hic die Sabati proxima post octabas Purificacionis beate Marie etc. Ad quem </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_321" custom="readingOrder {index:17;}">
+            <TextLine id="s_321" custom="readingOrder {index:19;}">
                 <Coords points="16,627 93,624 237,619 321,615 394,615 502,615 579,617 642,619 729,620 880,620 998,623 1081,626 1081,617 998,614 880,611 729,611 642,610 579,608 502,606 394,606 321,606 237,610 93,615 16,618"/>
                 <Baseline points="16,627 93,624 237,619 321,615 394,615 502,615 579,617 642,619 729,620 880,620 998,623 1081,626"/>
                 <TextEquiv>
                     <Unicode>diem venit predictus prior per predictum attornatum suum et optulit se versus predictum Robertum de predicto placito. Et ipse non venit. </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_322" custom="readingOrder {index:18;}">
+            <TextLine id="s_322" custom="readingOrder {index:20;}">
                 <Coords points="11,660 95,657 226,653 353,650 468,653 602,657 777,656 957,656 1070,662 1071,653 957,647 777,647 602,648 468,644 353,641 226,644 95,648 11,651"/>
                 <Baseline points="11,660 95,657 226,653 353,650 468,653 602,657 777,656 957,656 1070,662"/>
                 <TextEquiv>
                     <Unicode>Et preceptum fuit vicecomiti quod distringeret eum vt patet supra. Et vicecomes modo mandat quod idem Robertus nichil habet </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_323" custom="readingOrder {index:19;}">
+            <TextLine id="s_323" custom="readingOrder {index:21;}">
                 <Coords points="15,694 116,692 238,690 343,687 489,688 588,689 678,689 812,691 909,694 1076,698 1076,689 909,685 812,682 678,680 588,680 489,679 343,678 238,681 116,683 15,685"/>
                 <Baseline points="15,694 116,692 238,690 343,687 489,688 588,689 678,689 812,691 909,694 1076,698"/>
                 <TextEquiv>
                     <Unicode>in balliua sua per quod potest distringi. Ideo per statutum preceptum est vicecomiti quod in propria persona sua accedat ad predicta </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_324" custom="readingOrder {index:20;}">
+            <TextLine id="s_324" custom="readingOrder {index:22;}">
                 <Coords points="15,731 125,729 217,727 338,726 570,727 771,729 923,729 1071,734 1071,725 923,720 771,720 570,718 338,717 217,718 125,720 15,722"/>
                 <Baseline points="15,731 125,729 217,727 338,726 570,727 771,729 923,729 1071,734"/>
                 <TextEquiv>
                     <Unicode>tenementa vastata et ibidem coram eo venire faciat .xij. etc. et per eorum sacramentum diligenter inquirat quod vastum quam </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_325" custom="readingOrder {index:21;}">
+            <TextLine id="s_325" custom="readingOrder {index:23;}">
                 <Coords points="13,765 114,762 254,764 422,763 575,767 800,765 943,769 1080,775 1080,766 943,760 800,756 575,758 422,754 254,755 114,753 13,756"/>
                 <Baseline points="13,765 114,762 254,764 422,763 575,767 800,765 943,769 1080,775"/>
                 <TextEquiv>
                     <Unicode>vendicionem et destruccionem predictus Robertus fecit in predictis tenementis et inquisicionem inde distincte et aperte factam </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_326" custom="readingOrder {index:22;}">
+            <TextLine id="s_326" custom="readingOrder {index:24;}">
                 <Coords points="13,803 102,800 202,800 281,800 473,802 592,803 776,803 833,807 973,810 1074,814 1074,805 973,801 833,798 776,794 592,794 473,793 281,791 202,791 102,791 13,794"/>
                 <Baseline points="13,803 102,800 202,800 281,800 473,802 592,803 776,803 833,807 973,810 1074,814"/>
                 <TextEquiv>
                     <Unicode>constare faciat iusticiaris hic die Lune in prima septimana Quadragesime sub sigillo et sigillis etc. Etinterim etc.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_327" custom="readingOrder {index:23;}">
+            <TextLine id="s_327" custom="readingOrder {index:25;}">
                 <Coords points="12,837 112,838 250,837 447,840 548,838 662,840 788,843 984,847 1075,854 1076,845 984,838 788,834 662,831 548,829 447,831 250,828 112,829 12,828"/>
                 <Baseline points="12,837 112,838 250,837 447,840 548,838 662,840 788,843 984,847 1075,854"/>
                 <TextEquiv>
                     <Unicode>Ad quem diem vicecomes non misit preceptum. Ideo sicut prius preceptum est vicecomiti quod in propria persona sua accedat ad predicta</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_328" custom="readingOrder {index:24;}">
+            <TextLine id="s_328" custom="readingOrder {index:26;}">
                 <Coords points="11,871 126,871 320,877 434,880 597,881 765,885 991,884 1073,885 1073,876 991,875 765,876 597,872 434,871 320,868 126,862 11,862"/>
                 <Baseline points="11,871 126,871 320,877 434,880 597,881 765,885 991,884 1073,885"/>
                 <TextEquiv>
                     <Unicode>tenementa vastata et ibidem coram eo venire faciat .xij. etc. et per eorum sacramentum diligenter inquirat quod </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_329" custom="readingOrder {index:25;}">
+            <TextLine id="s_329" custom="readingOrder {index:27;}">
                 <Coords points="10,908 125,911 224,913 434,918 557,921 695,923 891,929 1022,930 1079,930 1079,921 1022,921 891,920 695,914 557,912 434,909 224,904 125,902 10,899"/>
                 <Baseline points="10,908 125,911 224,913 434,918 557,921 695,923 891,929 1022,930 1079,930"/>
                 <TextEquiv>
                     <Unicode>vastum quam vendicionem et destruccionem predictus Robertus fecit in predictis tenementis et inquisicionem etc. scire faciat hic </Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="s_330" custom="readingOrder {index:26;}">
+            <TextLine id="s_330" custom="readingOrder {index:28;}">
                 <Coords points="6,948 123,947 273,949 503,954 676,962 747,962 832,965 832,956 747,953 676,953 503,945 273,940 123,938 6,939"/>
                 <Baseline points="6,948 123,947 273,949 503,954 676,962 747,962 832,965"/>
                 <TextEquiv>
