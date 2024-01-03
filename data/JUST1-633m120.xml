@@ -124,7 +124,7 @@
                 <Coords points="20,603 141,599 286,595 437,589 667,584 854,578 928,577 1024,572 1023,562 928,567 854,568 667,574 437,579 286,585 141,589 20,593"/>
                 <Baseline points="20,603 141,599 286,595 437,589 667,584 854,578 928,577 1024,572"/>
                 <TextEquiv>
-                    <Unicode>Philippo fratri eiusdem Radulphi et heredibus de corpore suo exeuntibus remanerent: et que post mortem predictorum </Unicode>
+                    <Unicode>Philippo fratri eiusdem Radulphi et heredibus de corpore suo exeuntibus remanerent et que post mortem predictorum </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_377" custom="readingOrder {index:16;}">

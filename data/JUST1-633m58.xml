@@ -75,7 +75,7 @@
                 <Coords points="19,240 83,236 162,234 224,236 328,234 490,233 633,232 776,233 818,236 904,236 998,236 1088,234 1088,225 998,227 904,227 818,227 776,224 633,223 490,224 328,225 224,227 162,225 83,227 18,231"/>
                 <Baseline points="19,240 83,236 162,234 224,236 328,234 490,233 633,232 776,233 818,236 904,236 998,236 1088,234"/>
                 <TextEquiv>
-                    <Unicode>eiusdem regis etc. Et de ipso Ricardo quia obiit etc. descendit Ius etc. cuidam Rogero vt fratri et heredi; qui quidem Rogerus ecclesia </Unicode>
+                    <Unicode>eiusdem regis etc. Et de ipso Ricardo quia obiit etc. descendit Ius etc. cuidam Rogero vt fratri et heredi qui quidem Rogerus ecclesia </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_206" custom="readingOrder {index:9;}">
@@ -166,7 +166,7 @@
                 <Coords points="10,686 102,688 253,691 439,692 578,694 708,697 790,697 888,697 888,688 790,688 708,688 578,685 439,683 253,682 102,679 10,677"/>
                 <Baseline points="10,686 102,688 253,691 439,692 578,694 708,697 790,697 888,697"/>
                 <TextEquiv>
-                    <Unicode>eadem ecclesia non vacat per mortem eiusdem Stephani. Et hoc pretendunt verificare; vnde petunt Iudicium etc.</Unicode>
+                    <Unicode>eadem ecclesia non vacat per mortem eiusdem Stephani. Et hoc pretendunt verificare vnde petunt Iudicium etc.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_489" custom="readingOrder {index:22;}">

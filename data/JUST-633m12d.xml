@@ -68,7 +68,7 @@
                 <Coords points="49,268 104,264 278,254 355,252 625,240 782,236 929,237 1098,234 1098,219 929,222 782,221 624,225 354,237 277,239 103,249 48,253"/>
                 <Baseline points="49,268 104,264 278,254 355,252 625,240 782,236 929,237 1098,234"/>
                 <TextEquiv>
-                    <Unicode>fuerunt in seisina cuiusdam Radulfi de Hanyngton in dominico suo vt de feodo; quo tempore communa pasture in aliquo </Unicode>
+                    <Unicode>fuerunt in seisina cuiusdam Radulfi de Hanyngton in dominico suo vt de feodo quo tempore communa pasture in aliquo </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_133" custom="readingOrder {index:8;}">
@@ -229,7 +229,7 @@
                 <Coords points="67,960 187,957 298,955 427,952 550,946 705,938 841,932 996,922 995,907 840,917 704,923 549,931 426,937 298,940 187,942 67,945"/>
                 <Baseline points="67,960 187,957 298,955 427,952 550,946 705,938 841,932 996,922"/>
                 <TextEquiv>
-                    <Unicode>sufficere debet pro titulo ad assisam istam in casu isto attingendam; et petit iudicium etc. </Unicode>
+                    <Unicode>sufficere debet pro titulo ad assisam istam in casu isto attingendam et petit iudicium etc. </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_380" custom="readingOrder {index:31;}">

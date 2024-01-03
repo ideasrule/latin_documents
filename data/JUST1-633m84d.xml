@@ -201,7 +201,7 @@
                 <Coords points="22,976 134,981 238,977 318,982 467,986 557,991 670,995 798,1000 894,1003 917,1005 944,1008 1024,1016 1124,1018 1124,1009 1025,1007 945,999 918,996 895,994 798,991 670,986 557,982 467,977 318,973 238,968 134,972 22,967"/>
                 <Baseline points="22,976 134,981 238,977 318,982 467,986 557,991 670,995 798,1000 894,1003 917,1005 944,1008 1024,1016 1124,1018"/>
                 <TextEquiv>
-                    <Unicode>predicti prioris de duello Petrus le fitz Waryn et Willelmus de Leycestre; plegii predicti Thome de duello </Unicode>
+                    <Unicode>predicti prioris de duello Petrus le fitz Waryn et Willelmus de Leycestre plegii predicti Thome de duello </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_600" custom="readingOrder {index:27;}">

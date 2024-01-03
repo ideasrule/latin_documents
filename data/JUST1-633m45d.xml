@@ -194,7 +194,7 @@
                 <Coords points="46,1056 144,1053 242,1053 336,1059 408,1059 456,1062 509,1067 649,1073 790,1076 844,1082 936,1081 1092,1079 1092,1064 936,1066 845,1067 791,1061 649,1058 510,1052 457,1047 408,1044 336,1044 242,1038 144,1038 46,1041"/>
                 <Baseline points="46,1056 144,1053 242,1053 336,1059 408,1059 456,1062 509,1067 649,1073 790,1076 844,1082 936,1081 1092,1079"/>
                 <TextEquiv>
-                    <Unicode>lyngton iuratores: qui dicunt super sacramentum suum quod predictus Robertus de Rissheton fecit vastum et destruccionem </Unicode>
+                    <Unicode>lyngton iuratores qui dicunt super sacramentum suum quod predictus Robertus de Rissheton fecit vastum et destruccionem </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_599" custom="readingOrder {index:26;}">

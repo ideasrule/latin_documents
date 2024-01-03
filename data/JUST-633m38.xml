@@ -173,7 +173,7 @@
                 <Coords points="16,697 126,701 267,704 412,706 625,706 647,709 830,707 963,709 1099,713 1099,698 963,694 830,692 648,694 626,691 412,691 267,689 126,686 17,682"/>
                 <Baseline points="16,697 126,701 267,704 412,706 625,706 647,709 830,707 963,709 1099,713"/>
                 <TextEquiv>
-                    <Unicode>predicti debent facere finem cum predicto abbate pro filiabus suis maritandis; et erunt prepositi ipsius abbatis per electionem tenencium </Unicode>
+                    <Unicode>predicti debent facere finem cum predicto abbate pro filiabus suis maritandis et erunt prepositi ipsius abbatis per electionem tenencium </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_411" custom="readingOrder {index:23;}">

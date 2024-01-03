@@ -82,7 +82,7 @@
                 <Coords points="38,320 112,316 214,313 332,306 480,304 602,303 751,303 833,305 931,309 1063,311 1063,302 931,300 833,296 751,294 602,294 480,295 332,297 214,304 112,307 37,311"/>
                 <Baseline points="38,320 112,316 214,313 332,306 480,304 602,303 751,303 833,305 931,309 1063,311"/>
                 <TextEquiv>
-                    <Unicode>summoneret eum ad tenementa vastata etc. quod esset hic die Veneris proxima post festum Sancti Martini; et vnde etc. Ad quem </Unicode>
+                    <Unicode>summoneret eum ad tenementa vastata etc. quod esset hic die Veneris proxima post festum Sancti Martini et vnde etc. Ad quem </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="s_313" custom="readingOrder {index:10;}">
