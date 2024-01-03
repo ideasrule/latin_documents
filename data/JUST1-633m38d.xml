@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-12-31T05:05:51.400+01:00</Created>
+        <LastChange>2023-12-31T05:16:51.135+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63020757" pageNr="9" tsid="144213983" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=YZVXGLSDERHGBLKJSPQEVZDW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SIFKEURHTYFLSAMHRAAGLHDS" imageId="50944707"/>
+    </Metadata>
+    <Page imageFilename="JUST1-633m38d.jpeg" imageWidth="1148" imageHeight="586">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262310173" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1149,571 1,571 1,12 1149,12"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="6,58 140,60 376,58 618,54 876,50 996,47 1137,45 1137,30 996,32 876,35 618,39 376,43 140,45 6,43"/>
+                <Baseline points="6,58 140,60 376,58 618,54 876,50 996,47 1137,45"/>
+                <TextEquiv>
+                    <Unicode>Robertus filius Simonis de Twyford petit versus Nicholaum de Pyrie de Touecestre et Iohannam vxorem eius septem acras </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:1;}">
+                <Coords points="20,87 112,88 144,91 232,91 330,94 449,91 601,90 727,91 920,87 1031,86 1138,86 1138,71 1031,71 920,72 727,76 601,75 449,76 330,79 232,76 145,76 113,73 20,72"/>
+                <Baseline points="20,87 112,88 144,91 232,91 330,94 449,91 601,90 727,91 920,87 1031,86 1138,86"/>
+                <TextEquiv>
+                    <Unicode>terre et dimidiam et vnam acram prati cum pertinencis in Touecestre quas Iohannes filius Galfridi de Burcote dedit Simoni de Twy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:2;}">
+                <Coords points="21,123 169,125 255,127 331,129 425,129 545,129 678,127 882,122 1053,119 1138,119 1138,104 1053,104 882,107 678,112 545,114 425,114 331,114 255,112 169,110 21,108"/>
+                <Baseline points="21,123 169,125 255,127 331,129 425,129 545,129 678,127 882,122 1053,119 1138,119"/>
+                <TextEquiv>
+                    <Unicode>ford clerico in liberum maritagium cum Iohanna filia eiusdem Iohannis et que post mortem predictorum Simonis et Iohanne prefa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:3;}">
+                <Coords points="26,157 139,157 207,160 363,163 456,163 637,163 744,162 916,158 916,143 744,147 637,148 456,148 363,148 207,145 139,142 26,142"/>
+                <Baseline points="26,157 139,157 207,160 363,163 456,163 637,163 744,162 916,158"/>
+                <TextEquiv>
+                    <Unicode>to Roberto filio et heredi eorundem Simonis et Iohanne descendere debent per formam donacionis predicte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_88" custom="readingOrder {index:4;}">
+                <Coords points="27,193 196,192 302,196 443,198 587,197 761,194 807,197 950,194 1132,193 1132,178 950,179 807,182 761,179 587,182 443,183 302,181 196,177 27,178"/>
+                <Baseline points="27,193 196,192 302,196 443,198 587,197 761,194 807,197 950,194 1132,193"/>
+                <TextEquiv>
+                    <Unicode>Et Nicholaus et Iohanna veniunt et dicunt quod predictus Robertus nichil juris clamare potest in predictis tenementis. Quia dicunt quod predicti Si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_108" custom="readingOrder {index:5;}">
+                <Coords points="36,225 128,224 223,226 358,231 429,233 566,232 735,230 926,229 1113,223 1113,208 926,214 735,215 566,217 429,218 358,216 223,211 128,209 36,210"/>
+                <Baseline points="36,225 128,224 223,226 358,231 429,233 566,232 735,230 926,229 1113,223"/>
+                <TextEquiv>
+                    <Unicode>mon et Iohanna quibus predictus Robertus supponit predicta tenementa fuisse data in liberum maritagium habuerunt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_128" custom="readingOrder {index:6;}">
+                <Coords points="39,255 171,255 251,257 380,258 412,262 518,261 674,260 802,261 817,262 995,262 1031,264 1123,264 1123,249 1031,249 995,247 817,247 803,246 674,245 518,246 413,247 381,243 251,242 171,240 39,240"/>
+                <Baseline points="39,255 171,255 251,257 380,258 412,262 518,261 674,260 802,261 817,262 995,262 1031,264 1123,264"/>
+                <TextEquiv>
+                    <Unicode>mon et Iohanna quibus predictus Robertus supponit predicta tenementa fuisse data in liberum maritagium habuerunt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_154" custom="readingOrder {index:7;}">
+                <Coords points="32,290 139,289 301,292 438,296 626,295 762,295 910,296 1067,298 1097,298 1125,297 1124,282 1097,283 1067,283 910,281 762,280 626,280 438,281 301,277 139,274 32,275"/>
+                <Baseline points="32,290 139,289 301,292 438,296 626,295 762,295 910,296 1067,298 1097,298 1125,297"/>
+                <TextEquiv>
+                    <Unicode>Iohanne successit eis in eisdem tenementis vt filius et heres etc. Et de predictis tenementis feoffauit predictos Nicholaum et Iohannam vxorem eius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_176" custom="readingOrder {index:8;}">
+                <Coords points="43,322 101,320 157,323 328,324 438,328 495,327 651,327 814,329 989,332 1126,330 1126,315 989,317 814,314 651,312 495,312 438,313 328,309 157,308 101,305 42,307"/>
+                <Baseline points="43,322 101,320 157,323 328,324 438,328 495,327 651,327 814,329 989,332 1126,330"/>
+                <TextEquiv>
+                    <Unicode>tendendo eisdem Nicholao et Iohanne et heredibus ipsius Nicholai et obligauit se et heredes suos ad warantizandum predicta tenementa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_198" custom="readingOrder {index:9;}">
+                <Coords points="46,355 166,354 227,356 359,358 542,361 678,361 803,361 937,363 1061,364 1124,362 1124,347 1061,349 937,348 803,346 678,346 542,346 359,343 227,341 166,339 46,340"/>
+                <Baseline points="46,355 166,354 227,356 359,358 542,361 678,361 803,361 937,363 1061,364 1124,362"/>
+                <TextEquiv>
+                    <Unicode>eisdem Nicholao et Iohanne et heredibus ipsius Nicholai imperpetuum. Et proferunt cartam predicti Hugonis que hoc idem testatur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_220" custom="readingOrder {index:10;}">
+                <Coords points="43,391 142,389 284,388 424,393 562,394 689,394 757,396 894,399 1002,398 1134,398 1134,383 1002,383 894,384 757,381 689,379 562,379 424,378 284,373 142,374 43,376"/>
+                <Baseline points="43,391 142,389 284,388 424,393 562,394 689,394 757,396 894,399 1002,398 1134,398"/>
+                <TextEquiv>
+                    <Unicode>etc. Et dicunt quod idem Robertus frater et heres predicti Hugonis satis habuit per decensum hereditarium de ipso Hugone in feodo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_242" custom="readingOrder {index:11;}">
+                <Coords points="45,421 175,422 323,422 501,425 604,426 768,427 953,429 1072,431 1127,431 1127,416 1072,416 953,414 768,412 604,411 501,410 323,407 175,407 45,406"/>
+                <Baseline points="45,421 175,422 323,422 501,425 604,426 768,427 953,429 1072,431 1127,431"/>
+                <TextEquiv>
+                    <Unicode>simplici in eadem villa. Et hec pretendunt verificare et petunt judicium etc. Et predictus Robertus non dedicit quin predictum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_265" custom="readingOrder {index:12;}">
+                <Coords points="45,453 153,451 291,453 405,454 573,459 705,457 806,460 944,462 1122,463 1122,448 944,447 806,445 705,442 573,444 405,439 291,438 153,436 45,438"/>
+                <Baseline points="45,453 153,451 291,453 405,454 573,459 705,457 806,460 944,462 1122,463"/>
+                <TextEquiv>
+                    <Unicode>scriptum sit factum predicti Hugonis fratris etc. sed dicit quod ipse nuncquam aliquid habuit per decensum hereditarium in feodo sim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_285" custom="readingOrder {index:13;}">
+                <Coords points="52,485 160,485 274,487 414,487 567,491 710,491 857,492 932,496 975,496 1065,495 1125,494 1125,479 1065,480 975,481 932,481 857,477 710,476 567,476 414,472 274,472 160,470 52,470"/>
+                <Baseline points="52,485 160,485 274,487 414,487 567,491 710,491 857,492 932,496 975,496 1065,495 1125,494"/>
+                <TextEquiv>
+                    <Unicode>plici de predicto Hugone sicut predicti Nicholaus et Iohanna dicunt. Et hoc petit quod inquiratur per patriam. Et Nicholaus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_309" custom="readingOrder {index:14;}">
+                <Coords points="53,519 147,517 299,520 501,523 666,525 830,527 970,529 1026,532 1133,530 1133,515 1026,517 971,514 830,512 666,510 501,508 299,505 147,502 53,504"/>
+                <Baseline points="53,519 147,517 299,520 501,523 666,525 830,527 970,529 1026,532 1133,530"/>
+                <TextEquiv>
+                    <Unicode>et Iohanna similiter. Ideo preceptum est vicecomiti quod venire faciat hic die Lune proximo post octabas Sancti Hilarii . xij. etc. per quos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_329" custom="readingOrder {index:15;}">
+                <Coords points="52,550 163,549 311,553 519,557 519,542 311,538 163,534 52,535"/>
+                <Baseline points="52,550 163,549 311,553 519,557"/>
+                <TextEquiv>
+                    <Unicode>etc. Et qui nec etc. ad recognoscendum etc. Quia tam etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

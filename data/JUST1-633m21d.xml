@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-12-31T04:12:23.323+01:00</Created>
+        <LastChange>2023-12-31T04:27:47.837+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63020743" pageNr="12" tsid="144213920" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=NWHEFUPBISVYUXEYZWYTMGFS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TQVJHCAHOCZVUWOEIAEUTXSQ" imageId="50944695"/>
+    </Metadata>
+    <Page imageFilename="JUST1-633m21d.jpeg" imageWidth="1087" imageHeight="447">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262310812" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1076,447 1,447 2,24 1077,17"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2,64 138,63 207,69 373,64 577,62 779,56 952,50 1043,45 1042,30 951,35 779,41 577,47 373,49 207,54 139,48 2,49"/>
+                <Baseline points="2,64 138,63 207,69 373,64 577,62 779,56 952,50 1043,45"/>
+                <TextEquiv>
+                    <Unicode>¶ Iohanna que fuit vxor Roberti filii Henrici le Clerk de StaneWygg petit versus lohannem deAssheton iuniorem vnum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:1;}">
+                <Coords points="25,94 143,96 257,96 414,96 612,96 814,87 1034,82 1034,67 813,72 612,81 414,81 257,81 143,81 25,79"/>
+                <Baseline points="25,94 143,96 257,96 414,96 612,96 814,87 1034,82"/>
+                <TextEquiv>
+                    <Unicode>mesuagium viginti et quatuor acras terre et quinque acras prati cum pertinencis in Stane Wygg---vtius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:2;}">
+                <Coords points="17,127 126,123 196,127 313,125 498,128 638,125 853,118 1047,111 1046,96 852,103 638,110 498,113 313,110 196,112 126,108 16,112"/>
+                <Baseline points="17,127 126,123 196,127 313,125 498,128 638,125 853,118 1047,111"/>
+                <TextEquiv>
+                    <Unicode>et maritagium suum et in que idem Iohannes non habet ingressum nisi per lohannem de Assheton seniorem cui predictus Robertus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:3;}">
+                <Coords points="22,155 89,153 179,153 307,158 533,158 832,149 832,134 533,143 307,143 179,138 89,138 22,140"/>
+                <Baseline points="22,155 89,153 179,153 307,158 533,158 832,149"/>
+                <TextEquiv>
+                    <Unicode>quondam vir ipsius Iohanne illa dimisit cui ipsa in vita sua contradicere non potuit etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_74" custom="readingOrder {index:4;}">
+                <Coords points="23,186 175,186 318,187 499,189 689,186 886,179 1042,174 1042,159 885,164 689,171 499,174 318,172 175,171 23,171"/>
+                <Baseline points="23,186 175,186 318,187 499,189 689,186 886,179 1042,174"/>
+                <TextEquiv>
+                    <Unicode>Et Iohannes venit et defendit ius suum quando etc. Et dicit quod predicta Iohanna nichil iuris clamare potest in predictis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:5;}">
+                <Coords points="27,214 120,216 269,217 442,218 662,219 820,213 956,210 1033,208 1033,193 956,195 820,198 662,204 442,203 269,202 120,201 27,199"/>
+                <Baseline points="27,214 120,216 269,217 442,218 662,219 820,213 956,210 1033,208"/>
+                <TextEquiv>
+                    <Unicode>tenementis per formam predictam. Quia dicit quod predicta tenementa fuerunt coniunctum perquisitum predicti Roberti quondam viri etc. et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_110" custom="readingOrder {index:6;}">
+                <Coords points="32,247 167,246 356,249 498,250 679,249 860,244 1052,240 1052,225 860,229 679,234 498,235 356,234 167,231 32,232"/>
+                <Baseline points="32,247 167,246 356,249 498,250 679,249 860,244 1052,240"/>
+                <TextEquiv>
+                    <Unicode>eiusdem Iohanne de dono cuiusdam Iohannis Wyth qui ipsos inde feoffauit tenenda eisdem Roberto et Iohanne et heredibus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_126" custom="readingOrder {index:7;}">
+                <Coords points="35,275 148,275 274,278 406,279 536,283 695,280 889,274 1063,270 1063,255 889,259 695,265 536,268 406,264 274,263 148,260 35,260"/>
+                <Baseline points="35,275 148,275 274,278 406,279 536,283 695,280 889,274 1063,270"/>
+                <TextEquiv>
+                    <Unicode>ipsius Roberti et non jus et maritagium eiusdem Iohanne sicut per breue suum supponit. Et de hoc ponit se super patriam. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_144" custom="readingOrder {index:8;}">
+                <Coords points="30,306 217,308 437,312 634,311 775,309 1059,304 1059,289 775,294 634,296 437,297 217,293 30,291"/>
+                <Baseline points="30,306 217,308 437,312 634,311 775,309 1059,304"/>
+                <TextEquiv>
+                    <Unicode>Et Iohanna similiter. Ideo preceptum est vicecomiti quod venire faciat hic die Sabati proximo post festum Sancti Nicholai . xij. etc. per quos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_158" custom="readingOrder {index:9;}">
+                <Coords points="25,335 156,334 213,339 516,343 643,344 799,340 920,338 993,334 1021,342 1054,341 1054,326 1023,327 995,319 919,323 799,325 643,329 516,328 214,324 157,319 25,320"/>
+                <Baseline points="25,335 156,334 213,339 516,343 643,344 799,340 920,338 993,334 1021,342 1054,341"/>
+                <TextEquiv>
+                    <Unicode>etc. et qui nec etc. quia tam etc. Et Ad quem diem venerunt partes et similiter iuratores qui dicunt super </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_180" custom="readingOrder {index:10;}">
+                <Coords points="28,361 190,365 319,372 499,372 661,374 829,370 855,372 904,369 1049,368 1049,353 903,354 855,357 829,355 661,359 499,357 319,357 191,350 28,346"/>
+                <Baseline points="28,361 190,365 319,372 499,372 661,374 829,370 855,372 904,369 1049,368"/>
+                <TextEquiv>
+                    <Unicode>sacramentum suum quod predictus lohannes Wyth dedit predicta tenementa predictis Roberto filio Henrico et Iohanne vxori eius et heredibus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_200" custom="readingOrder {index:11;}">
+                <Coords points="30,389 69,388 136,393 313,400 477,400 660,403 773,403 867,403 1067,403 1067,388 867,388 773,388 660,388 477,385 313,385 137,378 69,373 30,374"/>
+                <Baseline points="30,389 69,388 136,393 313,400 477,400 660,403 773,403 867,403 1067,403"/>
+                <TextEquiv>
+                    <Unicode>ipsius Roberti et non in maritagium eiusdem Iohanne. Ideo consideratum est quod predictus Iohannes eat inde sine die. Et predicta </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_220" custom="readingOrder {index:12;}">
+                <Coords points="26,417 119,421 280,428 397,431 479,431 558,433 666,435 666,420 558,418 479,416 397,416 281,413 120,406 27,402"/>
+                <Baseline points="26,417 119,421 280,428 397,431 479,431 558,433 666,435"/>
+                <TextEquiv>
+                    <Unicode>Iohanna nichil capiat per breue suum set sit in misericordia pro falso clamore etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

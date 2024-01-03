@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-12-30T23:11:21.736+01:00</Created>
+        <LastChange>2023-12-30T23:38:16.285+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63018685" pageNr="14" tsid="144210647" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=SBBUZLONBUKOZKMUSBJENARM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VVRBPQTZITHYXKYAVHCFOZFT" imageId="50942671"/>
+    </Metadata>
+    <Page imageFilename="JUST-633m20.jpeg" imageWidth="1113" imageHeight="708">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262311251" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1106,686 5,686 5,-1 1106,-1"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="12,48 311,52 534,49 812,47 1084,54 1084,45 812,38 534,40 311,43 12,39"/>
+                <Baseline points="12,48 311,52 534,49 812,47 1084,54"/>
+                <TextEquiv>
+                    <Unicode>Willelmus Malcher de Falkeleue petit versus Iohannem filium Willelmi Harry de Braundeston vnum mesuagium septem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:1;}">
+                <Coords points="23,94 151,86 326,86 507,84 693,83 912,88 1075,97 1076,88 912,79 693,74 507,75 326,77 151,77 22,85"/>
+                <Baseline points="23,94 151,86 326,86 507,84 693,83 912,88 1075,97"/>
+                <TextEquiv>
+                    <Unicode>acras terre et medietatem vnius acre prati cum pertinencis in Braundeston que vna cum alis duobus mesuagis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:2;}">
+                <Coords points="26,126 154,120 336,122 505,120 686,120 949,125 1087,133 1088,124 949,116 686,111 505,111 336,113 154,111 26,117"/>
+                <Baseline points="26,126 154,120 336,122 505,120 686,120 949,125 1087,133"/>
+                <TextEquiv>
+                    <Unicode>quadraginta acris terre et duabus acris prati et dimidia cum pertinenciis in eadem villa Ricardus Godefrey de Braun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:3;}">
+                <Coords points="28,158 121,155 285,157 485,161 619,160 756,157 921,162 1082,171 1083,162 921,153 756,148 619,151 485,152 285,148 121,146 28,149"/>
+                <Baseline points="28,158 121,155 285,157 485,161 619,160 756,157 921,162 1082,171"/>
+                <TextEquiv>
+                    <Unicode>deston capellanus dedit Rogero de Falkeleue in liberum maritagium cum Mariota consanguinea eiusdem Ricardi et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:4;}">
+                <Coords points="28,196 139,191 246,190 355,196 466,198 609,196 797,196 907,200 1095,207 1095,198 907,191 797,187 609,187 466,189 355,187 246,181 139,182 28,187"/>
+                <Baseline points="28,196 139,191 246,190 355,196 466,198 609,196 797,196 907,200 1095,207"/>
+                <TextEquiv>
+                    <Unicode>que post mortem predictorum Rogeri et Mariote et Agnetis filie et vnius heredum predictorum Rogeri et Mariote que illa tenuit in </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:5;}">
+                <Coords points="24,230 100,227 238,227 393,227 511,228 656,228 811,229 911,233 997,235 1082,239 1082,230 997,226 911,224 811,220 656,219 511,219 393,218 238,218 100,218 24,221"/>
+                <Baseline points="24,230 100,227 238,227 393,227 511,228 656,228 811,229 911,233 997,235 1082,239"/>
+                <TextEquiv>
+                    <Unicode>propartem ipsam de predictis tribus mesuagis quadraginta et septem acris terre et tribus acris pratiper particionem inter </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_112" custom="readingOrder {index:6;}">
+                <Coords points="24,270 170,264 336,262 447,264 597,261 709,262 800,264 934,265 1081,270 1081,261 934,256 800,255 709,253 597,252 447,255 336,253 170,255 24,261"/>
+                <Baseline points="24,270 170,264 336,262 447,264 597,261 709,262 800,264 934,265 1081,270"/>
+                <TextEquiv>
+                    <Unicode>ipsam Agnetem et Emma et Matillidem sorores eiusdem Agnetis filias et alteras heredum predictorum Rogeri et Mari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_132" custom="readingOrder {index:7;}">
+                <Coords points="24,305 174,304 341,302 500,298 664,296 854,299 1081,303 1081,294 854,290 664,287 500,289 341,293 174,295 24,296"/>
+                <Baseline points="24,305 174,304 341,302 500,298 664,296 854,299 1081,303"/>
+                <TextEquiv>
+                    <Unicode>ote inde factam contingentem prefato Willelmo filio et heredi predicte Agnetis descendere debent per formam dona</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_148" custom="readingOrder {index:8;}">
+                <Coords points="22,325 127,322 248,321 409,315 535,316 671,315 845,316 981,319 981,310 845,307 671,306 535,307 409,306 248,312 127,313 22,316"/>
+                <Baseline points="22,325 127,322 248,321 409,315 535,316 671,315 845,316 981,319"/>
+                <TextEquiv>
+                    <Unicode>predictus Ricardus Godefrey dedit predicta tenementa cum pertinenciis vna etc. predicto Rogero in liberum maritagium cum predicta Mariota. Per quod donum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_166" custom="readingOrder {index:9;}">
+                <Coords points="21,343 178,337 247,340 400,337 527,336 612,339 768,337 951,339 1080,342 1080,333 951,330 768,328 612,330 527,327 400,328 247,331 178,328 21,334"/>
+                <Baseline points="21,343 178,337 247,340 400,337 527,336 612,339 768,337 951,339 1080,342"/>
+                <TextEquiv>
+                    <Unicode>cionis predicte etc. Et vnde idem Willelmus dicit quod ijdem Rogerus et Mariota seisiti fuerunt de inte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_186" custom="readingOrder {index:10;}">
+                <Coords points="18,381 131,377 367,377 565,375 717,375 783,373 1018,378 1086,381 1086,372 1018,369 783,364 717,366 565,366 367,368 131,368 18,372"/>
+                <Baseline points="18,381 131,377 367,377 565,375 717,375 783,373 1018,378 1086,381"/>
+                <TextEquiv>
+                    <Unicode>gro tenementorum predictorum per formam donacionis --- etc. tempore pacis tempore domini E. regis aui domini regis nunc </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_204" custom="readingOrder {index:11;}">
+                <Coords points="21,414 128,413 273,414 412,415 550,414 678,414 751,410 872,411 966,413 1077,418 1077,409 966,404 872,402 751,401 678,405 550,405 412,406 273,405 128,404 21,405"/>
+                <Baseline points="21,414 128,413 273,414 412,415 550,414 678,414 751,410 872,411 966,413 1077,418"/>
+                <TextEquiv>
+                    <Unicode>capiendo inde etc. ad valenciam etc. Et de predictis Rogero et Mariota descendit ius etc. predictis Agneti Emme et Ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_226" custom="readingOrder {index:12;}">
+                <Coords points="20,458 165,455 292,453 443,454 650,451 801,450 1079,450 1079,441 801,441 650,442 443,445 292,444 165,446 20,449"/>
+                <Baseline points="20,458 165,455 292,453 443,454 650,451 801,450 1079,450"/>
+                <TextEquiv>
+                    <Unicode>tillidi vt filiabus et heredibus etc. Et de predicta Agnete descendit ius propartis sue predicto Willelmo qui nunc etc. vt filio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_242" custom="readingOrder {index:13;}">
+                <Coords points="23,500 140,494 257,492 380,492 557,490 557,481 380,483 257,483 140,485 23,491"/>
+                <Baseline points="23,500 140,494 257,492 380,492 557,490"/>
+                <TextEquiv>
+                    <Unicode>et heredi etc. et que etc. Et inde producit sectam etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_254" custom="readingOrder {index:14;}">
+                <Coords points="18,533 144,530 302,526 474,524 716,520 869,519 1016,522 1089,524 1089,515 1016,513 869,510 716,511 474,515 302,517 144,521 18,524"/>
+                <Baseline points="18,533 144,530 302,526 474,524 716,520 869,519 1016,522 1089,524"/>
+                <TextEquiv>
+                    <Unicode>Et Iohannes filius Willelmi venit et defendit ius suum quando etc. et dicit quod predictus Willelmus nichil iuris clamare potest in predictis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_272" custom="readingOrder {index:15;}">
+                <Coords points="25,566 134,563 212,562 296,561 411,562 530,564 601,566 678,560 731,563 795,565 926,562 1020,565 1086,565 1086,556 1020,556 926,553 795,556 731,554 678,551 601,557 530,555 411,553 296,552 212,553 134,554 25,557"/>
+                <Baseline points="25,566 134,563 212,562 296,561 411,562 530,564 601,566 678,560 731,563 795,565 926,562 1020,565 1086,565"/>
+                <TextEquiv>
+                    <Unicode>tenementis etc. quia dicit quod predictus Ricardus dedit tenementa predicta predictis Rogero et Mariote in feodo simplici et non </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_300" custom="readingOrder {index:16;}">
+                <Coords points="26,602 160,600 298,598 413,597 470,600 546,599 698,601 827,605 924,603 1088,602 1088,593 924,594 827,596 698,592 546,590 470,591 413,588 298,589 160,591 26,593"/>
+                <Baseline points="26,602 160,600 298,598 413,597 470,600 546,599 698,601 827,605 924,603 1088,602"/>
+                <TextEquiv>
+                    <Unicode>in liberum maritagium sicut idem Willelmus per breue suum supponit. Et de hoc ponit se super patriam. Et predictus </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_322" custom="readingOrder {index:17;}">
+                <Coords points="25,636 147,635 272,634 407,635 540,638 619,640 717,642 825,644 966,648 1085,645 1085,636 966,639 825,635 717,633 619,631 540,629 407,626 272,625 147,626 25,627"/>
+                <Baseline points="25,636 147,635 272,634 407,635 540,638 619,640 717,642 825,644 966,648 1085,645"/>
+                <TextEquiv>
+                    <Unicode>Willelmus similiter. Ideo preceptum est vicecomiti quod venire faciat hic die Sabati proximo post festum Sancti Nicholai . xij. etc. per quos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_344" custom="readingOrder {index:18;}">
+                <Coords points="26,671 166,670 309,669 436,671 511,673 511,664 436,662 309,660 166,661 26,662"/>
+                <Baseline points="26,671 166,670 309,669 436,671 511,673"/>
+                <TextEquiv>
+                    <Unicode>etc. Et quinec etc. ad recognoscendum etc. quia tam etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

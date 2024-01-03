@@ -1,0 +1,71 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-11-06T04:43:19.298+01:00</Created>
+        <LastChange>2023-11-06T18:19:43.004+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="61175337" pageNr="26" tsid="138924086" status="GT" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=DTSPHCGUBVQQJLGIMNNCBXFS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBJJZOCJAXWDVZAYJLWXPLYD" imageId="49447239" />
+    </Metadata>
+    <Page imageFilename="JUST1-635m37.jpeg" imageWidth="1140" imageHeight="225">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1700697999406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations />
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1138,225 -1,225 -1,5 1138,5" />
+            <TextLine id="l_27" custom="readingOrder {index:0;}">
+                <Coords points="-1,39 284,49 551,56 1125,59 1125,31 551,28 284,21 -1,11" />
+                <Baseline points="-1,33 284,43 551,50 1125,53" />
+                <TextEquiv>
+                    <Unicode>Iohannes de Carleton captus fuit pro morte Radulphi Parleben apud Multon felonice interfecti et liberatus in custodia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:1;}">
+                <Coords points="3,74 468,90 806,94 1128,97 1128,69 806,66 468,62 3,46" />
+                <Baseline points="3,68 468,84 806,88 1128,91" />
+                <TextEquiv>
+                    <Unicode>Iohannis de Wyleby tunc vicecomitis Northamton qui a custodia eiusdem felonice euasit. Ideo ad iudicium de euasione ipsius Iohannis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:2;}">
+                <Coords points="5,107 368,122 775,130 1109,130 1109,102 775,102 368,94 5,79" />
+                <Baseline points="5,101 368,116 775,124 1109,124" />
+                <TextEquiv>
+                    <Unicode>de Carleton super Robertum de Wileby filium et heredem predicti Iohannis, Et postquam sic euasit posuit se in ecclesia Sancti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:3;}">
+                <Coords points="6,147 388,156 760,162 1129,163 1129,135 760,134 388,128 6,119" />
+                <Baseline points="6,141 388,150 760,156 1129,157" />
+                <TextEquiv>
+                    <Unicode>Botholphi de Brampton et ibidem recognouit se interfecisse predictum Radulphum et abiurauit regnum Anglie coram coronatore. Catalla eius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:4;}">
+                <Coords points="2,176 280,183 595,187 1103,188 1103,160 595,159 280,155 2,148" />
+                <Baseline points="2,170 280,177 595,181 1103,182" />
+                <TextEquiv>
+                    <Unicode>vj. d. vnde vicecomes respondeat. --- Postea compertum est per rotulos coronatoris quod predictus Iohannes recognouit se fregisse prisonam castri Northamton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:5;}">
+                <Coords points="3,199 336,203 618,211 893,216 1057,216 1126,218 1126,190 1057,188 893,188 618,183 336,175 3,171" />
+                <Baseline points="3,193 336,197 618,205 893,210 1057,210 1126,212" />
+                <TextEquiv>
+                    <Unicode>et ab eadem felonice euasisse tempore Nicolai de Segrave tunc constabularii castri Northamton etc. Ideo ad iudicium de euasione ipsius Iohannis super</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:6;}">
+                <Coords points="6,215 274,224 524,229 524,201 274,196 6,187" />
+                <Baseline points="6,209 274,218 524,223" />
+                <TextEquiv>
+                    <Unicode>tenentes terras eiusdem Nicolai, et nichil de euasione super dictum Robertum etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

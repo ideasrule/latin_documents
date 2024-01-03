@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-02T22:20:16.267+01:00</Created>
+        <LastChange>2024-01-02T23:07:44.595+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63045740" pageNr="4" tsid="144286050" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=DSARBSMUSOCJSHWQHXHESJJX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LNCUJMKJNJRGYGJOGMGZYYAV" imageId="50965245"/>
+    </Metadata>
+    <Page imageFilename="JUST1-633m60d.jpeg" imageWidth="1164" imageHeight="918">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262309109" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1160,914 12,914 12,8 1160,5"/>
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="15,49 103,50 318,43 340,48 420,41 468,42 678,38 836,38 987,36 1028,35 1090,38 1131,33 1129,18 1089,23 1028,20 987,21 836,23 678,23 468,27 420,26 341,33 319,28 103,35 15,34"/>
+                <Baseline points="15,49 103,50 318,43 340,48 420,41 468,42 678,38 836,38 987,36 1028,35 1090,38 1131,33"/>
+                <TextEquiv>
+                    <Unicode>¶ Willelmus Euerard de Norhampton per Simonem de Kesewyk attornatum suum petit versus Ricardum de Stratford et Aliciam uxorem </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:1;}">
+                <Coords points="25,83 63,83 82,86 150,87 251,84 397,79 444,75 470,78 551,77 652,75 700,74 746,71 825,71 874,71 948,72 1018,73 1074,72 1149,71 1149,56 1074,57 1018,58 948,57 874,56 825,56 746,56 699,59 652,60 551,62 471,63 444,60 396,64 251,69 150,72 83,71 64,68 25,68"/>
+                <Baseline points="25,83 63,83 82,86 150,87 251,84 397,79 444,75 470,78 551,77 652,75 700,74 746,71 825,71 874,71 948,72 1018,73 1074,72 1149,71"/>
+                <TextEquiv>
+                    <Unicode>eius vnam shopam cum pertinenciis in Norhampton vt ius et hereditatem suam et in quam ijdem Ricardus et Alicia non habent Ingressum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_74" custom="readingOrder {index:2;}">
+                <Coords points="31,122 142,123 302,116 345,116 408,114 534,112 687,110 823,107 924,107 1044,108 1119,108 1119,93 1044,93 924,92 823,92 687,95 534,97 408,99 345,101 302,101 142,108 31,107"/>
+                <Baseline points="31,122 142,123 302,116 345,116 408,114 534,112 687,110 823,107 924,107 1044,108 1119,108"/>
+                <TextEquiv>
+                    <Unicode>nisi per Thomam Golafre quondam virum Isabelle filie Wilielmi de Eboraco matris predicti Willelmi cuius heres ipse est qui illam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_98" custom="readingOrder {index:3;}">
+                <Coords points="33,159 150,158 284,154 449,150 586,144 759,144 917,144 1031,144 1115,141 1114,126 1031,129 917,129 759,129 586,129 448,135 284,139 150,143 33,144"/>
+                <Baseline points="33,159 150,158 284,154 449,150 586,144 759,144 917,144 1031,144 1115,141"/>
+                <TextEquiv>
+                    <Unicode>eis dimisit cui ipsa Isabella in vita sua contradicere non potuit etc. Et vnde dicit quod predicta Isabella fuit seisita </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_118" custom="readingOrder {index:4;}">
+                <Coords points="34,194 142,192 302,190 359,188 658,181 843,180 992,179 1136,177 1136,162 992,164 843,165 658,166 359,173 302,175 142,177 34,179"/>
+                <Baseline points="34,194 142,192 302,190 359,188 658,181 843,180 992,179 1136,177"/>
+                <TextEquiv>
+                    <Unicode>de predicta shopa cum pertinenciis in dominico suo vt de feodo et Iure tempore pacis tempore E. regis patris domini regis nunc capiendo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_136" custom="readingOrder {index:5;}">
+                <Coords points="39,228 135,226 272,225 421,222 589,220 826,218 989,214 1141,213 1141,198 989,199 826,203 589,205 421,207 272,210 135,211 39,213"/>
+                <Baseline points="39,228 135,226 272,225 421,222 589,220 826,218 989,214 1141,213"/>
+                <TextEquiv>
+                    <Unicode>inde explecia ad valenciam etc. Et de ipsa Isabella descendit ius etc. isti Willelmo qui nunc petit vt filio et heredi. Et in quam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_154" custom="readingOrder {index:6;}">
+                <Coords points="34,261 141,259 198,259 332,258 332,243 198,244 141,244 34,246"/>
+                <Baseline points="34,261 141,259 198,259 332,258"/>
+                <TextEquiv>
+                    <Unicode>etc. Et inde producit sectam etc. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_164" custom="readingOrder {index:7;}">
+                <Coords points="32,293 212,291 390,290 546,288 757,285 940,280 1143,275 1143,260 940,265 757,270 546,273 390,275 212,276 32,278"/>
+                <Baseline points="32,293 212,291 390,290 546,288 757,285 940,280 1143,275"/>
+                <TextEquiv>
+                    <Unicode>Et Ricardus et Alicia veniunt et defendunt ius suum quando etc. Et dicunt quod predictus Willelmus nichil iuris clamare potest in predicta shopa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_180" custom="readingOrder {index:8;}">
+                <Coords points="39,330 194,326 349,325 519,325 713,323 890,319 1134,313 1134,298 890,304 713,308 519,310 349,310 194,311 39,315"/>
+                <Baseline points="39,330 194,326 349,325 519,325 713,323 890,319 1134,313"/>
+                <TextEquiv>
+                    <Unicode>dicunt enim quod de predicta shopa et consimilibus tenuris in villa de Norhampton talis est consuetudo ab antiquo vsi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_196" custom="readingOrder {index:9;}">
+                <Coords points="43,367 196,361 358,361 521,360 733,357 909,352 975,353 1114,351 1114,336 975,338 909,337 733,342 521,345 358,346 196,346 42,352"/>
+                <Baseline points="43,367 196,361 358,361 521,360 733,357 909,352 975,353 1114,351"/>
+                <TextEquiv>
+                    <Unicode>tata et approbata, quod quandocumque aliqui vir et vxor aliquod tenementum de iure vxoris alienare voluerint venient coram </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_214" custom="readingOrder {index:10;}">
+                <Coords points="39,400 164,396 304,395 401,396 529,396 740,390 773,393 901,388 1000,388 1031,388 1081,388 1134,386 1133,371 1081,373 1031,373 1000,373 901,373 773,378 740,375 529,381 401,381 304,380 164,381 39,385"/>
+                <Baseline points="39,400 164,396 304,395 401,396 529,396 740,390 773,393 901,388 1000,388 1031,388 1081,388 1134,386"/>
+                <TextEquiv>
+                    <Unicode>maiore et balliuis ville predicte apud Gildam Aulam et ibidem cognicionem facient et vxor affidabit quod nec ipsa nec heredes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_240" custom="readingOrder {index:11;}">
+                <Coords points="43,430 141,428 277,425 314,427 440,428 586,428 664,428 794,425 890,424 1002,424 1093,422 1139,422 1139,407 1093,407 1002,409 890,409 794,410 664,413 586,413 440,413 314,412 277,410 141,413 43,415"/>
+                <Baseline points="43,430 141,428 277,425 314,427 440,428 586,428 664,428 794,425 890,424 1002,424 1093,422 1139,422"/>
+                <TextEquiv>
+                    <Unicode>sui in tenemento sic alienato quicquam in posterum clamabunt. Post quas cognicionem et affidacionem tam ipsa vxor post </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_268" custom="readingOrder {index:12;}">
+                <Coords points="43,467 151,464 254,461 371,459 419,459 435,462 520,460 580,460 702,460 783,460 939,458 1017,461 1131,457 1130,442 1017,446 939,443 783,445 702,445 580,445 520,445 436,447 420,444 371,444 254,446 151,449 43,452"/>
+                <Baseline points="43,467 151,464 254,461 371,459 419,459 435,462 520,460 580,460 702,460 783,460 939,458 1017,461 1131,457"/>
+                <TextEquiv>
+                    <Unicode>mortem viri quam heredes sui de iure suo imperpetuum excluduntur. Et dicit quod die Lune proximo post festum ascensionis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_298" custom="readingOrder {index:13;}">
+                <Coords points="44,499 145,497 181,498 287,496 486,495 570,492 614,494 728,495 889,496 1042,495 1128,491 1127,476 1042,480 889,481 728,480 614,479 570,477 486,480 287,481 181,483 145,482 44,484"/>
+                <Baseline points="44,499 145,497 181,498 287,496 486,495 570,492 614,494 728,495 889,496 1042,495 1128,491"/>
+                <TextEquiv>
+                    <Unicode>domini anno regni. regis E. aui domini regis nunc vicesimo octauo venerunt predicti Thomas et Isabella vxor eius, mater predicti Willelmi cuius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_322" custom="readingOrder {index:14;}">
+                <Coords points="48,529 167,529 360,526 493,528 525,525 671,526 795,526 895,530 967,526 989,528 1126,525 1126,510 990,513 967,511 895,515 795,511 671,511 524,510 492,513 360,511 167,514 48,514"/>
+                <Baseline points="48,529 167,529 360,526 493,528 525,525 671,526 795,526 895,530 967,526 989,528 1126,525"/>
+                <TextEquiv>
+                    <Unicode>heres ipse est, in Gilda Aula et ibidem coram Petro de Leycestre tunc maiore et Roberto Tolous et Willelmo Duruassal tunc </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_346" custom="readingOrder {index:15;}">
+                <Coords points="47,563 144,562 265,561 391,562 551,561 722,559 919,559 979,560 1013,560 1146,556 1146,541 1013,545 979,545 919,544 722,544 551,546 391,547 265,546 144,547 47,548"/>
+                <Baseline points="47,563 144,562 265,561 391,562 551,561 722,559 919,559 979,560 1013,560 1146,556"/>
+                <TextEquiv>
+                    <Unicode>balliuis ville predicte cognouerunt quandam cartam de predicta shopa confectam esse factum eorum.Super quo eadem Isabella </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_368" custom="readingOrder {index:16;}">
+                <Coords points="52,597 144,594 238,596 452,594 533,596 659,594 842,593 930,591 1074,591 1147,587 1146,572 1074,576 930,576 842,578 659,579 533,581 452,579 238,581 144,579 52,582"/>
+                <Baseline points="52,597 144,594 238,596 452,594 533,596 659,594 842,593 930,591 1074,591 1147,587"/>
+                <TextEquiv>
+                    <Unicode>confessa fuit et examinata ac eciam affidauit prout moris est in eadem villa. Et profert predictam cartam, que testatur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_390" custom="readingOrder {index:17;}">
+                <Coords points="52,629 135,627 260,628 423,628 455,630 589,630 727,629 860,628 944,626 1044,626 1117,622 1116,607 1044,611 944,611 860,613 727,614 589,615 455,615 423,613 260,613 135,612 52,614"/>
+                <Baseline points="52,629 135,627 260,628 423,628 455,630 589,630 727,629 860,628 944,626 1044,626 1117,622"/>
+                <TextEquiv>
+                    <Unicode>quod idem Thomas et Isabella dederunt et concesserunt predictis Ricardo et Alicie predictam shopam cum pertinencis habendam et tenendam </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_414" custom="readingOrder {index:18;}">
+                <Coords points="52,663 159,660 255,662 414,661 427,663 472,662 562,662 679,662 807,662 933,664 1041,661 1112,657 1111,642 1040,646 933,649 807,647 679,647 562,647 472,647 428,648 415,646 255,647 159,645 52,648"/>
+                <Baseline points="52,663 159,660 255,662 414,661 427,663 472,662 562,662 679,662 807,662 933,664 1041,661 1112,657"/>
+                <TextEquiv>
+                    <Unicode>eisdem Ricardo et Alicie et eorum heredibus et assignatis imperpetuum Et obligauerunt se et heredes suos ad warantizandum etc. vnde petunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_440" custom="readingOrder {index:19;}">
+                <Coords points="48,696 136,694 286,694 360,697 503,696 637,696 845,698 995,697 1126,695 1126,680 995,682 845,683 637,681 503,681 360,682 286,679 136,679 48,681"/>
+                <Baseline points="48,696 136,694 286,694 360,697 503,696 637,696 845,698 995,697 1126,695"/>
+                <TextEquiv>
+                    <Unicode>iudicium si contra cognicionem examinacionem et affidacionem predicte Isabelle cuius heres idem Willelmus est et eciam contra </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_462" custom="readingOrder {index:20;}">
+                <Coords points="52,727 162,727 342,729 537,730 696,731 696,716 537,715 342,714 162,712 52,712"/>
+                <Baseline points="52,727 162,727 342,729 537,730 696,731"/>
+                <TextEquiv>
+                    <Unicode>cartam eiusdem Isabelle et warantiam predictam accionem habere possit etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_474" custom="readingOrder {index:21;}">
+                <Coords points="46,762 165,759 329,761 492,764 639,769 833,764 1009,765 1115,762 1115,747 1009,750 833,749 639,754 492,749 329,746 165,744 46,747"/>
+                <Baseline points="46,762 165,759 329,761 492,764 639,769 833,764 1009,765 1115,762"/>
+                <TextEquiv>
+                    <Unicode>Et Willelmus non dedicit predictam consuetudinem, set dicit quod racione superius allegata ab accione precludi non debet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_492" custom="readingOrder {index:22;}">
+                <Coords points="48,792 165,792 204,794 350,795 448,798 591,799 625,801 799,799 927,799 1033,799 1116,796 1115,781 1033,784 927,784 799,784 625,786 591,784 448,783 350,780 204,779 165,777 48,777"/>
+                <Baseline points="48,792 165,792 204,794 350,795 448,798 591,799 625,801 799,799 927,799 1033,799 1116,796"/>
+                <TextEquiv>
+                    <Unicode>quia dicit quod huiusmodi cognicio examinacio et affidacio nuncquam facte fuerant de predicta shopa sicut predicti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_516" custom="readingOrder {index:23;}">
+                <Coords points="52,826 156,826 309,828 365,830 512,831 680,832 852,828 964,828 1115,825 1115,810 964,813 852,813 680,817 512,816 365,815 309,813 156,811 52,811"/>
+                <Baseline points="52,826 156,826 309,828 365,830 512,831 680,832 852,828 964,828 1115,825"/>
+                <TextEquiv>
+                    <Unicode>Ricardus et Alicie dicunt. Et hoc paratus est verificare per patriam. Et predicti Ricardus et Alicia similiter. Ideo preceptum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_540" custom="readingOrder {index:24;}">
+                <Coords points="55,863 130,861 295,863 312,864 421,863 448,864 473,867 510,864 647,864 815,858 893,853 916,858 1098,849 1097,834 917,843 894,838 814,843 647,849 509,849 473,852 449,849 421,848 312,849 296,848 130,846 55,848"/>
+                <Baseline points="55,863 130,861 295,863 312,864 421,863 448,864 473,867 510,864 647,864 815,858 893,853 916,858 1098,849"/>
+                <TextEquiv>
+                    <Unicode>est vicecomiti quod venire faciat hic die Sabati proxima post mensem Pasche . xij. etc. per quos etc. Et qui nec etc. ad </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_568" custom="readingOrder {index:25;}">
+                <Coords points="57,890 183,890 269,888 374,894 375,879 269,873 183,875 57,875"/>
+                <Baseline points="57,890 183,890 269,888 374,894"/>
+                <TextEquiv>
+                    <Unicode>recognoscendum etc. quia tam etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

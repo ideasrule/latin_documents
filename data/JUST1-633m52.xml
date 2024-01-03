@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-02T21:27:09.756+01:00</Created>
+        <LastChange>2024-01-02T22:10:12.371+01:00</LastChange>
+        <TranskribusMetadata docId="1640070" pageId="63045138" pageNr="5" tsid="144284985" status="FINAL" userId="195295" imgUrl="https://files.transkribus.eu/Get?id=SBYKRJERMDJXJTTMUMXARHLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLHCNCYNVFFKQIBWCEEMGEPX" imageId="50964654"/>
+    </Metadata>
+    <Page imageFilename="JUST1-633m52.jpeg" imageWidth="1107" imageHeight="667">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1704262309345" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1102,659 -1,659 -1,2 1102,2"/>
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="8,33 156,35 324,39 521,41 682,43 908,41 1078,40 1078,25 908,26 682,28 521,26 324,24 156,20 8,18"/>
+                <Baseline points="8,33 156,35 324,39 521,41 682,43 908,41 1078,40"/>
+                <TextEquiv>
+                    <Unicode>¶ Prior de Chikesond summonitus fuit ad respondendum Iohanni de Lexedene de placito quod reddat ei viginti libras quas ei debet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:1;}">
+                <Coords points="15,66 100,64 189,66 361,73 504,73 569,76 673,76 883,75 1039,76 1068,74 1067,59 1039,61 883,60 673,61 569,61 504,58 361,58 189,51 100,49 15,51"/>
+                <Baseline points="15,66 100,64 189,66 361,73 504,73 569,76 673,76 883,75 1039,76 1068,74"/>
+                <TextEquiv>
+                    <Unicode>et iniuste detinet etc. Et vnde idem Iohannes per Ricardum de Beby attornatum suum dicit quod cum quidam Iohannes de Chikesond </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:2;}">
+                <Coords points="16,96 92,95 247,98 465,103 691,106 852,111 1002,111 1079,111 1079,96 1002,96 852,96 691,91 465,88 247,83 92,80 16,81"/>
+                <Baseline points="16,96 92,95 247,98 465,103 691,106 852,111 1002,111 1079,111"/>
+                <TextEquiv>
+                    <Unicode>predecessor istius prioris die Iouis proximo ante festum Epiphanie Domini anno regni regis E. patris domini regis nunc decimo octauo per scriptum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68" custom="readingOrder {index:3;}">
+                <Coords points="23,125 129,125 213,128 310,128 370,130 482,133 599,136 777,142 864,145 979,145 1073,146 1073,131 979,130 864,130 778,127 599,121 482,118 370,115 310,113 213,113 129,110 23,110"/>
+                <Baseline points="23,125 129,125 213,128 310,128 370,130 482,133 599,136 777,142 864,145 979,145 1073,146"/>
+                <TextEquiv>
+                    <Unicode>suum obligasset se pro se et successoribus suis teneri predicto Iohanni de Lexedene in viginti libris soluendis eidem apud </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:4;}">
+                <Coords points="23,155 172,158 236,160 348,160 441,163 580,165 715,169 911,173 1063,175 1063,160 911,158 715,154 580,150 441,148 348,145 236,145 172,143 23,140"/>
+                <Baseline points="23,155 172,158 236,160 348,160 441,163 580,165 715,169 911,173 1063,175"/>
+                <TextEquiv>
+                    <Unicode>Conynton ad festum Sancti Michaelis tunc proximo sequens Idem Iohannes prior predecessor etc. dum vixit nec eciam iste prior </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_112" custom="readingOrder {index:5;}">
+                <Coords points="23,185 148,188 328,192 502,197 672,199 797,201 988,205 1058,205 1058,190 988,190 797,186 672,184 502,182 328,177 148,173 23,170"/>
+                <Baseline points="23,185 148,188 328,192 502,197 672,199 797,201 988,205 1058,205"/>
+                <TextEquiv>
+                    <Unicode>nunc denarios predictos soluere non curarunt set predictus prior nunc denarios illos ei reddere contradicit vnde dicit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_130" custom="readingOrder {index:6;}">
+                <Coords points="26,214 126,216 244,220 410,225 664,229 841,231 1011,233 1090,230 1089,215 1011,218 841,216 664,214 410,210 244,205 126,201 26,199"/>
+                <Baseline points="26,214 126,216 244,220 410,225 664,229 841,231 1011,233 1090,230"/>
+                <TextEquiv>
+                    <Unicode>quod deterioratus est et dampnum habet ad valenciam viginti marcarum. Et inde producit sectam etc. Et profert quoddam scriptum predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_148" custom="readingOrder {index:7;}">
+                <Coords points="29,243 101,245 190,249 308,252 454,254 591,258 706,261 853,265 956,267 1085,265 1085,250 956,252 853,250 706,246 591,243 454,239 308,237 191,234 102,230 29,228"/>
+                <Baseline points="29,243 101,245 190,249 308,252 454,254 591,258 706,261 853,265 956,267 1085,265"/>
+                <TextEquiv>
+                    <Unicode>Iohannis prioris communi sigillo domus sue consignatum cuius datum est apud Chikesond anno supradicto quod hoc testatur etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_172" custom="readingOrder {index:8;}">
+                <Coords points="26,274 149,276 242,279 268,282 306,284 407,285 544,287 574,289 631,290 723,292 752,293 909,297 945,299 983,301 1031,299 1057,301 1078,301 1078,286 1058,286 1031,284 983,286 946,284 910,282 752,278 723,277 631,275 575,274 545,272 407,270 306,269 269,267 243,264 149,261 26,259"/>
+                <Baseline points="26,274 149,276 242,279 268,282 306,284 407,285 544,287 574,289 631,290 723,292 752,293 909,297 945,299 983,301 1031,299 1057,301 1078,301"/>
+                <TextEquiv>
+                    <Unicode>Et prior venit et defendit vim et Iniuriam quando etc. Et dicit quod non debet ei ad istud breue respondere quia dicit quod cum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_208" custom="readingOrder {index:9;}">
+                <Coords points="28,301 71,304 196,308 256,312 435,317 578,319 670,322 869,329 1007,328 1070,333 1071,318 1008,313 869,314 671,307 578,304 435,302 257,297 197,293 72,289 29,286"/>
+                <Baseline points="28,301 71,304 196,308 256,312 435,317 578,319 670,322 869,329 1007,328 1070,333"/>
+                <TextEquiv>
+                    <Unicode>predictus Iohannes petat versus eum predictum debitum per predictum scriptum apud Chikesond confectum Chikesond non est in </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_230" custom="readingOrder {index:10;}">
+                <Coords points="29,333 100,337 258,344 373,347 448,349 573,351 618,353 766,356 872,360 983,363 1027,363 1097,359 1096,344 1027,348 983,348 872,345 766,341 618,338 573,336 448,334 373,332 259,329 101,322 30,318"/>
+                <Baseline points="29,333 100,337 258,344 373,347 448,349 573,351 618,353 766,356 872,360 983,363 1027,363 1097,359"/>
+                <TextEquiv>
+                    <Unicode>isto comitatu immo in comitatu Bedeford. Et petit iudicium si hic inde respondere debeat etc. Dies datus est eis de audiendo </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_256" custom="readingOrder {index:11;}">
+                <Coords points="22,363 133,369 196,371 235,371 256,382 288,383 307,376 408,377 502,382 550,382 582,387 660,387 741,387 762,390 882,392 946,394 1002,395 1052,397 1090,399 1091,384 1053,382 1002,380 946,379 882,377 763,375 742,372 660,372 583,372 551,367 502,367 408,362 304,361 286,368 260,367 239,356 196,356 134,354 23,348"/>
+                <Baseline points="22,363 133,369 196,371 235,371 256,382 288,383 307,376 408,377 502,382 550,382 582,387 660,387 741,387 762,390 882,392 946,394 1002,395 1052,397 1090,399"/>
+                <TextEquiv>
+                    <Unicode>iudicio suo hic die Iouis proximo post quindenam Sancti Hillarii etc. Ad quem diem veniunt partes. Et idem prior relicta ex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_298" custom="readingOrder {index:12;}">
+                <Coords points="25,394 122,397 155,400 216,401 269,408 364,409 469,411 585,415 713,418 835,423 922,423 1003,426 1079,428 1079,413 1003,411 922,408 835,408 713,403 585,400 469,396 364,394 270,393 217,386 156,385 123,382 25,379"/>
+                <Baseline points="25,394 122,397 155,400 216,401 269,408 364,409 469,411 585,415 713,418 835,423 922,423 1003,426 1079,428"/>
+                <TextEquiv>
+                    <Unicode>cepcione sua predicta respondet viterius et dicit quod predictus Iohannes nichil exigere potest in predicto debito quia dicit quod idem Iohannes per </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_328" custom="readingOrder {index:13;}">
+                <Coords points="23,423 122,427 217,432 235,435 254,438 381,438 420,442 545,445 631,446 666,448 765,449 877,449 895,452 951,453 1045,454 1090,454 1090,439 1045,439 951,438 896,437 878,434 765,434 667,433 632,431 545,430 421,427 382,423 255,423 237,420 219,417 123,412 24,408"/>
+                <Baseline points="23,423 122,427 217,432 235,435 254,438 381,438 420,442 545,445 631,446 666,448 765,449 877,449 895,452 951,453 1045,454 1090,454"/>
+                <TextEquiv>
+                    <Unicode>scriptum suum concessit quod si idem prior et conuentus sui de Chikesond warantizauerint ei et acquietauerint ei et defenderint terras </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_362" custom="readingOrder {index:14;}">
+                <Coords points="17,453 149,458 222,460 240,465 258,466 311,468 422,473 493,478 599,479 750,480 768,481 900,482 997,482 1053,481 1053,466 997,467 900,467 768,466 750,465 599,464 494,463 423,458 312,453 259,451 242,450 224,445 149,443 18,438"/>
+                <Baseline points="17,453 149,458 222,460 240,465 258,466 311,468 422,473 493,478 599,479 750,480 768,481 900,482 997,482 1053,481"/>
+                <TextEquiv>
+                    <Unicode>et tenementa de la Southulke que idem Iohannes tenet ex dimissione ipsorum prioris et conuentus per scriptum eorundem quod </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_392" custom="readingOrder {index:15;}">
+                <Coords points="23,482 134,487 255,493 320,495 338,501 458,505 485,508 625,512 811,512 934,512 974,514 1071,511 1071,496 974,499 934,497 811,497 625,497 486,493 459,490 341,486 323,480 256,478 135,472 24,467"/>
+                <Baseline points="23,482 134,487 255,493 320,495 338,501 458,505 485,508 625,512 811,512 934,512 974,514 1071,511"/>
+                <TextEquiv>
+                    <Unicode>extune predictum scriptum obligatorium pro nullo haberetur vi careret et effectu et quod idem prior et conuentus et successores </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_418" custom="readingOrder {index:16;}">
+                <Coords points="21,511 97,517 200,520 290,524 345,530 468,536 574,540 709,542 820,542 926,544 999,544 1082,542 1082,527 999,529 926,529 820,527 709,527 574,525 469,521 346,515 291,509 201,505 98,502 22,496"/>
+                <Baseline points="21,511 97,517 200,520 290,524 345,530 468,536 574,540 709,542 820,542 926,544 999,544 1082,542"/>
+                <TextEquiv>
+                    <Unicode>sui de predictis viginti libris omnino essent quieti. Et profert quoddam scriptum sub nomine predicti Iohannis quod hoc testatur cuius </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_444" custom="readingOrder {index:17;}">
+                <Coords points="16,542 100,546 192,550 332,558 376,560 411,564 490,569 551,571 665,572 850,572 871,575 1063,574 1063,559 872,560 851,557 665,557 551,556 491,554 412,549 377,545 333,543 193,535 101,531 17,527"/>
+                <Baseline points="16,542 100,546 192,550 332,558 376,560 411,564 490,569 551,571 665,572 850,572 871,575 1063,574"/>
+                <TextEquiv>
+                    <Unicode>datum est apud Chickesond die Epiphanie Domini anno regni regis E. filii regis E. decimo octauo. Et dicit quod ipse semper </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_470" custom="readingOrder {index:18;}">
+                <Coords points="24,571 128,578 282,584 427,593 603,599 653,602 798,603 924,606 1087,606 1087,591 924,591 798,588 654,587 604,584 428,578 283,569 129,563 25,556"/>
+                <Baseline points="24,571 128,578 282,584 427,593 603,599 653,602 798,603 924,606 1087,606"/>
+                <TextEquiv>
+                    <Unicode>paratus fuit warantizare acquietare et defendere predictum Iohannem per formam scripti predicti. Et petit iudicium etc. Postea </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_494" custom="readingOrder {index:19;}">
+                <Coords points="22,599 121,605 205,611 278,615 376,621 496,626 626,630 689,633 794,636 825,635 988,637 1053,638 1074,638 1074,623 1053,623 988,622 825,620 794,621 690,618 627,615 497,611 377,606 279,600 206,596 122,590 23,584"/>
+                <Baseline points="22,599 121,605 205,611 278,615 376,621 496,626 626,630 689,633 794,636 825,635 988,637 1053,638 1074,638"/>
+                <TextEquiv>
+                    <Unicode>predictus Iohannes non est prosecutus. Ideo predictus prior inde sine die et predictus Iohannes et plegii sui de prosequendo in misericordia. Querantur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_522" custom="readingOrder {index:20;}">
+                <Coords points="25,625 104,632 137,636 139,621 106,617 26,610"/>
+                <Baseline points="25,625 104,632 137,636"/>
+                <TextEquiv>
+                    <Unicode>nomina plegiorum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
