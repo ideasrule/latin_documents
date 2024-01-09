@@ -18,7 +18,7 @@
                 <Coords points="74,44 216,49 361,45 537,43 687,48 809,55 912,61 912,29 809,23 687,16 537,11 361,13 216,17 74,12" />
                 <Baseline points="74,37 216,42 361,38 537,36 687,41 809,48 912,54" />
                 <TextEquiv>
-                    <Unicode>Radulfus Basset de Welledon chiualer et lohanna vxor eius in misericordia pro pluribus defaltis.</Unicode>
+                    <Unicode>Radulfus Basset de Welledon chiualer et Iohanna vxor eius in misericordia pro pluribus defaltis.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_33" custom="readingOrder {index:1;}">
@@ -123,7 +123,7 @@
                 <Coords points="78,578 205,569 346,570 477,566 733,568 981,576 1142,586 1142,554 981,544 733,536 477,534 346,538 205,537 78,546" />
                 <Baseline points="78,571 205,562 346,563 477,559 733,561 981,569 1142,579" />
                 <TextEquiv>
-                    <Unicode>lohannis. Et vacante predicta ecclesia per resignacionem eiusdem magistri Ricardi quidam Thomas quondam abbas predecessor etc. </Unicode>
+                    <Unicode>Iohannis. Et vacante predicta ecclesia per resignacionem eiusdem magistri Ricardi quidam Thomas quondam abbas predecessor etc. </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_304" custom="readingOrder {index:16;}">
@@ -165,7 +165,7 @@
                 <Coords points="76,793 212,793 356,788 545,787 782,786 973,790 1167,803 1167,771 973,758 782,754 545,755 356,756 212,761 76,761" />
                 <Baseline points="76,786 212,786 356,781 545,780 782,779 973,783 1167,796" />
                 <TextEquiv>
-                    <Unicode>lohannes quondam abbas predecessor etc. racione turni sui ad ipsum tun spectantis ad eandem ecclesiam presentauit quendam </Unicode>
+                    <Unicode>Iohannes quondam abbas predecessor etc. racione turni sui ad ipsum tun spectantis ad eandem ecclesiam presentauit quendam </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_400" custom="readingOrder {index:22;}">

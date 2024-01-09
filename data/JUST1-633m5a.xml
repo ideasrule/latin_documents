@@ -46,7 +46,7 @@
                 <Coords points="28,188 186,190 389,190 571,192 808,198 969,207 1063,211 1063,179 969,175 808,166 571,160 389,158 186,158 28,156" />
                 <Baseline points="28,181 186,183 389,183 571,185 808,191 969,200 1063,204" />
                 <TextEquiv>
-                    <Unicode>Et Emma venit. Et alii non veniunt set quidam lohannes de Duston venit et pro omnibus preterquam pro predicta Emma respondet </Unicode>
+                    <Unicode>Et Emma venit. Et alii non veniunt set quidam Iohannes de Duston venit et pro omnibus preterquam pro predicta Emma respondet </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_70" custom="readingOrder {index:5;}">
@@ -95,7 +95,7 @@
                 <Coords points="20,418 250,425 501,429 767,440 1046,457 1046,425 767,408 501,397 250,393 20,386" />
                 <Baseline points="20,411 250,418 501,422 767,433 1046,450" />
                 <TextEquiv>
-                    <Unicode>eorundem Onori et lohanne eadem Emma vt filia et heres predicte Iohanne intrauit in tenementis predictis vt in reuersione </Unicode>
+                    <Unicode>eorundem Onori et Iohanne eadem Emma vt filia et heres predicte Iohanne intrauit in tenementis predictis vt in reuersione </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_168" custom="readingOrder {index:12;}">

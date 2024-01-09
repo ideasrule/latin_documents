@@ -18,7 +18,7 @@
                 <Coords points="15,66 139,65 344,63 606,58 847,50 1041,44 1041,17 847,23 606,31 344,36 139,38 15,39" />
                 <Baseline points="15,60 139,59 344,57 606,52 847,44 1041,38" />
                 <TextEquiv>
-                    <Unicode>lohannes de la Mare de Bernewell petit versus lohannem de Thorp de Clopton vnum mesuagium cum pertinenciis in Clopton </Unicode>
+                    <Unicode>Iohannes de la Mare de Bernewell petit versus Iohannem de Thorp de Clopton vnum mesuagium cum pertinenciis in Clopton </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_24" custom="readingOrder {index:1;}">
@@ -123,7 +123,7 @@
                 <Coords points="33,501 179,505 389,502 591,499 787,497 927,495 1041,490 1041,463 927,468 787,470 591,472 389,475 179,478 33,474" />
                 <Baseline points="33,495 179,499 389,496 591,493 787,491 927,489 1041,484" />
                 <TextEquiv>
-                    <Unicode>Et lohannes de la Mare bene cognouit predictam cartam esse factum predicti Willelmi set dicit quod per cartam illam ab agendo </Unicode>
+                    <Unicode>Et Iohannes de la Mare bene cognouit predictam cartam esse factum predicti Willelmi set dicit quod per cartam illam ab agendo </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_254" custom="readingOrder {index:16;}">
@@ -165,7 +165,7 @@
                 <Coords points="41,668 188,680 387,686 576,687 772,686 944,682 1045,677 1045,650 944,655 772,659 576,660 387,659 188,653 41,641" />
                 <Baseline points="41,662 188,674 387,680 576,681 772,680 944,676 1045,671" />
                 <TextEquiv>
-                    <Unicode>Et predictus lohannes de la Mare de Bernewell et plegii sui de prosequendo in misericordia, videlicet Willelmus de Radburn et Robertus </Unicode>
+                    <Unicode>Et predictus Iohannes de la Mare de Bernewell et plegii sui de prosequendo in misericordia, videlicet Willelmus de Radburn et Robertus </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_348" custom="readingOrder {index:22;}">

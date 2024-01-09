@@ -19,7 +19,7 @@
                 <Coords points="2,64 138,63 207,69 373,64 577,62 779,56 952,50 1043,45 1042,30 951,35 779,41 577,47 373,49 207,54 139,48 2,49"/>
                 <Baseline points="2,64 138,63 207,69 373,64 577,62 779,56 952,50 1043,45"/>
                 <TextEquiv>
-                    <Unicode>¶ Iohanna que fuit vxor Roberti filii Henrici le Clerk de StaneWygg petit versus lohannem deAssheton iuniorem vnum</Unicode>
+                    <Unicode>¶ Iohanna que fuit vxor Roberti filii Henrici le Clerk de Stane Wygg petit versus Iohannem de Assheton iuniorem vnum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_26" custom="readingOrder {index:1;}">
@@ -89,7 +89,7 @@
                 <Coords points="28,361 190,365 319,372 499,372 661,374 829,370 855,372 904,369 1049,368 1049,353 903,354 855,357 829,355 661,359 499,357 319,357 191,350 28,346"/>
                 <Baseline points="28,361 190,365 319,372 499,372 661,374 829,370 855,372 904,369 1049,368"/>
                 <TextEquiv>
-                    <Unicode>sacramentum suum quod predictus lohannes Wyth dedit predicta tenementa predictis Roberto filio Henrico et Iohanne vxori eius et heredibus </Unicode>
+                    <Unicode>sacramentum suum quod predictus Iohannes Wyth dedit predicta tenementa predictis Roberto filio Henrico et Iohanne vxori eius et heredibus </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_200" custom="readingOrder {index:11;}">

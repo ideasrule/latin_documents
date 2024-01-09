@@ -39,7 +39,7 @@
                 <Coords points="41,170 154,161 406,151 764,145 1099,125 1099,95 764,115 406,121 154,131 41,140" />
                 <Baseline points="41,164 154,155 406,145 764,139 1099,119" />
                 <TextEquiv>
-                    <Unicode>Et lohannes venit et dicit quod predicta Matillis non debet inde dotem habere, quia dicit quod ipsa post mortem predicti Roberti </Unicode>
+                    <Unicode>Et Iohannes venit et dicit quod predicta Matillis non debet inde dotem habere, quia dicit quod ipsa post mortem predicti Roberti </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_50" custom="readingOrder {index:4;}">
@@ -102,7 +102,7 @@
                 <Coords points="70,441 173,440 378,433 513,433 755,432 926,426 1108,417 1116,417 1116,387 1108,387 926,396 755,402 513,403 378,403 173,410 70,411" />
                 <Baseline points="70,435 173,434 378,427 513,427 755,426 926,420 1108,411 1116,411" />
                 <TextEquiv>
-                    <Unicode>anno regni sui decimo septimo versus predictum lohannem et peciit versus eum medietatem sex marcatarum redditus </Unicode>
+                    <Unicode>anno regni sui decimo septimo versus predictum Iohannem et peciit versus eum medietatem sex marcatarum redditus </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_216" custom="readingOrder {index:13;}">

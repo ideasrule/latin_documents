@@ -46,7 +46,7 @@
                 <Coords points="16,196 139,188 255,188 419,183 618,180 834,180 1089,177 1089,146 834,149 618,149 419,152 255,157 139,157 16,165" />
                 <Baseline points="16,189 139,181 255,181 419,176 618,173 834,173 1089,170" />
                 <TextEquiv>
-                    <Unicode>fuga catalla eius .vj. s..vij.d. vnde vicecomes respondeat. Postea iuratores testantur quod lohannes Bryan Iohannes Knotte et Thomas</Unicode>
+                    <Unicode>fuga catalla eius .vj. s..vij.d. vnde vicecomes respondeat. Postea iuratores testantur quod Iohannes Bryan Iohannes Knotte et Thomas</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_80" custom="readingOrder {index:5;}">
@@ -67,7 +67,7 @@
                 <Coords points="8,291 90,292 172,287 249,282 386,280 605,277 763,278 898,277 962,280 1094,278 1094,247 962,249 898,246 763,247 605,246 386,249 249,251 172,256 90,261 8,260" />
                 <Baseline points="8,284 90,285 172,280 249,275 386,273 605,270 763,271 898,270 962,273 1094,271" />
                 <TextEquiv>
-                    <Unicode>Iohannes Braynet Thomas del Marche per vicecomitem ducti. Et iuratores in nullo malecredunt ipsum lohannem Brayn de morte predicta</Unicode>
+                    <Unicode>Iohannes Braynet Thomas del Marche per vicecomitem ducti. Et iuratores in nullo malecredunt ipsum Iohannem Brayn de morte predicta</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_146" custom="readingOrder {index:8;}">

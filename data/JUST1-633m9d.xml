@@ -33,7 +33,7 @@
                 <Coords points="4,137 114,134 216,134 307,136 373,136 503,126 605,120 754,116 862,112 1009,103 1113,98 1112,85 1008,90 861,99 754,103 604,107 502,113 373,123 307,123 216,121 114,121 4,124"/>
                 <Baseline points="4,137 114,134 216,134 307,136 373,136 503,126 605,120 754,116 862,112 1009,103 1113,98"/>
                 <TextEquiv>
-                    <Unicode>Ricardus terram suam de eis tenuit per seruicium militare etc. Et vnde idem Galfridus et Margareta per lohannem de Braun</Unicode>
+                    <Unicode>Ricardus terram suam de eis tenuit per seruicium militare etc. Et vnde idem Galfridus et Margareta per Iohannem de Braun</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_75" custom="readingOrder {index:3;}">
