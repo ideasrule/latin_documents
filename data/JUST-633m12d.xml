@@ -19,7 +19,7 @@
                 <Coords points="5,77 128,70 395,53 604,44 822,37 1111,30 1111,15 822,22 603,29 394,38 127,55 4,62"/>
                 <Baseline points="5,77 128,70 395,53 604,44 822,37 1111,30"/>
                 <TextEquiv>
-                    <Unicode>¶Assisa venit recognitura si Willelmus de Sancto Mauro senior iniuste etc. disseisiuit Willelmum Broun de Glapthorn de communa pasture </Unicode>
+                    <Unicode>¶ Assisa venit recognitura si Willelmus de Sancto Mauro senior iniuste etc. disseisiuit Willelmum Broun de Glapthorn de communa pasture </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_23" custom="readingOrder {index:1;}">

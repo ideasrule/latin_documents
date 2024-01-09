@@ -18,7 +18,7 @@
                 <Coords points="2,46 140,42 299,41 544,47 759,56 976,55 976,23 759,24 544,15 299,9 140,10 2,14" />
                 <Baseline points="2,39 140,35 299,34 544,40 759,49 976,48" />
                 <TextEquiv>
-                    <Unicode>&#182; Assi ven rec si Thomas filius Roberti injuste etc. disseisivit Rogerum de Kilmescot de communa pasture sue in Brochton que </Unicode>
+                    <Unicode>&#182; Assisa venit recognitura si Thomas filius Roberti injuste etc. disseisivit Rogerum de Kilmescot de communa pasture sue in Brochton que </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_22" custom="readingOrder {index:1;}">
@@ -74,7 +74,7 @@
                 <Coords points="2,317 154,315 299,310 462,310 652,306 821,309 915,314 990,319 990,287 915,282 821,277 652,274 462,278 299,278 154,283 2,285" />
                 <Baseline points="2,310 154,308 299,303 462,303 652,299 821,302 915,307 990,312" />
                 <TextEquiv>
-                    <Unicode>&#182; Assi ven. recogn si Galfridus filius Galfridi de Ledewych injuste etc. disseisivit Agnetem filiam Johannis de Bracy de libero tenemento suo </Unicode>
+                    <Unicode>&#182; Assisa venit recognitura si Galfridus filius Galfridi de Ledewych injuste etc. disseisivit Agnetem filiam Johannis de Bracy de libero tenemento suo </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_153" custom="readingOrder {index:9;}">
@@ -144,7 +144,7 @@
                 <Coords points="1,737 200,737 380,742 468,743 663,741 891,740 976,738 976,706 891,708 663,709 468,711 380,710 200,705 1,705" />
                 <Baseline points="1,730 200,730 380,735 468,736 663,734 891,733 976,731" />
                 <TextEquiv>
-                    <Unicode>&#182; Ass. ven. rec. si Willelmus de Kalverhale et Johannes filius ejus injuste etc. disseisiverunt Adam filium Petri de Kalverhall et Sibillam uxorem </Unicode>
+                    <Unicode>&#182; Assisa venit recognitura si Willelmus de Kalverhale et Johannes filius ejus injuste etc. disseisiverunt Adam filium Petri de Kalverhall et Sibillam uxorem </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_309" custom="readingOrder {index:19;}">

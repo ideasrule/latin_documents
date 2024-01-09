@@ -18,7 +18,7 @@
                 <Coords points="8,68 278,52 446,42 566,42 810,35 968,36 968,4 810,3 566,10 446,10 278,20 8,36" />
                 <Baseline points="8,61 278,45 446,35 566,35 810,28 968,29" />
                 <TextEquiv>
-                    <Unicode>&#182; Ass venit rec si Alanus le Harpur injuste etc disseisivit Herbertum le Bretun de libero tenementosuo in</Unicode>
+                    <Unicode>&#182; Assisa venit recognitura si Alanus le Harpur injuste etc disseisivit Herbertum le Bretun de libero tenementosuo in</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_22" custom="readingOrder {index:1;}">

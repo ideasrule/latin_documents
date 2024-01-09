@@ -18,7 +18,7 @@
                 <Coords points="11,72 142,69 366,63 629,58 789,54 882,52 882,15 789,17 629,21 366,26 142,32 11,35" />
                 <Baseline points="11,64 142,61 366,55 629,50 789,46 882,44" />
                 <TextEquiv>
-                    <Unicode>Ass venit rec si Willelmus de la Grene Capellanus et Nicholaus frater ejus injuste etc. disseisiverunt Willelmum </Unicode>
+                    <Unicode>Assisa venit recognitura si Willelmus de la Grene Capellanus et Nicholaus frater ejus injuste etc. disseisiverunt Willelmum </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_23" custom="readingOrder {index:1;}">

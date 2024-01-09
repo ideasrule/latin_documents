@@ -33,7 +33,7 @@
                 <Coords points="17,127 126,123 196,127 313,125 498,128 638,125 853,118 1047,111 1046,96 852,103 638,110 498,113 313,110 196,112 126,108 16,112"/>
                 <Baseline points="17,127 126,123 196,127 313,125 498,128 638,125 853,118 1047,111"/>
                 <TextEquiv>
-                    <Unicode>et maritagium suum et in que idem Iohannes non habet ingressum nisi per lohannem de Assheton seniorem cui predictus Robertus </Unicode>
+                    <Unicode>et maritagium suum et in que idem Iohannes non habet ingressum nisi per Iohannem de Assheton seniorem cui predictus Robertus </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_60" custom="readingOrder {index:3;}">

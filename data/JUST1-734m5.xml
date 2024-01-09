@@ -18,7 +18,7 @@
                 <Coords points="17,55 110,53 331,36 525,35 825,36 990,36 990,0 825,0 525,0 331,0 110,15 17,17" />
                 <Baseline points="17,47 110,45 331,28 525,27 825,28 990,28" />
                 <TextEquiv>
-                    <Unicode>&#182; Ass venit rec si Colemanus de Ludelawe avunculus Colemanni de Ludelawe fuit seisitus in dominico suo </Unicode>
+                    <Unicode>&#182; Assisa venit recognitura si Colemanus de Ludelawe avunculus Colemanni de Ludelawe fuit seisitus in dominico suo </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_22" custom="readingOrder {index:1;}">

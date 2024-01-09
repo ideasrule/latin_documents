@@ -18,7 +18,7 @@
                 <Coords points="6,68 156,59 266,58 501,51 702,47 951,38 951,1 702,10 501,14 266,21 156,22 6,31" />
                 <Baseline points="6,60 156,51 266,50 501,43 702,39 951,30" />
                 <TextEquiv>
-                    <Unicode>&#182; Ass. ven. rec. si Michaelis de Morton injuste etc. disseisivit Willemum flium Thome de libero tenemento suo in Norton post </Unicode>
+                    <Unicode>&#182; Assisa venit recognitura si Michaelis de Morton injuste etc. disseisivit Willemum flium Thome de libero tenemento suo in Norton post </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_22" custom="readingOrder {index:1;}">
@@ -60,7 +60,7 @@
                 <Coords points="9,308 68,306 271,302 461,297 574,300 651,296 878,290 961,287 961,250 878,253 651,259 574,263 461,260 271,265 68,269 9,271" />
                 <Baseline points="9,300 68,298 271,294 461,289 574,292 651,288 878,282 961,279" />
                 <TextEquiv>
-                    <Unicode>&#182; Ass. ven. rec. si Rogerus filius Celestrie et Nicholaus Tubbe injuste etc. disseisiverunt Willemum le Flemmeng de commu</Unicode>
+                    <Unicode>&#182; Assisa venit recognitura si Rogerus filius Celestrie et Nicholaus Tubbe injuste etc. disseisiverunt Willemum le Flemmeng de commu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_113" custom="readingOrder {index:7;}">
