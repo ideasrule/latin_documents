@@ -88,7 +88,7 @@
                 <Coords points="33,349 172,349 408,353 632,350 825,342 1037,337 1037,310 825,315 632,323 408,326 172,322 33,322" />
                 <Baseline points="33,343 172,343 408,347 632,344 825,336 1037,331" />
                 <TextEquiv>
-                    <Unicode>placeam illam dedit Henrico de Audewyncle persone ecclesie de Clopton consanguineo predicti Iohannis de Thorp cuius </Unicode>
+                    <Unicode>placeam illam dedit Henrico de Audewyncle person ecclesie de Clopton consanguineo predicti Iohannis de Thorp cuius </Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_166" custom="readingOrder {index:11;}">
