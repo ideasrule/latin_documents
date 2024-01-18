@@ -197,7 +197,7 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_327" custom="readingOrder {index:26;}">
-                <Coords points="46,1089 207,1080 287,1072 438,1071 581,1069 581,1032 438,1034 287,1035 207,1043 46,1052" />
+                <Coords points="46,1088 207,1080 287,1072 438,1071 581,1069 581,1032 438,1034 287,1035 207,1043 46,1052" />
                 <Baseline points="46,1081 207,1072 287,1064 438,1063 581,1061" />
                 <TextEquiv>
                     <Unicode>per visum recognitorum. Et predicti Willelmus de la Grene et alii in misericordia.</Unicode>

@@ -57,7 +57,7 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="l_106" custom="readingOrder {index:6;}">
-                <Coords points="6,215 274,224 524,229 524,201 274,196 6,187" />
+                <Coords points="6,215 274,224 524,224 524,201 274,196 6,187" />
                 <Baseline points="6,209 274,218 524,223" />
                 <TextEquiv>
                     <Unicode>tenentes terras eiusdem Nicolai, et nichil de euasione super dictum Robertum etc.</Unicode>
