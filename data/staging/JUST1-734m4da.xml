@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
   <Metadata>
     <Creator>kraken 4.3.14.dev11</Creator>
@@ -22,7 +22,14 @@
           <Unicode>de Tonge quominus idem Abbas in futurum habere possit racionabile estoverium suum ad grangeam suam de Lysyard  </Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="line_2">
+      <TextLine id="textblock_1_l29">
+        <Coords points="120.343,107.361 165.343,103.361 167.552,128.213 122.552,132.213"/>
+        <Baseline points="122,126 167,122"/>
+        <TextEquiv>
+          <Unicode>debet </Unicode>
+        </TextEquiv>
+      </TextLine>
+    <TextLine id="line_2">
         <Coords points="15,153 121,149 121,149 122,149 129,147 159,148 167,148 168,148 168,148 171,147 190,142 235,143 235,143 236,143 250,138 369,134 403,137 406,137 406,137 407,137 408,137 417,133 436,136 437,136 469,131 499,133 500,133 500,133 511,129 565,129 566,129 582,126 609,129 627,131 627,131 647,127 674,123 729,124 778,125 779,125 806,120 822,118 835,119 856,121 856,121 892,117 921,113 981,113 981,107 980,84 939,85 938,85 919,81 919,81 898,85 871,81 870,81 802,86 748,86 747,86 725,90 693,88 692,88 692,88 671,95 664,97 655,96 627,91 627,91 590,97 572,93 572,93 571,93 557,98 540,96 539,96 519,101 507,104 499,101 479,96 478,96 478,96 446,104 442,104 433,104 409,103 409,103 408,103 400,105 393,108 377,108 371,107 350,101 349,101 349,101 321,103 321,103 303,109 302,109 302,109 282,104 282,104 281,104 232,108 232,108 215,112 196,117 57,122 14,120 15,147 15,153"/>
         <Baseline points="15,147 160,141 266,132 494,127 655,119 981,107"/>
         <TextEquiv>
@@ -204,13 +211,6 @@
           <Unicode>predicta estoveria sua sibi et successoribus suis penitus deperirent. </Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="textblock_1_l29">
-        <Coords points="120.343,107.361 165.343,103.361 167.552,128.213 122.552,132.213"/>
-        <Baseline points="122,126 167,122"/>
-        <TextEquiv>
-          <Unicode>debet </Unicode>
-        </TextEquiv>
-      </TextLine>
-    </TextRegion>
+      </TextRegion>
   </Page>
 </PcGts>

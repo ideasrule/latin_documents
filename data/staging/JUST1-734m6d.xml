@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
   <Metadata>
     <Creator>kraken 4.3.14.dev11</Creator>
@@ -141,7 +141,14 @@
           <Unicode>seisina tempore predicti Willelmi patris sui et eciam post mortem ipsius Willelmi per tres septimanas et amplius quousque predictus Galfridus et alii ipsum</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="line_20">
+      <TextLine id="textblock_1_l38">
+        <Coords points="108.072,631.415 160.072,634.415 158.643,659.195 106.643,656.195"/>
+        <Baseline points="107,650 159,653"/>
+        <TextEquiv>
+          <Unicode>et disseisiverunt</Unicode>
+        </TextEquiv>
+      </TextLine>
+    <TextLine id="line_20">
         <Coords points="24,663 24,677 35,675 44,678 46,679 46,679 83,679 84,679 84,679 85,679 97,672 113,675 113,675 138,673 145,677 146,677 146,677 147,677 148,677 148,677 154,673 166,677 167,677 168,677 168,677 180,674 206,683 208,668 208,640 196,637 195,637 195,637 194,637 193,637 190,640 181,647 169,647 159,639 155,635 155,635 155,635 154,635 119,634 118,634 117,634 117,634 113,637 104,645 95,645 87,639 86,639 86,639 85,639 84,639 70,644 24,633 24,663"/>
         <Baseline points="24,663 208,668"/>
         <TextEquiv>
@@ -260,13 +267,6 @@
           <Unicode>plegii sui de prosequendo in misericordia. Pauper est. </Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="textblock_1_l38">
-        <Coords points="108.072,631.415 160.072,634.415 158.643,659.195 106.643,656.195"/>
-        <Baseline points="107,650 159,653"/>
-        <TextEquiv>
-          <Unicode>et disseisiverunt</Unicode>
-        </TextEquiv>
-      </TextLine>
-    </TextRegion>
+      </TextRegion>
   </Page>
 </PcGts>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
   <Metadata>
     <Creator>kraken 4.3.14.dev11</Creator>
@@ -64,7 +64,14 @@
           <Unicode>dictum stagnum relevetur in statu quo prius ad custum predictorum Rogeri et aliorum et ipsi in misericordia. </Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="line_9">
+      <TextLine id="textblock_1_l30">
+        <Coords points="0.620785,261.798 48.6208,260.798 49.1264,285.067 1.1264,286.067"/>
+        <Baseline points="1,280 49,279"/>
+        <TextEquiv>
+          <Unicode>Dampna </Unicode>
+        </TextEquiv>
+      </TextLine>
+    <TextLine id="line_9">
         <Coords points="9,305 8,311 90,313 91,313 109,310 152,314 152,314 175,310 254,318 259,318 260,318 262,318 299,313 329,316 329,316 408,316 447,322 451,323 452,323 454,323 476,317 514,317 556,325 560,326 561,326 566,326 608,322 672,326 672,326 768,325 791,329 791,329 810,326 851,332 858,333 859,333 867,333 912,330 924,333 924,333 964,335 966,326 966,303 938,295 937,295 937,295 904,301 902,301 861,300 857,299 835,294 834,294 808,297 781,292 780,292 750,295 723,292 722,292 689,294 668,295 653,293 619,287 618,287 595,290 582,293 564,289 537,284 537,284 522,287 473,283 473,283 457,286 430,282 430,282 411,284 397,287 387,283 379,281 379,281 378,281 367,283 345,287 265,285 213,278 195,276 194,276 187,277 164,282 142,276 142,276 141,276 122,281 89,281 56,272 54,272 9,271 9,305"/>
         <Baseline points="9,305 172,306 361,312 490,313 966,326"/>
         <TextEquiv>
@@ -211,13 +218,6 @@
           <Unicode>est quod predicti Willelmus et Margeria inde sine die et Juliana nichil capiat per assisam istam et sit in misericordia pro falso clamore.</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="textblock_1_l30">
-        <Coords points="0.620785,261.798 48.6208,260.798 49.1264,285.067 1.1264,286.067"/>
-        <Baseline points="1,280 49,279"/>
-        <TextEquiv>
-          <Unicode>Dampna </Unicode>
-        </TextEquiv>
-      </TextLine>
-    </TextRegion>
+      </TextRegion>
   </Page>
 </PcGts>
