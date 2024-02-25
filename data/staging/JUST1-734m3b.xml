@@ -3,7 +3,7 @@
   <Metadata>
     <Creator>kraken 4.3.14.dev11</Creator>
     <Created>2024-01-10T06:01:59.292781+00:00</Created>
-    <LastChange>2024-01-18T03:29:30Z</LastChange>
+    <LastChange>2024-02-25T00:54:46Z</LastChange>
   </Metadata>
   <Page imageFilename="JUST1-734m3b.jpeg" imageHeight="602" imageWidth="971">
     <TextRegion id="textblock_1">
@@ -12,7 +12,7 @@
         <Coords points="16,36 15,45 23,46 23,46 28,45 42,43 129,43 156,45 166,46 166,46 173,45 191,43 238,45 252,46 252,46 282,45 378,43 395,45 442,51 442,51 497,51 497,51 532,47 552,51 553,51 640,51 640,51 656,48 672,50 673,50 689,48 716,51 716,51 798,51 798,51 826,46 847,46 847,46 854,44 860,43 875,44 902,46 902,46 924,44 939,43 950,44 950,38 950,17 932,17 931,16 905,12 905,12 887,16 885,17 673,17 661,14 634,9 634,9 594,11 576,9 576,9 556,12 537,9 537,9 520,11 444,9 444,9 424,12 411,14 395,12 386,11 386,11 379,12 359,15 329,12 310,10 263,9 263,9 244,11 213,14 186,11 176,9 175,9 167,10 132,15 105,10 101,9 101,9 88,10 57,11 16,9 16,36"/>
         <Baseline points="12,36 132,39 449,39 679,43 950,38"/>
         <TextEquiv>
-          <Unicode>¶ assisa uenit recognitura si Robertus Corbet iniuste etc. disseisivit Egidium de Erdintono de comuna pasture sue in Mortonum et  </Unicode>
+          <Unicode>¶ assisa uenit recognitura si Robertus Corbet iniuste etc. disseisivit Egidium de Erdintono de comuna pasture sue in Mortonum et</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="line_1">
@@ -82,7 +82,7 @@
         <Coords points="24,423 24,430 151,430 153,431 171,434 231,438 231,438 263,438 263,438 280,435 301,437 302,437 315,435 332,438 332,438 375,438 375,438 407,433 495,435 495,435 508,434 541,438 541,438 562,436 579,438 579,438 682,437 711,435 751,437 751,437 790,433 828,436 828,436 845,432 856,432 871,431 944,432 945,427 944,398 911,403 895,400 895,400 861,405 814,400 813,400 803,403 792,401 792,401 775,404 735,402 735,402 712,406 601,406 570,403 569,403 537,406 478,406 453,400 453,400 436,401 422,399 422,399 377,401 346,406 333,404 333,404 277,404 224,398 220,397 184,397 184,397 181,398 166,400 154,398 152,397 152,397 24,397 24,423"/>
         <Baseline points="20,422 119,424 215,430 320,432 718,433 945,427"/>
         <TextEquiv>
-          <Unicode>Juratores dicunt quod predictus Robertus disseisivit predictum Egidium de predicta comuna pasture Iniuste etc. sicut breve dicit Quia dicunt</Unicode>
+          <Unicode>Juratores dicunt quod predictus Robertus disseisivit predictum Egidium de predicta comuna pasture Iniuste etc. sicut breve dicit Quia dicunt </Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="line_11">
@@ -110,7 +110,7 @@
         <Coords points="43,572 43,582 51,586 51,586 72,586 72,586 82,584 89,587 90,587 103,587 104,587 116,584 126,582 134,585 142,588 143,588 164,588 164,588 182,588 183,588 187,586 204,589 204,589 216,586 227,584 254,586 255,586 255,586 260,585 265,587 266,587 266,587 273,586 277,588 284,591 284,591 284,591 297,591 297,591 298,591 306,588 308,588 326,589 327,589 327,589 336,586 373,587 376,589 377,589 377,589 377,589 405,588 434,588 449,592 450,584 450,557 422,556 422,556 422,556 421,556 412,559 402,558 402,558 401,558 387,563 375,563 355,562 337,557 336,557 336,557 322,561 294,561 278,554 278,554 278,554 277,554 258,560 234,552 233,552 233,552 216,555 211,552 210,552 196,552 196,552 196,552 187,556 150,557 119,549 119,549 119,549 118,549 118,549 97,556 90,556 73,548 72,548 43,548 43,572"/>
         <Baseline points="25,571 106,577 183,580 276,583 450,584"/>
         <TextEquiv>
-          <Unicode>quod predictus Egidius recuperet seisinam suam et Robertus in misericordia. </Unicode>
+          <Unicode>quod predictus Egidius recuperet seisinam suam et Robertus in misericordia.</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>

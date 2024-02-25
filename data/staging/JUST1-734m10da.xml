@@ -3,7 +3,7 @@
   <Metadata>
     <Creator>kraken 4.3.14.dev11</Creator>
     <Created>2024-01-10T05:48:41.219567+00:00</Created>
-    <LastChange>2024-01-18T03:24:11Z</LastChange>
+    <LastChange>2024-02-25T00:51:34Z</LastChange>
   </Metadata>
   <Page imageFilename="JUST1-734m10da.jpeg" imageHeight="621" imageWidth="992">
     <TextRegion id="textblock_1">
@@ -19,7 +19,7 @@
         <Coords points="652,50 612,54 582,53 555,47 555,47 519,51 439,49 415,44 415,44 385,45 372,43 371,43 346,46 244,34 238,34 25,27 24,47 24,57 181,61 188,63 199,64 199,64 221,64 238,63 249,65 273,68 273,68 285,66 287,66 309,66 316,67 380,73 448,75 448,75 456,74 472,76 472,76 494,74 551,77 552,77 571,76 585,75 602,77 621,79 621,79 634,78 642,77 652,79 674,82 674,82 715,81 754,80 789,83 820,86 931,90 932,90 942,89 953,87 977,90 978,84 978,57 955,57 954,57 928,60 910,57 910,57 889,59 862,55 862,55 797,56 744,55 744,55 715,57 689,56 652,50 652,50"/>
         <Baseline points="24,47 138,54 170,58 293,63 403,70 785,78 900,85 978,84"/>
         <TextEquiv>
-          <Unicode>quod quando predictus Willelmus fecerat predictam feloniam seisiuit dominus Rex in manum suam omnes terras et tenementa ipsius Willelmi scilicet tam pre </Unicode>
+          <Unicode>quod quando predictus Willelmus fecerat predictam feloniam seisiuit dominus Rex in manum suam omnes terras et tenementa ipsius Willelmi scilicet tam pre</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="line_2">
@@ -47,14 +47,14 @@
         <Coords points="24,180 93,180 133,184 135,184 136,184 138,184 163,183 175,185 185,187 185,187 198,186 207,185 215,186 226,189 227,189 234,187 246,185 297,187 341,191 360,193 449,196 450,196 463,195 486,194 511,197 519,198 520,198 534,198 580,197 645,202 664,203 665,203 673,203 703,201 738,205 746,206 773,206 859,207 978,214 980,209 980,181 950,179 950,179 945,180 915,184 885,178 869,175 837,173 837,173 802,176 780,178 764,175 763,175 749,178 696,177 673,172 655,169 655,169 636,171 636,171 620,168 620,168 600,170 595,171 590,170 563,165 563,165 539,168 518,164 518,164 483,166 430,159 430,159 364,160 346,156 257,153 257,153 237,156 191,153 191,153 135,157 130,157 25,154 24,176 24,180"/>
         <Baseline points="24,176 237,179 356,187 525,191 666,198 722,198 980,209"/>
         <TextEquiv>
-          <Unicode>alium quem episcopus Cestrensis prefecerat Abbatem Salopem. Et dicunt quod postea in processu temporis dominus Rex dedit omnes terras </Unicode>
+          <Unicode>alium quem episcopus Cestrensis prefecerat Abbatem Salopem. Et dicunt quod postea in processu temporis dominus Rex dedit omnes terras</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="line_6">
         <Coords points="978,217 939,210 902,209 902,209 882,212 838,208 838,208 805,212 776,206 776,206 755,207 737,203 736,203 693,204 671,201 671,201 655,204 637,201 637,201 622,203 609,201 609,201 577,204 541,198 434,195 433,195 421,197 412,195 411,195 411,195 401,196 375,194 374,194 327,202 323,202 24,195 23,211 23,214 181,218 183,219 192,221 192,221 224,220 237,220 242,220 254,222 254,222 262,221 266,220 271,221 288,224 288,224 308,222 315,222 330,223 351,224 352,224 360,224 367,223 375,224 394,227 395,227 436,226 462,225 473,227 506,232 630,235 631,235 648,233 672,236 758,238 758,238 783,235 783,235 784,235 813,239 814,239 895,239 905,239 910,239 951,243 951,243 978,241 979,237 978,217"/>
         <Baseline points="23,211 270,216 382,221 525,224 586,228 728,229 850,235 979,237"/>
         <TextEquiv>
-          <Unicode>et tenementa que fuerunt predicti Willelmi Burnel in predictis villis de Roclegh. Langelegh. et Hothal. cuidam Elye de Ekingham </Unicode>
+          <Unicode>et tenementa que fuerunt predicti Willelmi Burnel in predictis villis de Roclegh. Langelegh. et Hothal. cuidam Elye de Ekingham</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="line_7">
@@ -68,7 +68,7 @@
         <Coords points="975,282 940,282 937,281 918,278 864,278 812,270 811,270 753,275 732,276 708,276 697,273 689,271 689,271 680,272 669,273 658,272 648,270 647,270 636,271 616,273 599,270 595,269 595,269 592,269 582,271 567,269 565,268 541,263 500,263 500,263 483,265 476,267 468,265 446,261 392,260 391,260 350,261 347,261 320,265 293,263 293,263 258,264 239,260 239,260 210,263 149,262 120,257 120,257 112,258 82,252 79,252 23,250 22,274 22,276 51,277 52,277 73,282 73,282 105,280 119,282 119,282 155,282 170,284 170,284 189,282 195,281 220,283 237,284 237,284 241,284 254,282 281,284 457,287 506,293 508,293 508,293 509,293 518,292 523,293 532,295 593,296 607,296 612,296 650,300 745,303 745,303 758,301 763,301 770,302 788,304 974,308 975,307 975,282"/>
         <Baseline points="22,274 400,281 503,286 590,293 817,300 905,305 975,307"/>
         <TextEquiv>
-          <Unicode>aliquis aliusaliquid iuris adhuc tunc vendicabat in predicta terra. Et dicunt quod post mortem predicti Elye, reuertebatur</Unicode>
+          <Unicode>aliquis aliusaliquid iuris adhuc tunc vendicabat in predicta terra. Et dicunt quod post mortem predicti Elye, reuertebatur </Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="line_9">
@@ -89,7 +89,7 @@
         <Coords points="21,370 20,375 58,377 58,377 105,373 141,375 156,379 157,379 157,379 176,377 203,377 223,382 255,384 256,384 286,381 351,388 351,388 383,386 483,392 483,392 515,391 532,393 533,393 580,393 617,399 617,399 637,398 658,402 658,402 690,398 745,406 745,406 876,411 876,411 908,409 941,414 941,414 974,415 975,411 976,381 901,383 867,377 861,376 861,376 853,377 823,379 799,375 788,373 788,373 780,374 748,378 707,371 697,370 670,368 624,366 624,366 609,368 541,363 541,363 519,365 516,365 514,365 498,361 444,359 444,359 424,362 411,363 379,360 369,359 369,359 364,360 346,361 227,357 209,354 140,346 139,346 112,351 109,351 91,350 45,347 45,347 21,348 21,370"/>
         <Baseline points="21,370 114,371 326,381 514,388 618,394 702,397 804,405 934,408 975,411"/>
         <TextEquiv>
-          <Unicode>postea ex quo dominus Rex accepit per inquisicionem illam quod predicta terra est de feodo ipsius Abbatis, reddidit eidem Abbati</Unicode>
+          <Unicode>postea ex quo dominus Rex accepit per inquisicionem illam quod predicta terra est de feodo ipsius Abbatis, reddidit eidem Abbati </Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="line_12">
@@ -103,7 +103,7 @@
         <Coords points="17,440 124,446 124,446 140,445 148,444 246,447 251,449 257,450 257,450 278,450 308,450 322,451 349,456 350,456 411,455 449,455 473,457 487,459 487,459 505,458 529,458 542,460 556,462 609,462 631,465 698,466 751,469 751,469 766,468 769,468 771,468 781,470 831,472 831,472 841,471 849,470 858,471 860,472 860,472 865,472 906,471 970,476 971,470 972,454 906,452 902,451 877,446 877,446 855,448 811,440 790,440 790,440 742,446 691,437 691,437 682,438 669,436 669,436 637,440 597,433 597,433 569,434 556,431 526,430 526,430 508,433 488,429 487,429 464,430 349,424 286,424 286,424 253,429 250,429 18,421 17,439 17,440"/>
         <Baseline points="17,439 203,442 354,451 442,451 624,460 849,468 971,470"/>
         <TextEquiv>
-          <Unicode>positus fuit Inde in plenaria seisina per balliuos eiusdem vicecomitis. Et quod seisina sua pacifice vsus est circiter per dimidiam annum. Ita </Unicode>
+          <Unicode>positus fuit Inde in plenaria seisina per balliuos eiusdem vicecomitis. Et quod seisina sua pacifice vsus est circiter per dimidiam annum. Ita</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="line_15">
@@ -131,7 +131,7 @@
         <Coords points="892,579 859,575 859,575 842,576 810,569 810,569 760,574 752,574 674,572 666,570 661,569 661,569 641,569 596,569 586,566 571,563 570,563 537,563 520,559 520,559 501,560 490,558 449,556 449,556 437,558 415,555 414,555 397,558 394,559 391,558 377,554 377,554 344,553 344,553 323,555 305,557 286,554 267,550 267,550 254,552 230,556 172,549 149,546 148,546 139,547 114,552 89,545 85,545 85,545 85,545 80,545 65,546 50,544 45,543 26,543 25,568 25,577 112,579 121,580 163,588 164,588 201,583 209,582 224,584 255,588 255,588 283,586 288,586 292,586 340,595 450,599 450,599 482,596 504,600 504,600 558,600 641,605 641,605 691,599 692,599 749,601 790,602 800,605 800,605 801,605 819,603 819,603 821,603 844,606 844,606 890,605 891,602 892,579"/>
         <Baseline points="18,566 133,573 262,575 386,579 411,582 539,586 595,591 728,594 842,599 891,602"/>
         <TextEquiv>
-          <Unicode>iuste etc. Sicut breve dicit. Et Ideo consideratum est quod predictus Abbas recuperet seisinam suam per visum recognitorum. Et Willelmus in misericordia. </Unicode>
+          <Unicode>iuste etc. Sicut breve dicit. Et Ideo consideratum est quod predictus Abbas recuperet seisinam suam per visum recognitorum. Et Willelmus in misericordia.</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>
